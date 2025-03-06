@@ -13,10 +13,11 @@ Input:
 - UART
 
 Output:
-- 161 bits chiffrés 
+- 181 octets chiffrés 
 - UART
 
-
+ASCON:
+- DA ou data sur 64 bits (21 paquets de 64 bits pour les 161 octets d'ECG. Le 21e a un padding de x 0)
 
 Liste tâches:
 - Comprendre ASCON
@@ -30,3 +31,9 @@ On chiffre à chaque fois un ECG complet
 Modules à écrire:
 - FSM pour ASCON
 - FSM pour piloter bloc ASCON et Initialisation
+
+
+## Liens
+
+https://ascon.isec.tugraz.at/specification.html
+
