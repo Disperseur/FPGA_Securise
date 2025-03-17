@@ -27,10 +27,9 @@ module fsm_ascon(
         input logic         start_i,
         input logic [1471:0] data_i,
 
+        input logic [63:0] associate_data_i,
         input logic         end_associate_i,
-        input logic [ 63:0] cipher_i,
         input logic         cipher_valid_i,
-        input logic [127:0] tag_i,
         input logic         end_tag_i,
         input logic         end_initialisation_i,
         input logic         end_cipher_i,
@@ -40,9 +39,7 @@ module fsm_ascon(
         output logic         associate_data_o, //0: plain text; 1: DA
         output logic         finalisation_o,
         output logic [ 63:0] data_o,
-        output logic         data_valid_o,
-        output logic [127:0] key_o,
-        output logic [127:0] nonce_o      
+        output logic         data_valid_o
     );
 
     // fsm states
@@ -112,7 +109,6 @@ module fsm_ascon(
                 end
             end
 
-            // 
             associate_data: begin
                 next_state = end_associate_data;
             end
@@ -125,6 +121,8 @@ module fsm_ascon(
                 if (end_associate_i == 1'b1) begin
                     next_state = pt_set_data;
                 end
+
+                mux_ctrl_s = 0;
             end
 
 
@@ -180,13 +178,6 @@ module fsm_ascon(
 
 
 
-
-
-
-    // fsm outputs
-    assign key_o = 128'h8A_55_11_4D_1C_B6_A9_A2_BE_26_3D_4D_7A_EC_AA_FF;
-    assign nonce_o = 128'h4E_D0_EC_0B_98_C5_29_B7_C8_CD_DF_37_BC_D0_28_4A;
-
     always_comb begin
         case(state)
             idle: begin
@@ -195,7 +186,6 @@ module fsm_ascon(
                 finalisation_o = 1'b0;
                 data_o = 64'h0;
                 data_valid_o = 1'b0;
-                mux_ctrl_s = 0;
             end
 
             init: begin
@@ -204,7 +194,6 @@ module fsm_ascon(
                 finalisation_o = 1'b0;
                 data_o = 64'h0;
                 data_valid_o = 1'b0;
-                mux_ctrl_s = 0;
             end
 
             wait_end_init: begin
@@ -213,34 +202,30 @@ module fsm_ascon(
                 finalisation_o = 1'b0;
                 data_o = 64'h0;
                 data_valid_o = 1'b0;
-                mux_ctrl_s = 0;
             end
 
             associate_data: begin
                 init_o = 1'b0;
                 associate_data_o = 1'b1;
                 finalisation_o = 1'b0;
-                data_o = 64'h41_20_74_6F_20_42_80_00;
+                data_o = associate_data_i; //64'h41_20_74_6F_20_42_80_00;
                 data_valid_o = 1'b0;
-                mux_ctrl_s = 0;
             end
 
             end_associate_data: begin
                 init_o = 1'b0;
                 associate_data_o = 1'b1;
                 finalisation_o = 1'b0;
-                data_o = 64'h41_20_74_6F_20_42_80_00;
+                data_o = associate_data_i;//64'h41_20_74_6F_20_42_80_00;
                 data_valid_o = 1'b1;
-                mux_ctrl_s = 0;
             end
 
             wait_end_associate: begin
                 init_o = 1'b0;
                 associate_data_o = 1'b0;
                 finalisation_o = 1'b0;
-                data_o = 64'h41_20_74_6F_20_42_80_00;
+                data_o = associate_data_i; //64'h41_20_74_6F_20_42_80_00;
                 data_valid_o = 1'b0;
-                mux_ctrl_s = 0;
             end
 
             // deb for
