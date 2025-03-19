@@ -1,0 +1,269 @@
+*********************************************************************************************************
+Valeur initiale    : 80400c0600000000 8a55114d1cb6a9a2 be263d4d7aecaaff 4ed0ec0b98c529b7 c8cddf37bcd0284a
+*********************************************************************************************************
+-- Permutation (r=00)
+Addition constante : 80400c0600000000 8a55114d1cb6a9a2 be263d4d7aecaa0f 4ed0ec0b98c529b7 c8cddf37bcd0284a
+Substitution S-box : 78e2cc41faabaa1a bc7a2e775aababf7 4b81c0cbbdb5fc1a b22e133e424f0250 044d33702433805d
+Diffusion linéaire : a71b22fa2d0f5150 b11e0a9a608e0016 076f27ad4d99d5e7 a72ac1ad8440b0b7 0657b0d6eaf9c1c4
+-- Permutation (r=01)
+Addition constante : a71b22fa2d0f5150 b11e0a9a608e0016 076f27ad4d99d506 a72ac1ad8440b0b7 0657b0d6eaf9c1c4
+Substitution S-box : 1642cee0845634e5 17397d1b2a296525 49dbe29ab8516baf 110e5ecc42a8a463 b16f79e94eb17171
+Diffusion linéaire : 95bd2279b9a6ca67 98a6c708314c3ef7 50117c5d8e989bd6 5bfb95dcdede2f1e a6aaffa224f4a42f
+-- Permutation (r=02)
+Addition constante : 95bd2279b9a6ca67 98a6c708314c3ef7 50117c5d8e989b04 5bfb95dcdede2f1e a6aaffa224f4a42f
+Substitution S-box : 06f78df0c9e474ce f8e8260e6284dbb3 93482e88600bda2d 354ad12a447a6e84 75f1687eda269b86
+Diffusion linéaire : 162901ce5722b2fe 236c1fca1153d660 eca11976718e1853 a305993b667e5222 467799e3e4a82e05
+-- Permutation (r=03)
+Addition constante : 162901ce5722b2fe 236c1fca1153d660 eca11976718e1890 a305993b667e5222 467799e3e4a82e05
+Substitution S-box : 5a8d9f035181aa4c 9fb31ed0c4775209 7440f9831fa21d0a 38b60762b72b300f c652071a82873e27
+Diffusion linéaire : 77deb0974ab83049 c3a306f2f4f2a478 67b186a49c0d9bfb a37fb6b86c37a156 049fe08ba4611958
+-- Permutation (r=04)
+Addition constante : 77deb0974ab83049 c3a306f2f4f2a478 67b186a49c0d9b4f a37fb6b86c37a156 049fe08ba4611958
+Substitution S-box : 701380c93ea00e70 979fe0421626162e 5f6d3faa1740d8c0 53ec76e1a2018778 274250d1d8743c66
+Diffusion linéaire : 9bdd69cc4f812537 af4cae7efa39989a 71a61481b4bdb7c3 4e44a40a2119d619 83e0ee6e48d77536
+-- Permutation (r=05)
+Addition constante : 9bdd69cc4f812537 af4cae7efa39989a 71a61481b4bdb766 4e44a40a2119d619 83e0ee6e48d77536
+Substitution S-box : 227bf51b92355cd0 e7d73d5dd8f23ffe a0b50f64f9bdf125 0117d113214b88c3 6ae4623891e72bb5
+Diffusion linéaire : aab43c56cb297f2f 62df33cce2ac6e73 e66d5ceb1685fe73 f5b6146c8d0a4a84 1c7959693a7197d3
+-- Permutation (r=06)
+Addition constante : aab43c56cb297f2f 62df33cce2ac6e73 e66d5ceb1685fee5 f5b6146c8d0a4a84 1c7959693a7197d3
+Substitution S-box : 9b3076d95086a32c 21360a980ef75c0b 7304d9d939a7fa3a 6f4d12700b526fe9 a9dd5fc5b5dfdb54
+Diffusion linéaire : 473fd776ed5ae4a9 189bb0e06f0fd047 a34aa652c19298cf a2e276921e68bedb e2540a9794e08a4d
+-- Permutation (r=07)
+Addition constante : 473fd776ed5ae4a9 189bb0e06f0fd047 a34aa652c1929848 a2e276921e68bedb e2540a9794e08a4d
+Substitution S-box : 5e0d87f675a7c279 1e920b138645007b 043ae148d1e2b7f4 fc6ee9c54147bcb0 58265c058c8da495
+Diffusion linéaire : fc3e8ba2258173aa cd0ed98f425027b5 d6377a699a5466d1 0e098c4844f54dfc 7050566fcd38acf2
+-- Permutation (r=08)
+Addition constante : fc3e8ba2258173aa cd0ed98f425027b5 d6377a699a5466a9 0e098c4844f54dfc 7050566fcd38acf2
+Substitution S-box : a1062588fb305efb 57512a2a361cb405 94960e3eaef31ee1 e546784175c9b2b2 3f59da258b8dc1ab
+Diffusion linéaire : 19dcbe122fe31912 b9b442138c57b67b d88f511903315dea 90a65b7c59b47a3a 7be2af71150576c5
+-- Permutation (r=09)
+Addition constante : 19dcbe122fe31912 b9b442138c57b67b d88f511903315d83 90a65b7c59b47a3a 7be2af71150576c5
+Substitution S-box : 50f1b676f166ba80 0b050a0ce501802e f58448f4749810c2 9ae7ed15e095f607 72c4b61dc8a09cd7
+Diffusion linéaire : 91ca146dc8b303c3 4ae7596b911b8b4a 84907dad9f0678e0 e002999d53672330 d2c56f3f9888bfb5
+-- Permutation (r=10)
+Addition constante : 91ca146dc8b303c3 4ae7596b911b8b4a 84907dad9f0678ba e002999d53672330 d2c56f3f9888bfb5
+Substitution S-box : fd38a95d14d0534b adf89fa49e46478c 234dbd1b796a908a 7db8d229c5e26c37 3a27f68b4aef9f8d
+Diffusion linéaire : ba54e245d2716400 8b00ee0f752f8ad6 1a665562a83a728d 467c02c12687f65d 65f6cea99ae75349
+-- Permutation (r=11)
+Addition constante : ba54e245d2716400 8b00ee0f752f8ad6 1a665562a83a72c6 467c02c12687f65d 65f6cea99ae75349
+Substitution S-box : ec4e33e749cf6acb 02dcd303972bcbd2 4f1b88baba8a06ef 2ab8550023641d04 238a0e6b89492d82
+Diffusion linéaire : 9de1e2d04b50bd86 13141c888a702ce4 55aa22c50d252d83 6530ee4949ecd5b1 1209bee19f4a7ade
+État ^ (0...0 & K) : 9de1e2d04b50bd86 13141c888a702ce4 55aa22c50d252d83 ef65ff04555a7c13 ac2f83ace5a6d021
+*********************************************************************************************************
+Initialisation     : 9de1e2d04b50bd86 13141c888a702ce4 55aa22c50d252d83 ef65ff04555a7c13 ac2f83ace5a6d021
+*********************************************************************************************************
+État ^ donnée A1   : dcc196bf6b123d86 13141c888a702ce4 55aa22c50d252d83 ef65ff04555a7c13 ac2f83ace5a6d021
+Permutation (r=06) : 6cd2c1b2b287b0c6 423d2b547e8a7d01 5f0b0e93df6978c1 56b05138a04da8fd b4829e9ec8fdf810
+Permutation (r=07) : 3250e732757b5a00 6d9d1de5fafaaa26 82a5d3b3e5a04d4e e32c62a9b23a8d3f c2e9c81b76980ad0
+Permutation (r=08) : dccafc13d535eb91 09be20a22fca0821 2445ff8098a70350 7f65f4da0369e5e1 858664143455394f
+Permutation (r=09) : 68c5931aa3d15ac3 e9b062eda6bbbbb9 5e8f2836a737812e 80b70e7daefe40b2 d2b9c864a23891fe
+Permutation (r=10) : 3939a950e35ce0b8 254ad0ecad8f310b efc76e6212b33310 7dc2871f909020d7 c7fc91257d888f7c
+Permutation (r=11) : 7a4f72632fa3767e 124d2d231ef80d56 723440bcff99e60e 7d9bd5ad2d8edde0 a324b6c079d602b4
+État ^ (0...0 & 1) : 7a4f72632fa3767e 124d2d231ef80d56 723440bcff99e60e 7d9bd5ad2d8edde0 a324b6c079d602b5
+*********************************************************************************************************
+Donnée associée A  : 7a4f72632fa3767e 124d2d231ef80d56 723440bcff99e60e 7d9bd5ad2d8edde0 a324b6c079d602b5
+*********************************************************************************************************
+État ^ Texte P1    : 2014293975f92c24 124d2d231ef80d56 723440bcff99e60e 7d9bd5ad2d8edde0 a324b6c079d602b5
+-- Texte chiffré C1 = 0x 20 14 29 39 75 F9 2C 24
+Permutation (r=06) : 55d2f916270e87d4 474ac0fbda47e0d4 830562f0e892256e ba7c78002f4c78f2 5ecce38691e2b68e
+Permutation (r=07) : 01a9aeb2b208a147 93eec4e983404c0a 79547232ba3ac05a 0491ae1546d692be a74aeddd51102cc8
+Permutation (r=08) : 2810a42698292911 b1c49db68f66f3d2 33d0b0b90f19e522 873cadd76a475909 fbb9abb9bcf09869
+Permutation (r=09) : 3eb9a14fb9e1a43e ae7fe9698a5cd8dd 1fca13f7fd049c21 7b4a54434327e0b7 bf56dda33004c02e
+Permutation (r=10) : 7c822fb0473bc065 7263a5f03e866a0b 6858b0926216f814 b95736e1796008bc 33608d2c99acc920
+Permutation (r=11) : 7e2f5bf5030d927b ed365964ef479c4d bb89c3d7f69df44c a7217bf349ce55ca c1a2b5815010218e
+État ^ Texte P2    : 277a15bf4f42c62e ed365964ef479c4d bb89c3d7f69df44c a7217bf349ce55ca c1a2b5815010218e
+-- Texte chiffré C2 = 0x 27 7A 15 BF 4F 42 C6 2E
+Permutation (r=06) : c78d7558dfe94c06 681edcd8cbb1b1bf 2e849a6fbef7ba07 c0748cff37b33cdc e40631aa989f081a
+Permutation (r=07) : b9defd316e3af96f 2d8de1feac2c7259 d9a1d24d23e5d970 e4f13236adfc9871 082d3fd52f54ed7d
+Permutation (r=08) : b031a94403bbc611 176bd61f6d911a53 8a3f5e4dfee5f1b5 2d6fb60a964b3a52 1786d8ab7e052f7d
+Permutation (r=09) : dda9ec7e059fdece aef3d4797271d2c8 bdfe0c7636daa5b6 95fc9f38268ea23a 0a008ce3158ac9c6
+Permutation (r=10) : 5d90700628a163ab 2d1ab1819e602a7e 6a10fc36b1d7f294 be2e7d819cd07c62 136968e1b99db529
+Permutation (r=11) : e63403ee0c7edf59 f68469c535e0c669 3b8839f42a2263e5 71d6d2f1aa7224eb d348b9f8709dd82f
+État ^ Texte P3    : b56550ba5a29870e f68469c535e0c669 3b8839f42a2263e5 71d6d2f1aa7224eb d348b9f8709dd82f
+-- Texte chiffré C3 = 0x B5 65 50 BA 5A 29 87 0E
+Permutation (r=06) : 8cfc52ac4efff0b2 0d814cbb69019b42 ee45abbef22a019a 6287aa39b2597314 ec1d80e590292d40
+Permutation (r=07) : 49d02cb4b69c9a7e 6a15c1f173da54aa 5a721841af1d8cb7 753565c3c555eb5a 1d9caa8cf53673ff
+Permutation (r=08) : 62f1a4d464eb3fd4 270a6df3be9bf320 db84b8d396db447c de457d0de2c57996 1b3de6555b92b7d1
+Permutation (r=09) : 8adf9f9b695f1b1a 5a9962ea3f168d08 af645a6a16c19ef4 8780ba9ddff44def 19e0a998de47ab46
+Permutation (r=10) : 8f5594c7da664075 f0696791df49fbfd ff1a2e59c266444c 1a56d237d4774632 73c949bf074df057
+Permutation (r=11) : b437e6fea6f6ab86 a17e0c3f6893b774 dbc3769eeeb3eba1 27930d642ca33ef5 9dc5f9051eecf71f
+État ^ Texte P4    : ee6dbfa9f0aff0dc a17e0c3f6893b774 dbc3769eeeb3eba1 27930d642ca33ef5 9dc5f9051eecf71f
+-- Texte chiffré C4 = 0x EE 6D BF A9 F0 AF F0 DC
+Permutation (r=06) : 3e296bda512b78ac 49ac305a6af7a07e cbf15625a3f49e67 397d77886476ac33 bf6d923639a7c753
+Permutation (r=07) : 7602022cc7b7da81 c81b718cdf94bb1f 819d9d0be07eb539 42528e91b05db11f d90a4552b77a73c4
+Permutation (r=08) : f37862c162e4a53b 80e432a740da10b1 3c743e6f4fb0b41c 7df34b0f31d7bfde f939775d6fca1a9d
+Permutation (r=09) : 89d2eae1dfc76779 a181a9f773a63ed6 49d9bbc9ff2983cb a4670d32ce46dcb4 98e9a49f55f20917
+Permutation (r=10) : 4084693b10543273 188589aa9af792b7 648456df622b6368 dfcdb2ae5b453d12 ed430f5e2a2cafbd
+Permutation (r=11) : 9f25dc2d3f877d89 e77d5d5229106c93 e88dcb805c126496 75f90601bb446feb 23b3df5a4b1c0aa5
+État ^ Texte P5    : ca71887f6dd732c6 e77d5d5229106c93 e88dcb805c126496 75f90601bb446feb 23b3df5a4b1c0aa5
+-- Texte chiffré C5 = 0x CA 71 88 7F 6D D7 32 C6
+Permutation (r=06) : 2a1329513844c205 2a21f5276d98c24a 28c35e8df0bc9b01 b951c5bbc4698c6c 682b9abb05928a75
+Permutation (r=07) : 41200b6ca0571615 f69a0cdfbc983f78 69583446876050a3 c20f4e42b07f1b5b 5c4914f1830cde96
+Permutation (r=08) : 9b2c7325aeb2bd84 b774044eb8c4e2ef 23b2cb637b98e3e7 830b6a2c609edfd7 6efa0bbd16127f7d
+Permutation (r=09) : c5eb406f9fe0f413 a6a2d5b37c8b50ad dc328d27b358be97 0686c7eac5a1da91 5db5a35c8e52f91f
+Permutation (r=10) : f65cea81dba156db a863e55f7cc32d80 7500bedd5ba8d01b d67db41194d199e9 387babefdc0b4e71
+Permutation (r=11) : 33be0c885e071cf2 fa496c6d083c7fff 73fb82e416931f30 b4f0fa8a31d1f049 08427b61a29de620
+État ^ Texte P6    : 7ff241c5144e58b6 fa496c6d083c7fff 73fb82e416931f30 b4f0fa8a31d1f049 08427b61a29de620
+-- Texte chiffré C6 = 0x 7F F2 41 C5 14 4E 58 B6
+Permutation (r=06) : ecc52cbd3b17f693 ef479eb513aecdac 5891a45c8f7fa723 408e844d47f00219 e5df82025e4cea4c
+Permutation (r=07) : 394aa94e98ec8066 8d9a3f95b0cee35f d4714782175fca9c 27ba39d228cc1ccd 8e17b2772faf932c
+Permutation (r=08) : 93477d3ca8016342 f514efc7accee7b1 a9a1c33cc596ca83 2412a2ceaf8ca5ca d8ee07c8bfb026fc
+Permutation (r=09) : 8b4ef7855b8ffd87 38177921109e40c7 079b265ed7c6679a cf34d2d4c8f37fec 24a5c95528a6b165
+Permutation (r=10) : 4de1feb7a6894d1e 8d3a60b554576425 f70837e7909079e6 1a22de3bd275e73d b20231f2e77f8bbc
+Permutation (r=11) : 9077e927df23384f 311e96f5cb9a228b 6bbc7bfe25535427 aa3d97ae8c461aad 1df83b41911d467a
+État ^ Texte P7    : d730af639d60790f 311e96f5cb9a228b 6bbc7bfe25535427 aa3d97ae8c461aad 1df83b41911d467a
+-- Texte chiffré C7 = 0x D7 30 AF 63 9D 60 79 0F
+Permutation (r=06) : ce0b2245f73258eb 69f7f23468809de1 3611d3055438946a 51cec19f6bdcdebe 20b165c885a78732
+Permutation (r=07) : 55270463028ed8db 77f406ad2b07ba5a 8e3c24235dcb1fd5 3000714bd9c0c1d6 1b295de3ff8fb215
+Permutation (r=08) : 15408311aa154d70 e274c03436d9d8e0 afa5c27e3e1eadad a2d0f4d54e65f6fa fe7ebc21c78c1c81
+Permutation (r=09) : 9be10a2b6d9c11e7 26b98b5e211acea1 f2b88c89983201bc cad44e52280d8564 d21a8150473047fb
+Permutation (r=10) : 0ea8025007e8893d 50030eb3b8647b9f 2ae19458a11356fa efa114b98dded2b5 c184453d7dec73cd
+Permutation (r=11) : c46b9f33e42bdcff ba37c71bc4407494 2181d2889fa6299b 82b370ea45e9d074 5b623cf4672d161b
+État ^ Texte P8    : ff5da70da06295b8 ba37c71bc4407494 2181d2889fa6299b 82b370ea45e9d074 5b623cf4672d161b
+-- Texte chiffré C8 = 0x FF 5D A7 0D A0 62 95 B8
+Permutation (r=06) : 23a722be48a9b14b f7f90ca64d9c9ed2 177932dd270b00ca b8c1d247a778b6c4 3a47c8552760d39b
+Permutation (r=07) : 7266710ce2ee6874 6592c92c33248e18 7fb0ca788d8990c7 86d7ec971124314d d516265603beaf20
+Permutation (r=08) : 9055db47eeabd2cc f6130f7ee6ae9358 0c6076654f237979 af32bd05964c520b abe59b2bf8364ae8
+Permutation (r=09) : 72395ece22af4cbe e900874e6b606ff7 dbf860ba19991389 5f2c9807995dce90 2912ad632aa4c198
+Permutation (r=10) : 614d5e3f8296aa42 229a8237ae9e5c56 542bf72bd6cb59b1 bb9b8b9f0bbb1295 f6fa01f271d3401a
+Permutation (r=11) : 243ac2dfde17fe6a ca2b50b211658448 4c8d75e803c04d9c 3cabd1a70ffa94c9 5008a1688ca91681
+État ^ Texte P9    : 637c849b9d55bd2f ca2b50b211658448 4c8d75e803c04d9c 3cabd1a70ffa94c9 5008a1688ca91681
+-- Texte chiffré C9 = 0x 63 7C 84 9B 9D 55 BD 2F
+Permutation (r=06) : 5d2af856a1a2f1e8 b3580328aed34402 511060706e43c231 5935735d0453cc49 d220d9cd18067714
+Permutation (r=07) : 1182f6855a7314dd 82fbadc4cc5e86bd 2e12426428434259 d19c5ad3d23f1a25 5c3e209cd5ef547d
+Permutation (r=08) : 17bde42fb525eeca 7c29a7e58789db8a 1dd2f8bbdd4bc95a ec27db0e68b7bc10 405d5848739a1d7c
+Permutation (r=09) : 9418b0ce8c5161c1 a6935c51e8019be7 7b0b8212ebf7cd8f 7558d61db58e745f 2e767113245bcbf6
+Permutation (r=10) : 16542ba188ade21c 6df209ae529493d9 08c084e3798553d2 a08b4144c982ee20 0a682e2ff8d8d8e8
+Permutation (r=11) : a4578f3aa7a02826 b8ef4ee18b9670f2 86b947a7717fe071 67bd7e3cca19c466 ed2ec8de4558921d
+État ^ Texte P10    : e312cb7fe1e7626f b8ef4ee18b9670f2 86b947a7717fe071 67bd7e3cca19c466 ed2ec8de4558921d
+-- Texte chiffré C10 = 0x E3 12 CB 7F E1 E7 62 6F
+Permutation (r=06) : dfdf1689e8580ccb 868549056a30b7ac 2058609f6c7c1afd 3c45ed2640172f54 9d667bfcbcd4fc2b
+Permutation (r=07) : 416c3fd921382f5f 83b700279001ec68 bf60a5f112df8d0b 6a605b7f75492abe ae06a01d5acca010
+Permutation (r=08) : b1a5ce8f9318cb5a b26e341f5d5c56d0 f5a53cd569a905ed a7f548a78b1e40a6 79addec26bb99aa6
+Permutation (r=09) : cf90694ad3de64e4 0f54a50269d99407 bfa2a04aa8d00124 ff9f878b2529b909 d61432fd0a4634e1
+Permutation (r=10) : 268a332e9033dad4 5e885c5442bc7055 f1b10889a23a98ec 46708cfecf62da70 408330501627b871
+Permutation (r=11) : 55f8bd1d572e9a32 14a1fe9a902d2b6b 492640df80ffdc56 89335f289086f29b eb03f1d6ec519145
+État ^ Texte P11    : 12bdf5520f47e6a0 14a1fe9a902d2b6b 492640df80ffdc56 89335f289086f29b eb03f1d6ec519145
+-- Texte chiffré C11 = 0x 12 BD F5 52 0F 47 E6 A0
+Permutation (r=06) : 7c33e1e9cdab7b0e e283bbfc50c99b99 e345725f70cffdbc b25b18b621036693 bccb49784e148fa9
+Permutation (r=07) : ed9c7debbb52c233 edf0babb7adb1fe7 dc2f29428b5c2c0e d6a4dab840ac1427 39d5cfd66a3f0447
+Permutation (r=08) : 19f9b6b18dc02c9f 1f717a0c35923c09 2f54184536cf8509 d66409bcb8cd51f0 f74c9f5329e26b7e
+Permutation (r=09) : 8b5552e4f6e614df 9dd471b640bf6a6c fa004620d4b65b66 b7a5a76dd94e640e 4dc84aeb04a648e1
+Permutation (r=10) : 1eb482dbd2595778 42f0e3958b20a8f6 8313ce9d7540fe70 71992c5693c5c19f a7857ca9e71c3674
+Permutation (r=11) : da29b757a5766fe8 6f9ddc4a54355dc8 aef4a1782ed24e86 824327a70a800b02 1a8a956787cee3cf
+État ^ Texte P12    : 74e75aa85a95db94 6f9ddc4a54355dc8 aef4a1782ed24e86 824327a70a800b02 1a8a956787cee3cf
+-- Texte chiffré C12 = 0x 74 E7 5A A8 5A 95 DB 94
+Permutation (r=06) : aa8df2b28630bbaf fe44e96abdc837ed 9d896381b47c52ac 48cb78b8107cf4a3 622da4d3aabcd4c6
+Permutation (r=07) : a5fb839d3bba277d f113d05fc6821205 97e5d239afdd792a 2c44d81c896154bc 6e0ef193995961ba
+Permutation (r=08) : 866b072011258e6e 478b8375d5956409 1dee3d67affe0da9 2539aa15f84d4c0d 9186249f6ba97118
+Permutation (r=09) : e37df4be777c341c 9fc4958858111659 b74616c1db362629 2a7a61799f68c1c4 a85f0e490ca289e1
+Permutation (r=10) : b403a291857b327a 5f0527efdc46204f ad99aa279b86cf11 680666d7f77fc028 40854d49f067ac04
+Permutation (r=11) : 2855f6a5098ee464 5be5f9c2dfc8cb05 b324cf4c9ac05e6a dc790691c6605fd2 a50282c8ead539a0
+État ^ Texte P13    : 6f43f6a11ea7d258 5be5f9c2dfc8cb05 b324cf4c9ac05e6a dc790691c6605fd2 a50282c8ead539a0
+-- Texte chiffré C13 = 0x 6F 43 F6 A1 1E A7 D2 58
+Permutation (r=06) : c549089d355fb8f3 642b62ffe942b729 b5fa9c81bd1ae61d c69ee51a065a3184 6b9d2d73aac7733d
+Permutation (r=07) : 586b759ee3ee0c4b 96ee8aa2847abc4f 50a4313782bf11fe 3b310e43523c3e61 e094b4d771305c30
+Permutation (r=08) : a1d67e23aadecfeb 96abb8a14c7843cb 1e4dc9524f47f37d 18eb238845d77bf7 6d0d6d31618c4511
+Permutation (r=09) : e99cd0a9eb361d83 805375c3cd00d9fe 9b5b542bc5df4f9c 969775c3786f61d3 a519526be3807a6b
+Permutation (r=10) : 507728a729938ca3 9c6e29ccb5a18439 9817cd503322cbd7 c4af03bf087cb831 ba149dcddb0bb280
+Permutation (r=11) : 73ebc77c96630315 28d209bc3a10794c ca5b9eaef1e9957c 5f93c6beca9e229c 4309d29e6f4f7c77
+État ^ Texte P14    : 4cd5873dd722432a 28d209bc3a10794c ca5b9eaef1e9957c 5f93c6beca9e229c 4309d29e6f4f7c77
+-- Texte chiffré C14 = 0x 4C D5 87 3D D7 22 43 2A
+Permutation (r=06) : a1b510fb716be701 5a3efaba08f4eee1 fbb4bd782da1f59b 349f4a8437d22fe4 f4b2cc8bab10d0d8
+Permutation (r=07) : 8f6847f4c5ad66e8 72076e21841ed556 bb06f6dda2b586c7 0247fcd27f562726 b14facd7191bb1a0
+Permutation (r=08) : 8965306b3f5fefd2 441345745a3acddc 9e128d19ae96d62f 6537ee4ee4b2140d d05d666624f09997
+Permutation (r=09) : a9cffd4130879269 573a51bef05afa11 b1bbf4b5c6b696bb 8d57982d32720d44 184b7348300a14ce
+Permutation (r=10) : fe661543a42190e2 11cebdf7e1f46107 99e8fd887eb22c49 66052057b2a5f1ef 8f79e29698a7a604
+Permutation (r=11) : 4a603fefae6626de acb6d8abea435303 6a0b46745d448054 01b27a3595b7db3a 4d9a0a7d59d02ca2
+État ^ Texte P15    : 752000d1955c1de0 acb6d8abea435303 6a0b46745d448054 01b27a3595b7db3a 4d9a0a7d59d02ca2
+-- Texte chiffré C15 = 0x 75 20 00 D1 95 5C 1D E0
+Permutation (r=06) : 48dc9b5bebc0a9dd 895ce03fdf0ab00d b63a7859a0e6ecc3 a3e7d6b71ce1870e de4beb51b51ceaa2
+Permutation (r=07) : 427e862e2969a1de 2b6cdfb9c1f80c0c 88abac8ed50c11b1 f750a05d61b87fd0 c5990b4658945049
+Permutation (r=08) : 68818b21ac1c1610 8755757d79b5cdfc 3f9b8230a1442ca2 8e81faa34196c2ba fda8ec6864d31b2a
+Permutation (r=09) : 55f01ef04d62c497 672b25e32b821f15 0dcdeeb4eae5b833 75c450cfe8626f7e a615c67e40654de5
+Permutation (r=10) : f11bfc97dc6641dc 22c6d883a2f19a2e 14d0c91e41298163 e509cef8ef5857f3 0231472d64f9d72e
+Permutation (r=11) : c643e15ab25f660e a9f602fdb65deb1d f91a7f690eb74f1c 9ab047a7d895cb32 ae77d0834821f5a4
+État ^ Texte P16    : fb7ddd638e1e2048 a9f602fdb65deb1d f91a7f690eb74f1c 9ab047a7d895cb32 ae77d0834821f5a4
+-- Texte chiffré C16 = 0x FB 7D DD 63 8E 1E 20 48
+Permutation (r=06) : 47108866c1ccb5b2 6db65b2d5833332a 7cd34b1749b30da5 705cb1924be49c45 0fdb8819907be564
+Permutation (r=07) : 3862ef518c62f8c2 7c87ed1d23cddb86 4e1173b570af623f 61f4a206ebc7b164 0defcbe3c0953d0c
+Permutation (r=08) : b50f4afbbe195ed7 4a82193971603ab3 7ad6b44f2079da05 26ab6d7713c1bf32 8055bee2ec582f94
+Permutation (r=09) : 0201065a0ab4d42d ce5cb37716ae7e6c f93fdf0dc68ae808 129edf81b7af4967 9b497bcdbe72d64f
+Permutation (r=10) : f8b48e0007447585 81785d49d0334994 c4341ce290d02fd2 5cd2394c37fdd2ad 90595a91c185e971
+Permutation (r=11) : 1dca909e60b4ee4a 615c6408bb377ae6 af0d6954d56e9a31 41358e64fd09a5d9 bff3797da3a0239c
+État ^ Texte P17    : 5b8fd4d926fea205 615c6408bb377ae6 af0d6954d56e9a31 41358e64fd09a5d9 bff3797da3a0239c
+-- Texte chiffré C17 = 0x 5B 8F D4 D9 26 FE A2 05
+Permutation (r=06) : 13e3baef9c53f712 ebf916e27e3e8353 22e7706930c90b11 939085f4cca0e7c6 308b7e0157be0e80
+Permutation (r=07) : 09a7c51a63c687b3 e8c48cd21236911f f5c43942a595195b a5f299614226755a 9f8a7a53c7e737a5
+Permutation (r=08) : 4992cbd6229c1797 6764799018968920 1f6f60e2dc65ba00 f1d77e0153a57ee2 6e5679c62dd1b100
+Permutation (r=09) : f68841f67ca325ff d503be5f7cfe24e1 17294773b0af1a5b 7e6e635c7833b242 79a97fb88154dbe8
+Permutation (r=10) : a2ff8d1fb424c476 845a8ce950b0dad1 7e8f4723a55466ce dba74741d5572650 b996a078b7b65556
+Permutation (r=11) : 3729b61509dd8338 dbdf3839ae172b97 0333345b884477b1 753d22692c3b0af0 917641e2bb57aa17
+État ^ Texte P18    : 7b79e3405b92d26d dbdf3839ae172b97 0333345b884477b1 753d22692c3b0af0 917641e2bb57aa17
+-- Texte chiffré C18 = 0x 7B 79 E3 40 5B 92 D2 6D
+Permutation (r=06) : f1eb2d0519181720 13612e596943ea9c d6642dd892b7a2e1 67719999e40739e2 f93cf2340d369399
+Permutation (r=07) : 678e5727cfa99139 f2069bc93af321a9 81060b0e63924346 21644bc23fdb459a 80b7a91274b6975a
+Permutation (r=08) : 1820c4034cf613b4 434eb5ec7dedd029 aa6b1b80367de080 97cd1a86e9315904 ac938e27df42025f
+Permutation (r=09) : 0824cadb8fb107df 952b1e4823bfc1fe b1579c3d39b39ce3 a830053c3bcda856 7a4f18662532e77d
+Permutation (r=10) : c711ee7af136de56 a6d7fcb7ad8f5fb4 0b0d66bbb2a610cf d960a27840852c85 34de0e9f10577763
+Permutation (r=11) : 56397544b3cb903a 398d5ad6e4040658 783c306b5b0481f5 bb96cc9c685dd04d 5ed3c39205906224
+État ^ Texte P19    : 0f652f1de997cc61 398d5ad6e4040658 783c306b5b0481f5 bb96cc9c685dd04d 5ed3c39205906224
+-- Texte chiffré C19 = 0x 0F 65 2F 1D E9 97 CC 61
+Permutation (r=06) : 23c1fb1c0c5891c7 e2c33d003c89a88a 14e0633966d50afd 46d6a7d9189ae7e3 81e063bde9f08f1b
+Permutation (r=07) : 2202b8a1f6bbe240 45939b7e0ee05483 12a16294efb1f2c8 ff975c87a6ed410a c08fbd425dfae51b
+Permutation (r=08) : 7eed5842fc41eced c0e013bb92c24014 0a046262b17c70c4 50833e1b1d2e7485 f481b4d404d59e45
+Permutation (r=09) : 70ea34fbce16e39b 0a79ce99ce9961b9 c3d2e5a839aa2691 4e2cb3f9ce792001 be464020bdfcd84d
+Permutation (r=10) : ba634cdfe98a1071 4cc36406fcd43b5b 430584fa1d097122 4c59101dd44391d0 d724c5767e938ca9
+Permutation (r=11) : 29a0cea4d8e8ebc7 daaf1b094e30f782 c31f40382a392ff1 cdf1c910d444539d d82b401024dde8de
+État ^ Texte P20    : 70f999f789b8a488 daaf1b094e30f782 c31f40382a392ff1 cdf1c910d444539d d82b401024dde8de
+-- Texte chiffré C20 = 0x 70 F9 99 F7 89 B8 A4 88
+Permutation (r=06) : b9ffc0177eef86ff b2ea254d98b36de1 eebe603adc35f6c9 9447e613cd7445ef 4521209ac24fe117
+Permutation (r=07) : 906a1ef14324b081 76e8d7dd2d5d7834 904449e8e72e6d71 6f2abbdd0083fea3 c467da18e1df5ec1
+Permutation (r=08) : bed2e459c109ab07 4c60e4cdda707077 dff969a895ebdc69 f8bbbfd9a9e5f2b0 4c48046c64c4d78f
+Permutation (r=09) : 56551157a49fb5a9 eefc60e2f64ec3fb c195d22b7587ec9e fec53eb11ddeee91 97291091c8634edd
+Permutation (r=10) : 65c0565560664e1d 35244c59a9f77faa 8a27929938ec6788 a96980d75f343c4f c9c1494c249369a1
+Permutation (r=11) : 374e8fa63e303ef2 265e9392887b035a d843ad8c346debb5 1c96d6aa2d890df9 4486c24e933881b3
+État ^ Texte P21    : 6419d5fa646b63ac 265e9392887b035a d843ad8c346debb5 1c96d6aa2d890df9 4486c24e933881b3
+-- Texte chiffré C21 = 0x 64 19 D5 FA 64 6B 63 AC
+Permutation (r=06) : 2ac048cdcccfbc6a 38c466c1d631ef13 70142a71ae723a18 e42fabd8cf0d9da0 39b77909fedb965a
+Permutation (r=07) : 62e85db17dffbbff 497dc82c0faa2809 df5aed64d604849d 1f9e0fcc55cbcfa2 6e885e1e28e6ad2e
+Permutation (r=08) : d852016a63ee953c 81a52b8984f43f00 f113addd1d761f5c 8aa9fc0936e5916e d1504944917851dd
+Permutation (r=09) : 03335885e7fa5d0e 13ca6afd3dcb4752 5e6da17bab4ac68b 3322b5d1293fd5c9 dabbd11ce357ae0f
+Permutation (r=10) : c78440bb5321a183 7879574a35f3aae3 ae4acb9ea80d8716 ca53e368f0001c0f 96f5259b6ab9c6e8
+Permutation (r=11) : 913c2c7cb5bc052b 30d4d8d0ec17898b 2729f5fabd46f8b3 74fbbbb36081e48f e688e439de5db1a9
+État ^ Texte P22    : f15c4d23d5e35b71 30d4d8d0ec17898b 2729f5fabd46f8b3 74fbbbb36081e48f e688e439de5db1a9
+-- Texte chiffré C22 = 0x F1 5C 4D 23 D5 E3 5B 71
+Permutation (r=06) : d9695ab1b8a4b179 a2d926d189a57b48 1aabd7e8dc481ab4 4597a05c37855205 5c3a87fedcb1d70a
+Permutation (r=07) : b58359e5b6a3c54b 4e738d785ccc2d3a 490919f3c2bb9e27 8a85d9a6cbb7155d ac62057605cc27bd
+Permutation (r=08) : ab838b1cb05343a4 b6bbea9e6f2eaa0f 59e7450ac6b7589f b17636629bab57d9 6c75ca9c07ceb339
+Permutation (r=09) : 3edd16e1da8674e8 91e24d80de50230f eb815eef267b7101 5d15efd1a75e646f 58ba61ba6499e414
+Permutation (r=10) : 2f054d9fa556bd93 149884896f87da44 a9b941558de2efd0 bd1a486904264c70 10c61a37e8cabbfd
+Permutation (r=11) : 6b99044469eb262a 3828bb92b6b0fc29 561f548fd82e0c9d 67d82c5bc259ab7f 99782c6cb7a413bb
+État ^ Texte P23    : 6b99044469eb262a 3828bb92b6b0fc29 561f548fd82e0c9d 67d82c5bc259ab7f 99782c6cb7a413bb
+-- Texte chiffré C23 = 0x 33 CE 50 16 3B
+*********************************************************************************************************
+Texte clair P      : 33ce50163b6b262a 3828bb92b6b0fc29 561f548fd82e0c9d 67d82c5bc259ab7f 99782c6cb7a413bb
+*********************************************************************************************************
+État ^ (K & 0...0) : 33ce50163b6b262a b27daadfaa06558b e83969c2a2c2a662 67d82c5bc259ab7f 99782c6cb7a413bb
+Permutation (r=00) : fe90aab3e9f088bc 1006454c1c7c3e78 bba0ce56b8daee24 7eb82b5bf433b8b9 2a1faf4b542577fe
+Permutation (r=01) : c300450d0c9298fe 2c1cc98ea69d0793 6f20f354639ea9a6 8a254b68b5d7eded a05e94fb36d4e103
+Permutation (r=02) : 108623adba0a3739 b6a228618069e9c0 b8a79c2bfc6188d3 3721209fe960335d 33b4ed3147860312
+Permutation (r=03) : 3228fb76cbcb9dc7 0c1feae969f2daa7 be1c7fc511dc9743 9a03723a16640e49 68e285e8f612fc8a
+Permutation (r=04) : e7a1582fade5ff54 48fe37123683f2ea 0f26eb2699bdee33 3c71f03510180f13 ecc9b568f7efba8a
+Permutation (r=05) : 918ce69f1a62ae9a 78e5ca871ee1175c e91a09586269e3c2 a9dd411bd2bc71bd 45efb0e08438fc9d
+Permutation (r=06) : f1f37b9c514e4abb 69bd7feaaab1baa5 639b4093c6d19a13 ad03124db076d113 8894074d9ceb9854
+Permutation (r=07) : 3e965aa22c934dfd 54779f299838c19b a43e1053cae1e711 b989cb5d88898ccb be424eb6f902fc0e
+Permutation (r=08) : e8e5a1055ee292ce 417b4182bed4799c a9299fe4ad466f29 21e252ce23411c38 a8730f479bf982ab
+Permutation (r=09) : ba15f2c48502cb16 b293e081bdbfc1b6 521cca662f6c8bde 4566caf086662495 9b28d24a14bc72eb
+Permutation (r=10) : 4b178ffe4cb0e517 9286931de4e264ac d9d1448f0a9847ea 87716b456b4455ad e98a2c81f780c63c
+Permutation (r=11) : d93d31668c72d98c 5c9125afbf4445a8 3943b228f193e4e8 686c203e25b46e68 b668a600db09a610
+*********************************************************************************************************
+Finalisation       : d93d31668c72d98c 5c9125afbf4445a8 3943b228f193e4e8 e23931733902c7ca 084e9b4da1e50cef
+*********************************************************************************************************
+key:        0x8A 55 11 4D 1C B6 A9 A2 BE 26 3D 4D 7A EC AA FF (16 octets)
+nonce:      0x4E D0 EC 0B 98 C5 29 B7 C8 CD DF 37 BC D0 28 4A (16 octets)
+plaintext:  0x5A 5B 5B 5A 5A 5A 5A 5A 59 55 4E 4A 4C 4F 54 55 53 51 53 54 56 57 58 57 5A 5A 59 57 56 59 5B 5A 55 54 54 52 52 50 4F 4F 4C 4C 4D 4D 4A 49 44 44 47 47 46 44 42 43 41 40 3B 36 38 3E 44 49 49 47 47 46 46 44 43 42 43 45 47 45 44 45 46 47 4A 49 47 45 48 4F 58 69 7C 92 AE CE ED FF FF E3 B4 7C 47 16 00 04 17 29 36 3C 3F 3E 40 41 41 41 40 3F 3F 40 3F 3E 3B 3A 3B 3E 3D 3E 3C 39 3C 41 46 46 46 45 44 47 46 4A 4C 4F 4C 50 55 55 52 4F 51 55 59 5C 5A 59 5A 5C 5C 5B 59 59 57 53 51 50 4F 4F 53 57 5A 5C 5A 5B 5D 5E 60 60 61 5F 60 5F 5E 5A 58 57 54 52 52 (181 octets)
+ass.data:   0x41 20 74 6F 20 42 (6 octets)
+ciphertext: 0x20 14 29 39 75 F9 2C 24 27 7A 15 BF 4F 42 C6 2E B5 65 50 BA 5A 29 87 0E EE 6D BF A9 F0 AF F0 DC CA 71 88 7F 6D D7 32 C6 7F F2 41 C5 14 4E 58 B6 D7 30 AF 63 9D 60 79 0F FF 5D A7 0D A0 62 95 B8 63 7C 84 9B 9D 55 BD 2F E3 12 CB 7F E1 E7 62 6F 12 BD F5 52 0F 47 E6 A0 74 E7 5A A8 5A 95 DB 94 6F 43 F6 A1 1E A7 D2 58 4C D5 87 3D D7 22 43 2A 75 20 00 D1 95 5C 1D E0 FB 7D DD 63 8E 1E 20 48 5B 8F D4 D9 26 FE A2 05 7B 79 E3 40 5B 92 D2 6D 0F 65 2F 1D E9 97 CC 61 70 F9 99 F7 89 B8 A4 88 64 19 D5 FA 64 6B 63 AC F1 5C 4D 23 D5 E3 5B 71 33 CE 50 16 3B (181 octets)
+tag:        0xE2 39 31 73 39 02 C7 CA 08 4E 9B 4D A1 E5 0C EF (16 octets)
