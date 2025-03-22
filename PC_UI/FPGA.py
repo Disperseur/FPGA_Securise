@@ -328,16 +328,24 @@ class FPGA:
         try:
             self.port.close()
             self.log.write(str(dt.datetime.now()) + " - FPGA closed\n")
+            self.log.close()
             return 0
         except:
             print("Error: Could not close the FPGA")
             self.log.write(str(dt.datetime.now()) + " - Error: Could not close the FPGA\n")
+            self.log.close()
             return -1
 
-        self.log.close()
+        
 
 
     def read_csv_file(self, filename):
+        """
+        Opens a file containing a list of ECGs in hex format.
+
+        :param filename: string of filename
+        :return: a list of the ECGs in int format.
+        """
         file = open(filename, 'r')
 
         waveforms = file.read().split("\n")
@@ -349,12 +357,28 @@ class FPGA:
 
 
     def encrypt_waveform_python(self, wave, key, nonce, associated_data):
+        """
+        Encrypts a ECG (called wave) in hex bytestring with ASCON128 algorythm using the key, nonce and associate_data.
+
+        :return: a hex bytestring of the cipher text and tag at the end.
+        """
         return ascon_pcsn.ascon_encrypt(key, nonce, associated_data, wave)
 
     def decrypt_waveform_python(self, wave, key, nonce, associated_data):
+        """
+        Decrypts a ECG (called wave) in hex bytestring with ASCON128 algorythm using the key, nonce and associate_data.
+
+        :return: a hex bytestring of the plain text.
+        """
         return ascon_pcsn.ascon_decrypt(key, nonce, associated_data, wave)
 
     def list_from_wave(self, wave):
+        """
+        Converts a ECG (wave) in hex bytestring into a list of int values.
+
+        :return: a list of int corresponding to the values of the ECG (wave).
+        """
+
         y = []
         for i in range(0, len(wave)-1, 2):
             y.append(int(wave[i:i+2], 16))
