@@ -12,6 +12,9 @@ KEY =   bytes.fromhex('4B8A55114D1CB6A9A2BE263D4D7AECAAFF')
 NONCE = bytes.fromhex('4E4ED0EC0B98C529B7C8CDDF37BCD0284A')
 DA =    bytes.fromhex('444120746F20428000')
 
+W = b'57'
+PADDING = b'800000'
+
 # Variable globale pour choisir le nombre d'ECGs affichés
 NUM_ECGS_DISPLAYED = 10
 # Variable globale pour choisir le nombre d'ECGs utilisés pour le calcul du BPM
@@ -65,18 +68,22 @@ class PlotWindow(QMainWindow):
         if self.ptr_wave < len(self.waves):
             if self.ptr_sample == 0:
                 # Nouveau bloc -> chiffrement/déchiffrement
-                wave = self.waves[self.ptr_wave]
-
+                wave = self.waves[self.ptr_wave] # bytes
+                wave = W + wave + PADDING
+                wave = bytes(wave).decode('utf-8') #str
+                wave = bytes.fromhex(wave)
+                print(wave)
+                
                 fpga.send_waveform(wave)
                 fpga.start_encryption()
-                sleep(1)
+                
                 cipher = fpga.get_cipher()
                 tag = fpga.get_tag()
 
 
                 # wave_encrypted = fpga.encrypt_waveform_python(wave, KEY, NONCE, DA)
                 wave_decrypted = fpga.decrypt_waveform_python(cipher[:-3]+tag, KEY[1:], NONCE[1:], DA[1:-2])
-                self.current_wave_decrypted = fpga.list_from_wave(wave_decrypted)
+                self.current_wave_decrypted = fpga.list_from_wave(wave_decrypted.hex())
             
             # Ajout d'un échantillon
             if self.ptr_sample < len(self.current_wave_decrypted):

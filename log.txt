@@ -1186,3 +1186,3770 @@
 2025-03-24 17:23:01.475358 - Waveform sent
 2025-03-24 17:23:01.475358 - Error: FPGA not ready
 2025-03-24 17:23:01.475358 - Error: Could not read the FPGA
+
+2025-03-24 17:27:25.763036 - FPGA opened
+2025-03-24 17:27:25.763036 - Key sent
+2025-03-24 17:27:25.779068 - Nonce sent
+2025-03-24 17:27:25.792917 - Associated data sent
+2025-03-24 17:27:27.669447 - Waveform sent
+2025-03-24 17:27:27.703857 - Error: FPGA not ready
+2025-03-24 17:27:27.703857 - Error: Could not read the FPGA
+2025-03-24 17:27:27.767714 - Waveform sent
+2025-03-24 17:27:27.767714 - Error: FPGA not ready
+2025-03-24 17:27:27.767714 - Error: Could not read the FPGA
+2025-03-24 17:27:27.799510 - Waveform sent
+2025-03-24 17:27:27.799510 - Error: FPGA not ready
+2025-03-24 17:27:27.799510 - Error: Could not read the FPGA
+2025-03-24 17:27:27.843158 - Waveform sent
+2025-03-24 17:27:27.843158 - Error: FPGA not ready
+2025-03-24 17:27:27.843158 - Error: Could not read the FPGA
+2025-03-24 17:27:27.874159 - Waveform sent
+2025-03-24 17:27:27.874159 - Error: FPGA not ready
+2025-03-24 17:27:27.874159 - Error: Could not read the FPGA
+2025-03-24 17:27:27.905678 - Waveform sent
+2025-03-24 17:27:27.905678 - Error: FPGA not ready
+2025-03-24 17:27:27.905678 - Error: Could not read the FPGA
+2025-03-24 17:27:27.938198 - Waveform sent
+2025-03-24 17:27:27.938198 - Error: FPGA not ready
+2025-03-24 17:27:27.938198 - Error: Could not read the FPGA
+2025-03-24 17:27:27.970199 - Waveform sent
+2025-03-24 17:27:27.970199 - Error: FPGA not ready
+2025-03-24 17:27:27.970199 - Error: Could not read the FPGA
+2025-03-24 17:27:28.000842 - Waveform sent
+2025-03-24 17:27:28.000842 - Error: FPGA not ready
+2025-03-24 17:27:28.000842 - Error: Could not read the FPGA
+2025-03-24 17:27:28.032832 - Waveform sent
+2025-03-24 17:27:28.032832 - Error: FPGA not ready
+2025-03-24 17:27:28.032832 - Error: Could not read the FPGA
+2025-03-24 17:27:28.063764 - Waveform sent
+2025-03-24 17:27:28.063764 - Error: FPGA not ready
+2025-03-24 17:27:28.063764 - Error: Could not read the FPGA
+2025-03-24 17:27:28.095112 - Waveform sent
+2025-03-24 17:27:28.095112 - Error: FPGA not ready
+2025-03-24 17:27:28.095112 - Error: Could not read the FPGA
+2025-03-24 17:27:28.126412 - Waveform sent
+2025-03-24 17:27:28.126412 - Error: FPGA not ready
+2025-03-24 17:27:28.126412 - Error: Could not read the FPGA
+2025-03-24 17:27:28.157961 - Waveform sent
+2025-03-24 17:27:28.157961 - Error: FPGA not ready
+2025-03-24 17:27:28.157961 - Error: Could not read the FPGA
+2025-03-24 17:27:28.189116 - Waveform sent
+2025-03-24 17:27:28.189116 - Error: FPGA not ready
+2025-03-24 17:27:28.189116 - Error: Could not read the FPGA
+2025-03-24 17:27:28.220214 - Waveform sent
+2025-03-24 17:27:28.221193 - Error: FPGA not ready
+2025-03-24 17:27:28.221193 - Error: Could not read the FPGA
+2025-03-24 17:27:28.251792 - Waveform sent
+2025-03-24 17:27:28.251792 - Error: FPGA not ready
+2025-03-24 17:27:28.252783 - Error: Could not read the FPGA
+2025-03-24 17:27:28.283788 - Waveform sent
+2025-03-24 17:27:28.283788 - Error: FPGA not ready
+2025-03-24 17:27:28.283788 - Error: Could not read the FPGA
+2025-03-24 17:27:28.314333 - Waveform sent
+2025-03-24 17:27:28.315330 - Error: FPGA not ready
+2025-03-24 17:27:28.315330 - Error: Could not read the FPGA
+2025-03-24 17:27:28.345880 - Waveform sent
+2025-03-24 17:27:28.345880 - Error: FPGA not ready
+2025-03-24 17:27:28.345880 - Error: Could not read the FPGA
+2025-03-24 17:27:28.377108 - Waveform sent
+2025-03-24 17:27:28.378017 - Error: FPGA not ready
+2025-03-24 17:27:28.378017 - Error: Could not read the FPGA
+2025-03-24 17:27:28.408657 - Waveform sent
+2025-03-24 17:27:28.408657 - Error: FPGA not ready
+2025-03-24 17:27:28.408657 - Error: Could not read the FPGA
+2025-03-24 17:27:28.440616 - Waveform sent
+2025-03-24 17:27:28.440616 - Error: FPGA not ready
+2025-03-24 17:27:28.440616 - Error: Could not read the FPGA
+2025-03-24 17:27:28.471611 - Waveform sent
+2025-03-24 17:27:28.471611 - Error: FPGA not ready
+2025-03-24 17:27:28.471611 - Error: Could not read the FPGA
+2025-03-24 17:27:28.503260 - Waveform sent
+2025-03-24 17:27:28.503260 - Error: FPGA not ready
+2025-03-24 17:27:28.503260 - Error: Could not read the FPGA
+2025-03-24 17:27:28.534145 - Waveform sent
+2025-03-24 17:27:28.535028 - Error: FPGA not ready
+2025-03-24 17:27:28.535028 - Error: Could not read the FPGA
+2025-03-24 17:27:28.566107 - Waveform sent
+2025-03-24 17:27:28.566107 - Error: FPGA not ready
+2025-03-24 17:27:28.566107 - Error: Could not read the FPGA
+2025-03-24 17:27:28.597679 - Waveform sent
+2025-03-24 17:27:28.597679 - Error: FPGA not ready
+2025-03-24 17:27:28.597679 - Error: Could not read the FPGA
+2025-03-24 17:27:28.628928 - Waveform sent
+2025-03-24 17:27:28.628928 - Error: FPGA not ready
+2025-03-24 17:27:28.628928 - Error: Could not read the FPGA
+2025-03-24 17:27:28.659618 - Waveform sent
+2025-03-24 17:27:28.659618 - Error: FPGA not ready
+2025-03-24 17:27:28.659618 - Error: Could not read the FPGA
+2025-03-24 17:27:28.691514 - Waveform sent
+2025-03-24 17:27:28.691514 - Error: FPGA not ready
+2025-03-24 17:27:28.691514 - Error: Could not read the FPGA
+2025-03-24 17:27:28.722493 - Waveform sent
+2025-03-24 17:27:28.722493 - Error: FPGA not ready
+2025-03-24 17:27:28.722493 - Error: Could not read the FPGA
+2025-03-24 17:27:28.754127 - Waveform sent
+2025-03-24 17:27:28.754127 - Error: FPGA not ready
+2025-03-24 17:27:28.754127 - Error: Could not read the FPGA
+2025-03-24 17:27:28.785241 - Waveform sent
+2025-03-24 17:27:28.786143 - Error: FPGA not ready
+2025-03-24 17:27:28.786143 - Error: Could not read the FPGA
+2025-03-24 17:27:28.816865 - Waveform sent
+2025-03-24 17:27:28.816865 - Error: FPGA not ready
+2025-03-24 17:27:28.816865 - Error: Could not read the FPGA
+2025-03-24 17:27:28.848517 - Waveform sent
+2025-03-24 17:27:28.848517 - Error: FPGA not ready
+2025-03-24 17:27:28.848517 - Error: Could not read the FPGA
+2025-03-24 17:27:28.879370 - Waveform sent
+2025-03-24 17:27:28.879370 - Error: FPGA not ready
+2025-03-24 17:27:28.879370 - Error: Could not read the FPGA
+2025-03-24 17:27:28.911338 - Waveform sent
+2025-03-24 17:27:28.911338 - Error: FPGA not ready
+2025-03-24 17:27:28.911338 - Error: Could not read the FPGA
+2025-03-24 17:27:28.942049 - Waveform sent
+2025-03-24 17:27:28.942049 - Error: FPGA not ready
+2025-03-24 17:27:28.942049 - Error: Could not read the FPGA
+2025-03-24 17:27:28.974327 - Waveform sent
+2025-03-24 17:27:28.974327 - Error: FPGA not ready
+2025-03-24 17:27:28.974327 - Error: Could not read the FPGA
+2025-03-24 17:27:29.005326 - Waveform sent
+2025-03-24 17:27:29.005326 - Error: FPGA not ready
+2025-03-24 17:27:29.005326 - Error: Could not read the FPGA
+2025-03-24 17:27:29.037634 - Waveform sent
+2025-03-24 17:27:29.037634 - Error: FPGA not ready
+2025-03-24 17:27:29.037634 - Error: Could not read the FPGA
+2025-03-24 17:27:29.068110 - Waveform sent
+2025-03-24 17:27:29.068110 - Error: FPGA not ready
+2025-03-24 17:27:29.068110 - Error: Could not read the FPGA
+2025-03-24 17:27:29.099727 - Waveform sent
+2025-03-24 17:27:29.099727 - Error: FPGA not ready
+2025-03-24 17:27:29.099727 - Error: Could not read the FPGA
+2025-03-24 17:27:29.130531 - Waveform sent
+2025-03-24 17:27:29.130531 - Error: FPGA not ready
+2025-03-24 17:27:29.130531 - Error: Could not read the FPGA
+2025-03-24 17:27:29.161905 - Waveform sent
+2025-03-24 17:27:29.161905 - Error: FPGA not ready
+2025-03-24 17:27:29.161905 - Error: Could not read the FPGA
+2025-03-24 17:27:29.192869 - Waveform sent
+2025-03-24 17:27:29.192869 - Error: FPGA not ready
+2025-03-24 17:27:29.193819 - Error: Could not read the FPGA
+2025-03-24 17:27:29.225083 - Waveform sent
+2025-03-24 17:27:29.225083 - Error: FPGA not ready
+2025-03-24 17:27:29.225083 - Error: Could not read the FPGA
+2025-03-24 17:27:29.255524 - Waveform sent
+2025-03-24 17:27:29.256430 - Error: FPGA not ready
+2025-03-24 17:27:29.256430 - Error: Could not read the FPGA
+2025-03-24 17:27:29.287422 - Waveform sent
+2025-03-24 17:27:29.287422 - Error: FPGA not ready
+2025-03-24 17:27:29.287422 - Error: Could not read the FPGA
+2025-03-24 17:27:29.318524 - Waveform sent
+2025-03-24 17:27:29.319426 - Error: FPGA not ready
+2025-03-24 17:27:29.319426 - Error: Could not read the FPGA
+2025-03-24 17:27:29.349721 - Waveform sent
+2025-03-24 17:27:29.512621 - Error: FPGA not ready
+2025-03-24 17:27:29.512621 - Error: Could not read the FPGA
+2025-03-24 17:27:29.540443 - Waveform sent
+2025-03-24 17:27:29.540443 - Error: FPGA not ready
+2025-03-24 17:27:29.540443 - Error: Could not read the FPGA
+2025-03-24 17:27:29.572261 - Waveform sent
+2025-03-24 17:27:29.572261 - Error: FPGA not ready
+2025-03-24 17:27:29.572261 - Error: Could not read the FPGA
+2025-03-24 17:27:29.603279 - Waveform sent
+2025-03-24 17:27:29.603279 - Error: FPGA not ready
+2025-03-24 17:27:29.603279 - Error: Could not read the FPGA
+2025-03-24 17:27:29.634915 - Waveform sent
+2025-03-24 17:27:29.634915 - Error: FPGA not ready
+2025-03-24 17:27:29.634915 - Error: Could not read the FPGA
+2025-03-24 17:27:29.666282 - Waveform sent
+2025-03-24 17:27:29.666282 - Error: FPGA not ready
+2025-03-24 17:27:29.666282 - Error: Could not read the FPGA
+2025-03-24 17:27:29.697803 - Waveform sent
+2025-03-24 17:27:29.697803 - Error: FPGA not ready
+2025-03-24 17:27:29.697803 - Error: Could not read the FPGA
+2025-03-24 17:27:29.728745 - Waveform sent
+2025-03-24 17:27:29.728745 - Error: FPGA not ready
+2025-03-24 17:27:29.728745 - Error: Could not read the FPGA
+2025-03-24 17:27:29.759930 - Waveform sent
+2025-03-24 17:27:29.760919 - Error: FPGA not ready
+2025-03-24 17:27:29.760919 - Error: Could not read the FPGA
+2025-03-24 17:27:29.796088 - Waveform sent
+2025-03-24 17:27:29.796088 - Error: FPGA not ready
+2025-03-24 17:27:29.796088 - Error: Could not read the FPGA
+2025-03-24 17:27:29.823506 - Waveform sent
+2025-03-24 17:27:29.823506 - Error: FPGA not ready
+2025-03-24 17:27:29.823506 - Error: Could not read the FPGA
+2025-03-24 17:27:29.854615 - Waveform sent
+2025-03-24 17:27:29.854615 - Error: FPGA not ready
+2025-03-24 17:27:29.854615 - Error: Could not read the FPGA
+2025-03-24 17:27:29.885457 - Waveform sent
+2025-03-24 17:27:29.885457 - Error: FPGA not ready
+2025-03-24 17:27:29.885457 - Error: Could not read the FPGA
+2025-03-24 17:27:29.917161 - Waveform sent
+2025-03-24 17:27:29.917161 - Error: FPGA not ready
+2025-03-24 17:27:29.917161 - Error: Could not read the FPGA
+2025-03-24 17:27:29.948280 - Waveform sent
+2025-03-24 17:27:29.949171 - Error: FPGA not ready
+2025-03-24 17:27:29.949171 - Error: Could not read the FPGA
+2025-03-24 17:27:29.979794 - Waveform sent
+2025-03-24 17:27:29.979794 - Error: FPGA not ready
+2025-03-24 17:27:29.979794 - Error: Could not read the FPGA
+2025-03-24 17:27:30.011705 - Waveform sent
+2025-03-24 17:27:30.011705 - Error: FPGA not ready
+2025-03-24 17:27:30.011705 - Error: Could not read the FPGA
+2025-03-24 17:27:30.042640 - Waveform sent
+2025-03-24 17:27:30.042640 - Error: FPGA not ready
+2025-03-24 17:27:30.042640 - Error: Could not read the FPGA
+2025-03-24 17:27:30.074158 - Waveform sent
+2025-03-24 17:27:30.074158 - Error: FPGA not ready
+2025-03-24 17:27:30.074158 - Error: Could not read the FPGA
+2025-03-24 17:27:30.105993 - Waveform sent
+2025-03-24 17:27:30.105993 - Error: FPGA not ready
+2025-03-24 17:27:30.105993 - Error: Could not read the FPGA
+2025-03-24 17:27:30.136799 - Waveform sent
+2025-03-24 17:27:30.136799 - Error: FPGA not ready
+2025-03-24 17:27:30.136799 - Error: Could not read the FPGA
+2025-03-24 17:27:30.168197 - Waveform sent
+2025-03-24 17:27:30.168197 - Error: FPGA not ready
+2025-03-24 17:27:30.168197 - Error: Could not read the FPGA
+2025-03-24 17:27:30.199745 - Waveform sent
+2025-03-24 17:27:30.199745 - Error: FPGA not ready
+2025-03-24 17:27:30.199745 - Error: Could not read the FPGA
+2025-03-24 17:27:30.230538 - Waveform sent
+2025-03-24 17:27:30.231534 - Error: FPGA not ready
+2025-03-24 17:27:30.231534 - Error: Could not read the FPGA
+2025-03-24 17:27:30.262371 - Waveform sent
+2025-03-24 17:27:30.262371 - Error: FPGA not ready
+2025-03-24 17:27:30.262371 - Error: Could not read the FPGA
+2025-03-24 17:27:30.294031 - Waveform sent
+2025-03-24 17:27:30.294031 - Error: FPGA not ready
+2025-03-24 17:27:30.294031 - Error: Could not read the FPGA
+2025-03-24 17:27:30.325034 - Waveform sent
+2025-03-24 17:27:30.325034 - Error: FPGA not ready
+2025-03-24 17:27:30.325034 - Error: Could not read the FPGA
+2025-03-24 17:27:30.356299 - Waveform sent
+2025-03-24 17:27:30.356299 - Error: FPGA not ready
+2025-03-24 17:27:30.356299 - Error: Could not read the FPGA
+2025-03-24 17:27:30.387935 - Waveform sent
+2025-03-24 17:27:30.387935 - Error: FPGA not ready
+2025-03-24 17:27:30.387935 - Error: Could not read the FPGA
+2025-03-24 17:27:30.419085 - Waveform sent
+2025-03-24 17:27:30.419944 - Error: FPGA not ready
+2025-03-24 17:27:30.419944 - Error: Could not read the FPGA
+2025-03-24 17:27:30.450980 - Waveform sent
+2025-03-24 17:27:30.450980 - Error: FPGA not ready
+2025-03-24 17:27:30.450980 - Error: Could not read the FPGA
+2025-03-24 17:27:30.482426 - Waveform sent
+2025-03-24 17:27:30.482426 - Error: FPGA not ready
+2025-03-24 17:27:30.482426 - Error: Could not read the FPGA
+2025-03-24 17:27:30.513549 - Waveform sent
+2025-03-24 17:27:30.513549 - Error: FPGA not ready
+2025-03-24 17:27:30.513549 - Error: Could not read the FPGA
+2025-03-24 17:27:30.544853 - Waveform sent
+2025-03-24 17:27:30.544853 - Error: FPGA not ready
+2025-03-24 17:27:30.544853 - Error: Could not read the FPGA
+2025-03-24 17:27:30.576159 - Waveform sent
+2025-03-24 17:27:30.576159 - Error: FPGA not ready
+2025-03-24 17:27:30.576159 - Error: Could not read the FPGA
+2025-03-24 17:27:30.607814 - Waveform sent
+2025-03-24 17:27:30.607814 - Error: FPGA not ready
+2025-03-24 17:27:30.607814 - Error: Could not read the FPGA
+2025-03-24 17:27:30.638646 - Waveform sent
+2025-03-24 17:27:30.639559 - Error: FPGA not ready
+2025-03-24 17:27:30.639559 - Error: Could not read the FPGA
+2025-03-24 17:27:30.670289 - Waveform sent
+2025-03-24 17:27:30.670289 - Error: FPGA not ready
+2025-03-24 17:27:30.670289 - Error: Could not read the FPGA
+2025-03-24 17:27:30.702074 - Waveform sent
+2025-03-24 17:27:30.702074 - Error: FPGA not ready
+2025-03-24 17:27:30.702074 - Error: Could not read the FPGA
+2025-03-24 17:27:30.733553 - Waveform sent
+2025-03-24 17:27:30.733553 - Error: FPGA not ready
+2025-03-24 17:27:30.733553 - Error: Could not read the FPGA
+2025-03-24 17:27:30.764064 - Waveform sent
+2025-03-24 17:27:30.765086 - Error: FPGA not ready
+2025-03-24 17:27:30.765086 - Error: Could not read the FPGA
+2025-03-24 17:27:30.795427 - Waveform sent
+2025-03-24 17:27:30.796425 - Error: FPGA not ready
+2025-03-24 17:27:30.796425 - Error: Could not read the FPGA
+2025-03-24 17:27:30.827604 - Waveform sent
+2025-03-24 17:27:30.827604 - Error: FPGA not ready
+2025-03-24 17:27:30.827604 - Error: Could not read the FPGA
+2025-03-24 17:27:30.858750 - Waveform sent
+2025-03-24 17:27:30.858750 - Error: FPGA not ready
+2025-03-24 17:27:30.858750 - Error: Could not read the FPGA
+2025-03-24 17:27:30.890282 - Waveform sent
+2025-03-24 17:27:30.890282 - Error: FPGA not ready
+2025-03-24 17:27:30.890282 - Error: Could not read the FPGA
+2025-03-24 17:27:30.920886 - Waveform sent
+2025-03-24 17:27:30.921874 - Error: FPGA not ready
+2025-03-24 17:27:30.921874 - Error: Could not read the FPGA
+2025-03-24 17:27:30.952844 - Waveform sent
+2025-03-24 17:27:30.952844 - Error: FPGA not ready
+2025-03-24 17:27:30.952844 - Error: Could not read the FPGA
+2025-03-24 17:27:30.983786 - Waveform sent
+2025-03-24 17:27:30.983786 - Error: FPGA not ready
+2025-03-24 17:27:30.983786 - Error: Could not read the FPGA
+2025-03-24 17:27:31.015529 - Waveform sent
+2025-03-24 17:27:31.015529 - Error: FPGA not ready
+2025-03-24 17:27:31.015529 - Error: Could not read the FPGA
+2025-03-24 17:27:31.046526 - Waveform sent
+2025-03-24 17:27:31.047523 - Error: FPGA not ready
+2025-03-24 17:27:31.047523 - Error: Could not read the FPGA
+2025-03-24 17:27:31.078198 - Waveform sent
+2025-03-24 17:27:31.078198 - Error: FPGA not ready
+2025-03-24 17:27:31.078198 - Error: Could not read the FPGA
+2025-03-24 17:27:31.109743 - Waveform sent
+2025-03-24 17:27:31.109743 - Error: FPGA not ready
+2025-03-24 17:27:31.109743 - Error: Could not read the FPGA
+2025-03-24 17:27:31.141289 - Waveform sent
+2025-03-24 17:27:31.141289 - Error: FPGA not ready
+2025-03-24 17:27:31.141289 - Error: Could not read the FPGA
+2025-03-24 17:27:31.172779 - Waveform sent
+2025-03-24 17:27:31.172779 - Error: FPGA not ready
+2025-03-24 17:27:31.172779 - Error: Could not read the FPGA
+2025-03-24 17:27:31.203644 - Waveform sent
+2025-03-24 17:27:31.203644 - Error: FPGA not ready
+2025-03-24 17:27:31.203644 - Error: Could not read the FPGA
+2025-03-24 17:27:31.234539 - Waveform sent
+2025-03-24 17:27:31.234539 - Error: FPGA not ready
+2025-03-24 17:27:31.234539 - Error: Could not read the FPGA
+2025-03-24 17:27:31.266190 - Waveform sent
+2025-03-24 17:27:31.267085 - Error: FPGA not ready
+2025-03-24 17:27:31.267085 - Error: Could not read the FPGA
+2025-03-24 17:27:31.297226 - Waveform sent
+2025-03-24 17:27:31.297226 - Error: FPGA not ready
+2025-03-24 17:27:31.298280 - Error: Could not read the FPGA
+2025-03-24 17:27:31.329563 - Waveform sent
+2025-03-24 17:27:31.329563 - Error: FPGA not ready
+2025-03-24 17:27:31.329563 - Error: Could not read the FPGA
+2025-03-24 17:27:31.360720 - Waveform sent
+2025-03-24 17:27:31.360720 - Error: FPGA not ready
+2025-03-24 17:27:31.360720 - Error: Could not read the FPGA
+2025-03-24 17:27:31.391685 - Waveform sent
+2025-03-24 17:27:31.391685 - Error: FPGA not ready
+2025-03-24 17:27:31.391685 - Error: Could not read the FPGA
+2025-03-24 17:27:31.423666 - Waveform sent
+2025-03-24 17:27:31.423666 - Error: FPGA not ready
+2025-03-24 17:27:31.423666 - Error: Could not read the FPGA
+2025-03-24 17:27:31.454466 - Waveform sent
+2025-03-24 17:27:31.455468 - Error: FPGA not ready
+2025-03-24 17:27:31.455468 - Error: Could not read the FPGA
+2025-03-24 17:27:31.485560 - Waveform sent
+2025-03-24 17:27:31.486563 - Error: FPGA not ready
+2025-03-24 17:27:31.486563 - Error: Could not read the FPGA
+2025-03-24 17:27:31.517461 - Waveform sent
+2025-03-24 17:27:31.517461 - Error: FPGA not ready
+2025-03-24 17:27:31.517461 - Error: Could not read the FPGA
+2025-03-24 17:27:31.549208 - Waveform sent
+2025-03-24 17:27:31.549208 - Error: FPGA not ready
+2025-03-24 17:27:31.549208 - Error: Could not read the FPGA
+2025-03-24 17:27:31.580558 - Waveform sent
+2025-03-24 17:27:31.580558 - Error: FPGA not ready
+2025-03-24 17:27:31.580558 - Error: Could not read the FPGA
+2025-03-24 17:27:31.611629 - Waveform sent
+2025-03-24 17:27:31.611629 - Error: FPGA not ready
+2025-03-24 17:27:31.611629 - Error: Could not read the FPGA
+2025-03-24 17:27:31.644241 - Waveform sent
+2025-03-24 17:27:31.644241 - Error: FPGA not ready
+2025-03-24 17:27:31.644241 - Error: Could not read the FPGA
+2025-03-24 17:27:31.675203 - Waveform sent
+2025-03-24 17:27:31.675203 - Error: FPGA not ready
+2025-03-24 17:27:31.675203 - Error: Could not read the FPGA
+2025-03-24 17:27:31.707836 - Waveform sent
+2025-03-24 17:27:31.707836 - Error: FPGA not ready
+2025-03-24 17:27:31.707836 - Error: Could not read the FPGA
+2025-03-24 17:27:31.738898 - Waveform sent
+2025-03-24 17:27:31.738898 - Error: FPGA not ready
+2025-03-24 17:27:31.738898 - Error: Could not read the FPGA
+2025-03-24 17:27:31.770538 - Waveform sent
+2025-03-24 17:27:31.770538 - Error: FPGA not ready
+2025-03-24 17:27:31.770538 - Error: Could not read the FPGA
+2025-03-24 17:27:31.801987 - Waveform sent
+2025-03-24 17:27:31.801987 - Error: FPGA not ready
+2025-03-24 17:27:31.801987 - Error: Could not read the FPGA
+2025-03-24 17:27:31.836334 - Waveform sent
+2025-03-24 17:27:31.836334 - Error: FPGA not ready
+2025-03-24 17:27:31.836334 - Error: Could not read the FPGA
+2025-03-24 17:27:31.867982 - Waveform sent
+2025-03-24 17:27:31.867982 - Error: FPGA not ready
+2025-03-24 17:27:31.867982 - Error: Could not read the FPGA
+2025-03-24 17:27:31.900480 - Waveform sent
+2025-03-24 17:27:31.901480 - Error: FPGA not ready
+2025-03-24 17:27:31.901480 - Error: Could not read the FPGA
+2025-03-24 17:27:31.933477 - Waveform sent
+2025-03-24 17:27:31.934479 - Error: FPGA not ready
+2025-03-24 17:27:31.934479 - Error: Could not read the FPGA
+2025-03-24 17:27:31.966242 - Waveform sent
+2025-03-24 17:27:31.966242 - Error: FPGA not ready
+2025-03-24 17:27:31.966242 - Error: Could not read the FPGA
+2025-03-24 17:27:31.997322 - Waveform sent
+2025-03-24 17:27:31.997322 - Error: FPGA not ready
+2025-03-24 17:27:31.997322 - Error: Could not read the FPGA
+2025-03-24 17:27:32.029222 - Waveform sent
+2025-03-24 17:27:32.029222 - Error: FPGA not ready
+2025-03-24 17:27:32.029222 - Error: Could not read the FPGA
+2025-03-24 17:27:32.059731 - Waveform sent
+2025-03-24 17:27:32.059731 - Error: FPGA not ready
+2025-03-24 17:27:32.059731 - Error: Could not read the FPGA
+2025-03-24 17:27:32.091419 - Waveform sent
+2025-03-24 17:27:32.091419 - Error: FPGA not ready
+2025-03-24 17:27:32.091419 - Error: Could not read the FPGA
+2025-03-24 17:27:32.123267 - Waveform sent
+2025-03-24 17:27:32.123267 - Error: FPGA not ready
+2025-03-24 17:27:32.123267 - Error: Could not read the FPGA
+2025-03-24 17:27:32.154915 - Waveform sent
+2025-03-24 17:27:32.154915 - Error: FPGA not ready
+2025-03-24 17:27:32.154915 - Error: Could not read the FPGA
+2025-03-24 17:27:32.185821 - Waveform sent
+2025-03-24 17:27:32.185821 - Error: FPGA not ready
+2025-03-24 17:27:32.185821 - Error: Could not read the FPGA
+2025-03-24 17:27:32.217129 - Waveform sent
+2025-03-24 17:27:32.217129 - Error: FPGA not ready
+2025-03-24 17:27:32.217129 - Error: Could not read the FPGA
+2025-03-24 17:27:32.248802 - Waveform sent
+2025-03-24 17:27:32.248802 - Error: FPGA not ready
+2025-03-24 17:27:32.248802 - Error: Could not read the FPGA
+2025-03-24 17:27:32.280381 - Waveform sent
+2025-03-24 17:27:32.280381 - Error: FPGA not ready
+2025-03-24 17:27:32.280381 - Error: Could not read the FPGA
+2025-03-24 17:27:32.311577 - Waveform sent
+2025-03-24 17:27:32.311577 - Error: FPGA not ready
+2025-03-24 17:27:32.311577 - Error: Could not read the FPGA
+2025-03-24 17:27:32.343176 - Waveform sent
+2025-03-24 17:27:32.343176 - Error: FPGA not ready
+2025-03-24 17:27:32.343176 - Error: Could not read the FPGA
+2025-03-24 17:27:32.373627 - Waveform sent
+2025-03-24 17:27:32.373627 - Error: FPGA not ready
+2025-03-24 17:27:32.373627 - Error: Could not read the FPGA
+2025-03-24 17:27:32.404998 - Waveform sent
+2025-03-24 17:27:32.405888 - Error: FPGA not ready
+2025-03-24 17:27:32.405888 - Error: Could not read the FPGA
+2025-03-24 17:27:32.436430 - Waveform sent
+2025-03-24 17:27:32.437485 - Error: FPGA not ready
+2025-03-24 17:27:32.437485 - Error: Could not read the FPGA
+2025-03-24 17:27:32.510039 - Waveform sent
+2025-03-24 17:27:32.510039 - Error: FPGA not ready
+2025-03-24 17:27:32.510039 - Error: Could not read the FPGA
+2025-03-24 17:27:32.574095 - Waveform sent
+2025-03-24 17:27:32.574095 - Error: FPGA not ready
+2025-03-24 17:27:32.574095 - Error: Could not read the FPGA
+2025-03-24 17:27:32.604582 - Waveform sent
+2025-03-24 17:27:32.604582 - Error: FPGA not ready
+2025-03-24 17:27:32.604582 - Error: Could not read the FPGA
+
+2025-03-24 17:28:21.541515 - FPGA opened
+2025-03-24 17:28:21.541515 - Key sent
+2025-03-24 17:28:21.551867 - Nonce sent
+2025-03-24 17:28:21.564970 - Associated data sent
+2025-03-24 17:28:21.600410 - Waveform sent
+2025-03-24 17:28:21.620167 - Encryption started
+2025-03-24 17:28:21.670467 - Cipher received
+2025-03-24 17:28:21.684966 - Tag received
+2025-03-24 17:28:21.794993 - FPGA closed
+
+2025-03-24 17:29:56.796670 - FPGA opened
+2025-03-24 17:29:56.796670 - Key sent
+2025-03-24 17:29:56.811344 - Nonce sent
+2025-03-24 17:29:56.826906 - Associated data sent
+2025-03-24 17:29:58.389114 - Waveform sent
+2025-03-24 17:29:58.424457 - Error: FPGA not ready
+2025-03-24 17:29:58.424457 - Error: Could not read the FPGA
+2025-03-24 17:29:58.533524 - Waveform sent
+2025-03-24 17:29:58.533524 - Error: FPGA not ready
+2025-03-24 17:29:58.533524 - Error: Could not read the FPGA
+2025-03-24 17:29:58.567683 - Waveform sent
+2025-03-24 17:29:58.567683 - Error: FPGA not ready
+2025-03-24 17:29:58.567683 - Error: Could not read the FPGA
+2025-03-24 17:29:58.617998 - Waveform sent
+2025-03-24 17:29:58.617998 - Error: FPGA not ready
+2025-03-24 17:29:58.617998 - Error: Could not read the FPGA
+2025-03-24 17:29:58.649551 - Waveform sent
+2025-03-24 17:29:58.650538 - Error: FPGA not ready
+2025-03-24 17:29:58.650538 - Error: Could not read the FPGA
+2025-03-24 17:29:58.681520 - Waveform sent
+2025-03-24 17:29:58.681520 - Error: FPGA not ready
+2025-03-24 17:29:58.681520 - Error: Could not read the FPGA
+2025-03-24 17:29:58.712687 - Waveform sent
+2025-03-24 17:29:58.712687 - Error: FPGA not ready
+2025-03-24 17:29:58.712687 - Error: Could not read the FPGA
+2025-03-24 17:29:58.744989 - Waveform sent
+2025-03-24 17:29:58.744989 - Error: FPGA not ready
+2025-03-24 17:29:58.744989 - Error: Could not read the FPGA
+2025-03-24 17:29:58.775843 - Waveform sent
+2025-03-24 17:29:58.776832 - Error: FPGA not ready
+2025-03-24 17:29:58.776832 - Error: Could not read the FPGA
+2025-03-24 17:29:58.807370 - Waveform sent
+2025-03-24 17:29:58.808361 - Error: FPGA not ready
+2025-03-24 17:29:58.808361 - Error: Could not read the FPGA
+2025-03-24 17:29:58.839374 - Waveform sent
+2025-03-24 17:29:58.839374 - Error: FPGA not ready
+2025-03-24 17:29:58.839374 - Error: Could not read the FPGA
+2025-03-24 17:29:58.870945 - Waveform sent
+2025-03-24 17:29:58.870945 - Error: FPGA not ready
+2025-03-24 17:29:58.870945 - Error: Could not read the FPGA
+2025-03-24 17:29:58.902446 - Waveform sent
+2025-03-24 17:29:58.902446 - Error: FPGA not ready
+2025-03-24 17:29:58.902446 - Error: Could not read the FPGA
+2025-03-24 17:29:58.933472 - Waveform sent
+2025-03-24 17:29:58.934447 - Error: FPGA not ready
+2025-03-24 17:29:58.934447 - Error: Could not read the FPGA
+2025-03-24 17:29:58.965976 - Waveform sent
+2025-03-24 17:29:58.965976 - Error: FPGA not ready
+2025-03-24 17:29:58.965976 - Error: Could not read the FPGA
+2025-03-24 17:29:58.997541 - Waveform sent
+2025-03-24 17:29:58.997541 - Error: FPGA not ready
+2025-03-24 17:29:58.997541 - Error: Could not read the FPGA
+2025-03-24 17:29:59.029029 - Waveform sent
+2025-03-24 17:29:59.029029 - Error: FPGA not ready
+2025-03-24 17:29:59.029029 - Error: Could not read the FPGA
+2025-03-24 17:29:59.060044 - Waveform sent
+2025-03-24 17:29:59.060044 - Error: FPGA not ready
+2025-03-24 17:29:59.060044 - Error: Could not read the FPGA
+2025-03-24 17:29:59.091578 - Waveform sent
+2025-03-24 17:29:59.091578 - Error: FPGA not ready
+2025-03-24 17:29:59.091578 - Error: Could not read the FPGA
+2025-03-24 17:29:59.123571 - Waveform sent
+2025-03-24 17:29:59.123571 - Error: FPGA not ready
+2025-03-24 17:29:59.123571 - Error: Could not read the FPGA
+2025-03-24 17:29:59.155115 - Waveform sent
+2025-03-24 17:29:59.155115 - Error: FPGA not ready
+2025-03-24 17:29:59.155115 - Error: Could not read the FPGA
+2025-03-24 17:29:59.186658 - Waveform sent
+2025-03-24 17:29:59.186658 - Error: FPGA not ready
+2025-03-24 17:29:59.186658 - Error: Could not read the FPGA
+2025-03-24 17:29:59.217658 - Waveform sent
+2025-03-24 17:29:59.218659 - Error: FPGA not ready
+2025-03-24 17:29:59.218659 - Error: Could not read the FPGA
+2025-03-24 17:29:59.249364 - Waveform sent
+2025-03-24 17:29:59.250353 - Error: FPGA not ready
+2025-03-24 17:29:59.250353 - Error: Could not read the FPGA
+2025-03-24 17:29:59.280916 - Waveform sent
+2025-03-24 17:29:59.280916 - Error: FPGA not ready
+2025-03-24 17:29:59.280916 - Error: Could not read the FPGA
+2025-03-24 17:29:59.312922 - Waveform sent
+2025-03-24 17:29:59.312922 - Error: FPGA not ready
+2025-03-24 17:29:59.312922 - Error: Could not read the FPGA
+2025-03-24 17:29:59.344471 - Waveform sent
+2025-03-24 17:29:59.344471 - Error: FPGA not ready
+2025-03-24 17:29:59.344471 - Error: Could not read the FPGA
+2025-03-24 17:29:59.376045 - Waveform sent
+2025-03-24 17:29:59.376045 - Error: FPGA not ready
+2025-03-24 17:29:59.376045 - Error: Could not read the FPGA
+2025-03-24 17:29:59.407408 - Waveform sent
+2025-03-24 17:29:59.407408 - Error: FPGA not ready
+2025-03-24 17:29:59.407408 - Error: Could not read the FPGA
+2025-03-24 17:29:59.438967 - Waveform sent
+2025-03-24 17:29:59.438967 - Error: FPGA not ready
+2025-03-24 17:29:59.438967 - Error: Could not read the FPGA
+2025-03-24 17:29:59.469971 - Waveform sent
+2025-03-24 17:29:59.469971 - Error: FPGA not ready
+2025-03-24 17:29:59.469971 - Error: Could not read the FPGA
+2025-03-24 17:29:59.501946 - Waveform sent
+2025-03-24 17:29:59.501946 - Error: FPGA not ready
+2025-03-24 17:29:59.501946 - Error: Could not read the FPGA
+2025-03-24 17:29:59.533715 - Waveform sent
+2025-03-24 17:29:59.533715 - Error: FPGA not ready
+2025-03-24 17:29:59.533715 - Error: Could not read the FPGA
+2025-03-24 17:29:59.562766 - Waveform sent
+2025-03-24 17:29:59.562766 - Error: FPGA not ready
+2025-03-24 17:29:59.562766 - Error: Could not read the FPGA
+2025-03-24 17:29:59.596507 - Waveform sent
+2025-03-24 17:29:59.596507 - Error: FPGA not ready
+2025-03-24 17:29:59.596507 - Error: Could not read the FPGA
+2025-03-24 17:29:59.627497 - Waveform sent
+2025-03-24 17:29:59.628497 - Error: FPGA not ready
+2025-03-24 17:29:59.628497 - Error: Could not read the FPGA
+2025-03-24 17:29:59.660322 - Waveform sent
+2025-03-24 17:29:59.660322 - Error: FPGA not ready
+2025-03-24 17:29:59.660322 - Error: Could not read the FPGA
+2025-03-24 17:29:59.690877 - Waveform sent
+2025-03-24 17:29:59.691850 - Error: FPGA not ready
+2025-03-24 17:29:59.691850 - Error: Could not read the FPGA
+2025-03-24 17:29:59.722633 - Waveform sent
+2025-03-24 17:29:59.723518 - Error: FPGA not ready
+2025-03-24 17:29:59.723518 - Error: Could not read the FPGA
+2025-03-24 17:29:59.754051 - Waveform sent
+2025-03-24 17:29:59.754051 - Error: FPGA not ready
+2025-03-24 17:29:59.754051 - Error: Could not read the FPGA
+2025-03-24 17:29:59.786082 - Waveform sent
+2025-03-24 17:29:59.786082 - Error: FPGA not ready
+2025-03-24 17:29:59.786082 - Error: Could not read the FPGA
+2025-03-24 17:29:59.817610 - Waveform sent
+2025-03-24 17:29:59.817610 - Error: FPGA not ready
+2025-03-24 17:29:59.817610 - Error: Could not read the FPGA
+2025-03-24 17:29:59.849319 - Waveform sent
+2025-03-24 17:29:59.849319 - Error: FPGA not ready
+2025-03-24 17:29:59.849319 - Error: Could not read the FPGA
+2025-03-24 17:29:59.880376 - Waveform sent
+2025-03-24 17:29:59.881275 - Error: FPGA not ready
+2025-03-24 17:29:59.881275 - Error: Could not read the FPGA
+2025-03-24 17:29:59.911824 - Waveform sent
+2025-03-24 17:29:59.911824 - Error: FPGA not ready
+2025-03-24 17:29:59.911824 - Error: Could not read the FPGA
+2025-03-24 17:29:59.944040 - Waveform sent
+2025-03-24 17:29:59.944040 - Error: FPGA not ready
+2025-03-24 17:29:59.944040 - Error: Could not read the FPGA
+2025-03-24 17:29:59.975224 - Waveform sent
+2025-03-24 17:29:59.975224 - Error: FPGA not ready
+2025-03-24 17:29:59.975224 - Error: Could not read the FPGA
+2025-03-24 17:30:00.006953 - Waveform sent
+2025-03-24 17:30:00.006953 - Error: FPGA not ready
+2025-03-24 17:30:00.006953 - Error: Could not read the FPGA
+2025-03-24 17:30:00.040971 - Waveform sent
+2025-03-24 17:30:00.040971 - Error: FPGA not ready
+2025-03-24 17:30:00.040971 - Error: Could not read the FPGA
+2025-03-24 17:30:00.072466 - Waveform sent
+2025-03-24 17:30:00.072466 - Error: FPGA not ready
+2025-03-24 17:30:00.072466 - Error: Could not read the FPGA
+2025-03-24 17:30:00.104673 - Waveform sent
+2025-03-24 17:30:00.104673 - Error: FPGA not ready
+2025-03-24 17:30:00.104673 - Error: Could not read the FPGA
+2025-03-24 17:30:00.137662 - Waveform sent
+2025-03-24 17:30:00.139663 - Error: FPGA not ready
+2025-03-24 17:30:00.139663 - Error: Could not read the FPGA
+2025-03-24 17:30:00.169180 - Waveform sent
+2025-03-24 17:30:00.169180 - Error: FPGA not ready
+2025-03-24 17:30:00.169180 - Error: Could not read the FPGA
+2025-03-24 17:30:00.200884 - Waveform sent
+2025-03-24 17:30:00.200884 - Error: FPGA not ready
+2025-03-24 17:30:00.200884 - Error: Could not read the FPGA
+2025-03-24 17:30:00.232090 - Waveform sent
+2025-03-24 17:30:00.232090 - Error: FPGA not ready
+2025-03-24 17:30:00.232090 - Error: Could not read the FPGA
+2025-03-24 17:30:00.264135 - Waveform sent
+2025-03-24 17:30:00.264135 - Error: FPGA not ready
+2025-03-24 17:30:00.264135 - Error: Could not read the FPGA
+2025-03-24 17:30:00.295036 - Waveform sent
+2025-03-24 17:30:00.295036 - Error: FPGA not ready
+2025-03-24 17:30:00.295036 - Error: Could not read the FPGA
+2025-03-24 17:30:00.327279 - Waveform sent
+2025-03-24 17:30:00.327279 - Error: FPGA not ready
+2025-03-24 17:30:00.327279 - Error: Could not read the FPGA
+2025-03-24 17:30:00.358362 - Waveform sent
+2025-03-24 17:30:00.358362 - Error: FPGA not ready
+2025-03-24 17:30:00.358362 - Error: Could not read the FPGA
+2025-03-24 17:30:00.389390 - Waveform sent
+2025-03-24 17:30:00.389390 - Error: FPGA not ready
+2025-03-24 17:30:00.389390 - Error: Could not read the FPGA
+2025-03-24 17:30:00.421725 - Waveform sent
+2025-03-24 17:30:00.421725 - Error: FPGA not ready
+2025-03-24 17:30:00.421725 - Error: Could not read the FPGA
+2025-03-24 17:30:00.452519 - Waveform sent
+2025-03-24 17:30:00.453564 - Error: FPGA not ready
+2025-03-24 17:30:00.453564 - Error: Could not read the FPGA
+2025-03-24 17:30:00.484034 - Waveform sent
+2025-03-24 17:30:00.484034 - Error: FPGA not ready
+2025-03-24 17:30:00.484034 - Error: Could not read the FPGA
+2025-03-24 17:30:00.515732 - Waveform sent
+2025-03-24 17:30:00.515732 - Error: FPGA not ready
+2025-03-24 17:30:00.515732 - Error: Could not read the FPGA
+2025-03-24 17:30:00.547905 - Waveform sent
+2025-03-24 17:30:00.547905 - Error: FPGA not ready
+2025-03-24 17:30:00.547905 - Error: Could not read the FPGA
+2025-03-24 17:30:00.579649 - Waveform sent
+2025-03-24 17:30:00.579649 - Error: FPGA not ready
+2025-03-24 17:30:00.579649 - Error: Could not read the FPGA
+2025-03-24 17:30:00.610905 - Waveform sent
+2025-03-24 17:30:00.610905 - Error: FPGA not ready
+2025-03-24 17:30:00.610905 - Error: Could not read the FPGA
+2025-03-24 17:30:00.641951 - Waveform sent
+2025-03-24 17:30:00.641951 - Error: FPGA not ready
+2025-03-24 17:30:00.641951 - Error: Could not read the FPGA
+2025-03-24 17:30:00.673955 - Waveform sent
+2025-03-24 17:30:00.673955 - Error: FPGA not ready
+2025-03-24 17:30:00.673955 - Error: Could not read the FPGA
+2025-03-24 17:30:00.705498 - Waveform sent
+2025-03-24 17:30:00.705498 - Error: FPGA not ready
+2025-03-24 17:30:00.705498 - Error: Could not read the FPGA
+2025-03-24 17:30:00.736884 - Waveform sent
+2025-03-24 17:30:00.736884 - Error: FPGA not ready
+2025-03-24 17:30:00.736884 - Error: Could not read the FPGA
+2025-03-24 17:30:00.768530 - Waveform sent
+2025-03-24 17:30:00.768530 - Error: FPGA not ready
+2025-03-24 17:30:00.768530 - Error: Could not read the FPGA
+2025-03-24 17:30:00.800184 - Waveform sent
+2025-03-24 17:30:00.800184 - Error: FPGA not ready
+2025-03-24 17:30:00.800184 - Error: Could not read the FPGA
+2025-03-24 17:30:00.831201 - Waveform sent
+2025-03-24 17:30:00.832222 - Error: FPGA not ready
+2025-03-24 17:30:00.832222 - Error: Could not read the FPGA
+2025-03-24 17:30:00.862497 - Waveform sent
+2025-03-24 17:30:00.863496 - Error: FPGA not ready
+2025-03-24 17:30:00.863496 - Error: Could not read the FPGA
+2025-03-24 17:30:00.894258 - Waveform sent
+2025-03-24 17:30:00.895157 - Error: FPGA not ready
+2025-03-24 17:30:00.895157 - Error: Could not read the FPGA
+2025-03-24 17:30:00.926265 - Waveform sent
+2025-03-24 17:30:00.926265 - Error: FPGA not ready
+2025-03-24 17:30:00.926265 - Error: Could not read the FPGA
+2025-03-24 17:30:00.957535 - Waveform sent
+2025-03-24 17:30:00.957535 - Error: FPGA not ready
+2025-03-24 17:30:00.957535 - Error: Could not read the FPGA
+2025-03-24 17:30:00.989021 - Waveform sent
+2025-03-24 17:30:00.989021 - Error: FPGA not ready
+2025-03-24 17:30:00.989021 - Error: Could not read the FPGA
+2025-03-24 17:30:01.078974 - Waveform sent
+2025-03-24 17:30:01.079823 - Error: FPGA not ready
+2025-03-24 17:30:01.079823 - Error: Could not read the FPGA
+2025-03-24 17:30:01.163988 - Waveform sent
+2025-03-24 17:30:01.163988 - Error: FPGA not ready
+2025-03-24 17:30:01.163988 - Error: Could not read the FPGA
+2025-03-24 17:30:01.195915 - Waveform sent
+2025-03-24 17:30:01.195915 - Error: FPGA not ready
+2025-03-24 17:30:01.195915 - Error: Could not read the FPGA
+
+2025-03-24 17:30:40.322828 - FPGA opened
+2025-03-24 17:30:40.322828 - Key sent
+2025-03-24 17:30:40.333108 - Nonce sent
+2025-03-24 17:30:40.354809 - Associated data sent
+2025-03-24 17:30:41.803806 - Waveform sent
+2025-03-24 17:30:41.839567 - Error: FPGA not ready
+2025-03-24 17:30:41.839567 - Error: Could not read the FPGA
+2025-03-24 17:30:41.914718 - Waveform sent
+2025-03-24 17:30:41.914718 - Error: FPGA not ready
+2025-03-24 17:30:41.914718 - Error: Could not read the FPGA
+2025-03-24 17:30:41.946267 - Waveform sent
+2025-03-24 17:30:41.946267 - Error: FPGA not ready
+2025-03-24 17:30:41.946267 - Error: Could not read the FPGA
+2025-03-24 17:30:41.990305 - Waveform sent
+2025-03-24 17:30:41.990305 - Error: FPGA not ready
+2025-03-24 17:30:41.990305 - Error: Could not read the FPGA
+2025-03-24 17:30:42.021418 - Waveform sent
+2025-03-24 17:30:42.021418 - Error: FPGA not ready
+2025-03-24 17:30:42.021418 - Error: Could not read the FPGA
+2025-03-24 17:30:42.052822 - Waveform sent
+2025-03-24 17:30:42.052822 - Error: FPGA not ready
+2025-03-24 17:30:42.052822 - Error: Could not read the FPGA
+2025-03-24 17:30:42.084720 - Waveform sent
+2025-03-24 17:30:42.084720 - Error: FPGA not ready
+2025-03-24 17:30:42.084720 - Error: Could not read the FPGA
+2025-03-24 17:30:42.115509 - Waveform sent
+2025-03-24 17:30:42.116507 - Error: FPGA not ready
+2025-03-24 17:30:42.116507 - Error: Could not read the FPGA
+2025-03-24 17:30:42.147401 - Waveform sent
+2025-03-24 17:30:42.147401 - Error: FPGA not ready
+2025-03-24 17:30:42.147401 - Error: Could not read the FPGA
+2025-03-24 17:30:42.181403 - Waveform sent
+2025-03-24 17:30:42.181403 - Error: FPGA not ready
+2025-03-24 17:30:42.181403 - Error: Could not read the FPGA
+2025-03-24 17:30:42.212968 - Waveform sent
+2025-03-24 17:30:42.213960 - Error: FPGA not ready
+2025-03-24 17:30:42.213960 - Error: Could not read the FPGA
+2025-03-24 17:30:42.244718 - Waveform sent
+2025-03-24 17:30:42.245701 - Error: FPGA not ready
+2025-03-24 17:30:42.245701 - Error: Could not read the FPGA
+2025-03-24 17:30:42.276356 - Waveform sent
+2025-03-24 17:30:42.276356 - Error: FPGA not ready
+2025-03-24 17:30:42.276356 - Error: Could not read the FPGA
+2025-03-24 17:30:42.307704 - Waveform sent
+2025-03-24 17:30:42.307704 - Error: FPGA not ready
+2025-03-24 17:30:42.307704 - Error: Could not read the FPGA
+2025-03-24 17:30:42.339508 - Waveform sent
+2025-03-24 17:30:42.339508 - Error: FPGA not ready
+2025-03-24 17:30:42.339508 - Error: Could not read the FPGA
+2025-03-24 17:30:42.370703 - Waveform sent
+2025-03-24 17:30:42.371714 - Error: FPGA not ready
+2025-03-24 17:30:42.371714 - Error: Could not read the FPGA
+2025-03-24 17:30:42.402796 - Waveform sent
+2025-03-24 17:30:42.402796 - Error: FPGA not ready
+2025-03-24 17:30:42.402796 - Error: Could not read the FPGA
+2025-03-24 17:30:42.434552 - Waveform sent
+2025-03-24 17:30:42.434552 - Error: FPGA not ready
+2025-03-24 17:30:42.434552 - Error: Could not read the FPGA
+2025-03-24 17:30:42.465627 - Waveform sent
+2025-03-24 17:30:42.465627 - Error: FPGA not ready
+2025-03-24 17:30:42.466527 - Error: Could not read the FPGA
+2025-03-24 17:30:42.497614 - Waveform sent
+2025-03-24 17:30:42.497614 - Error: FPGA not ready
+2025-03-24 17:30:42.497614 - Error: Could not read the FPGA
+2025-03-24 17:30:42.528972 - Waveform sent
+2025-03-24 17:30:42.528972 - Error: FPGA not ready
+2025-03-24 17:30:42.528972 - Error: Could not read the FPGA
+2025-03-24 17:30:42.560130 - Waveform sent
+2025-03-24 17:30:42.560130 - Error: FPGA not ready
+2025-03-24 17:30:42.560130 - Error: Could not read the FPGA
+2025-03-24 17:30:42.591558 - Waveform sent
+2025-03-24 17:30:42.591558 - Error: FPGA not ready
+2025-03-24 17:30:42.591558 - Error: Could not read the FPGA
+2025-03-24 17:30:42.623698 - Waveform sent
+2025-03-24 17:30:42.623698 - Error: FPGA not ready
+2025-03-24 17:30:42.623698 - Error: Could not read the FPGA
+2025-03-24 17:30:42.654699 - Waveform sent
+2025-03-24 17:30:42.655813 - Error: FPGA not ready
+2025-03-24 17:30:42.655813 - Error: Could not read the FPGA
+2025-03-24 17:30:42.686275 - Waveform sent
+2025-03-24 17:30:42.686275 - Error: FPGA not ready
+2025-03-24 17:30:42.687286 - Error: Could not read the FPGA
+2025-03-24 17:30:42.718408 - Waveform sent
+2025-03-24 17:30:42.718408 - Error: FPGA not ready
+2025-03-24 17:30:42.718408 - Error: Could not read the FPGA
+2025-03-24 17:30:42.749225 - Waveform sent
+2025-03-24 17:30:42.750243 - Error: FPGA not ready
+2025-03-24 17:30:42.750243 - Error: Could not read the FPGA
+2025-03-24 17:30:42.781636 - Waveform sent
+2025-03-24 17:30:42.781636 - Error: FPGA not ready
+2025-03-24 17:30:42.781636 - Error: Could not read the FPGA
+2025-03-24 17:30:42.812705 - Waveform sent
+2025-03-24 17:30:42.812705 - Error: FPGA not ready
+2025-03-24 17:30:42.812705 - Error: Could not read the FPGA
+2025-03-24 17:30:42.844168 - Waveform sent
+2025-03-24 17:30:42.844168 - Error: FPGA not ready
+2025-03-24 17:30:42.844168 - Error: Could not read the FPGA
+2025-03-24 17:30:42.876180 - Waveform sent
+2025-03-24 17:30:42.876180 - Error: FPGA not ready
+2025-03-24 17:30:42.876180 - Error: Could not read the FPGA
+2025-03-24 17:30:42.907715 - Waveform sent
+2025-03-24 17:30:42.907715 - Error: FPGA not ready
+2025-03-24 17:30:42.907715 - Error: Could not read the FPGA
+2025-03-24 17:30:42.939304 - Waveform sent
+2025-03-24 17:30:42.939304 - Error: FPGA not ready
+2025-03-24 17:30:42.939304 - Error: Could not read the FPGA
+2025-03-24 17:30:42.970331 - Waveform sent
+2025-03-24 17:30:42.970331 - Error: FPGA not ready
+2025-03-24 17:30:42.970331 - Error: Could not read the FPGA
+2025-03-24 17:30:43.001904 - Waveform sent
+2025-03-24 17:30:43.001904 - Error: FPGA not ready
+2025-03-24 17:30:43.001904 - Error: Could not read the FPGA
+2025-03-24 17:30:43.033536 - Waveform sent
+2025-03-24 17:30:43.033536 - Error: FPGA not ready
+2025-03-24 17:30:43.033536 - Error: Could not read the FPGA
+2025-03-24 17:30:43.065441 - Waveform sent
+2025-03-24 17:30:43.065441 - Error: FPGA not ready
+2025-03-24 17:30:43.065441 - Error: Could not read the FPGA
+2025-03-24 17:30:43.097069 - Waveform sent
+2025-03-24 17:30:43.097069 - Error: FPGA not ready
+2025-03-24 17:30:43.097069 - Error: Could not read the FPGA
+2025-03-24 17:30:43.128227 - Waveform sent
+2025-03-24 17:30:43.128227 - Error: FPGA not ready
+2025-03-24 17:30:43.128227 - Error: Could not read the FPGA
+2025-03-24 17:30:43.159974 - Waveform sent
+2025-03-24 17:30:43.159974 - Error: FPGA not ready
+2025-03-24 17:30:43.159974 - Error: Could not read the FPGA
+2025-03-24 17:30:43.191537 - Waveform sent
+2025-03-24 17:30:43.191537 - Error: FPGA not ready
+2025-03-24 17:30:43.191537 - Error: Could not read the FPGA
+2025-03-24 17:30:43.222954 - Waveform sent
+2025-03-24 17:30:43.223530 - Error: FPGA not ready
+2025-03-24 17:30:43.223530 - Error: Could not read the FPGA
+2025-03-24 17:30:43.254152 - Waveform sent
+2025-03-24 17:30:43.255130 - Error: FPGA not ready
+2025-03-24 17:30:43.255130 - Error: Could not read the FPGA
+2025-03-24 17:30:43.285829 - Waveform sent
+2025-03-24 17:30:43.285829 - Error: FPGA not ready
+2025-03-24 17:30:43.285829 - Error: Could not read the FPGA
+2025-03-24 17:30:43.317832 - Waveform sent
+2025-03-24 17:30:43.317832 - Error: FPGA not ready
+2025-03-24 17:30:43.317832 - Error: Could not read the FPGA
+2025-03-24 17:30:43.348802 - Waveform sent
+2025-03-24 17:30:43.348802 - Error: FPGA not ready
+2025-03-24 17:30:43.349841 - Error: Could not read the FPGA
+2025-03-24 17:30:43.380390 - Waveform sent
+2025-03-24 17:30:43.380390 - Error: FPGA not ready
+2025-03-24 17:30:43.380390 - Error: Could not read the FPGA
+2025-03-24 17:30:43.412150 - Waveform sent
+2025-03-24 17:30:43.413044 - Error: FPGA not ready
+2025-03-24 17:30:43.413044 - Error: Could not read the FPGA
+2025-03-24 17:30:43.444598 - Waveform sent
+2025-03-24 17:30:43.444598 - Error: FPGA not ready
+2025-03-24 17:30:43.444598 - Error: Could not read the FPGA
+2025-03-24 17:30:43.475628 - Waveform sent
+2025-03-24 17:30:43.475628 - Error: FPGA not ready
+2025-03-24 17:30:43.475628 - Error: Could not read the FPGA
+2025-03-24 17:30:43.507558 - Waveform sent
+2025-03-24 17:30:43.509641 - Error: FPGA not ready
+2025-03-24 17:30:43.509641 - Error: Could not read the FPGA
+2025-03-24 17:30:43.538364 - Waveform sent
+2025-03-24 17:30:43.539390 - Error: FPGA not ready
+2025-03-24 17:30:43.539390 - Error: Could not read the FPGA
+2025-03-24 17:30:43.570495 - Waveform sent
+2025-03-24 17:30:43.570495 - Error: FPGA not ready
+2025-03-24 17:30:43.570495 - Error: Could not read the FPGA
+2025-03-24 17:30:43.602128 - Waveform sent
+2025-03-24 17:30:43.602128 - Error: FPGA not ready
+2025-03-24 17:30:43.602128 - Error: Could not read the FPGA
+2025-03-24 17:30:43.633157 - Waveform sent
+2025-03-24 17:30:43.633157 - Error: FPGA not ready
+2025-03-24 17:30:43.633157 - Error: Could not read the FPGA
+2025-03-24 17:30:43.664712 - Waveform sent
+2025-03-24 17:30:43.665610 - Error: FPGA not ready
+2025-03-24 17:30:43.665610 - Error: Could not read the FPGA
+2025-03-24 17:30:43.696818 - Waveform sent
+2025-03-24 17:30:43.696818 - Error: FPGA not ready
+2025-03-24 17:30:43.696818 - Error: Could not read the FPGA
+2025-03-24 17:30:43.728378 - Waveform sent
+2025-03-24 17:30:43.728378 - Error: FPGA not ready
+2025-03-24 17:30:43.728378 - Error: Could not read the FPGA
+2025-03-24 17:30:43.759576 - Waveform sent
+2025-03-24 17:30:43.759576 - Error: FPGA not ready
+2025-03-24 17:30:43.759576 - Error: Could not read the FPGA
+2025-03-24 17:30:43.791231 - Waveform sent
+2025-03-24 17:30:43.791231 - Error: FPGA not ready
+2025-03-24 17:30:43.791231 - Error: Could not read the FPGA
+2025-03-24 17:30:43.823016 - Waveform sent
+2025-03-24 17:30:43.823016 - Error: FPGA not ready
+2025-03-24 17:30:43.823016 - Error: Could not read the FPGA
+2025-03-24 17:30:43.854555 - Waveform sent
+2025-03-24 17:30:43.854555 - Error: FPGA not ready
+2025-03-24 17:30:43.854555 - Error: Could not read the FPGA
+2025-03-24 17:30:43.885263 - Waveform sent
+2025-03-24 17:30:43.885263 - Error: FPGA not ready
+2025-03-24 17:30:43.885263 - Error: Could not read the FPGA
+2025-03-24 17:30:43.917067 - Waveform sent
+2025-03-24 17:30:43.917067 - Error: FPGA not ready
+2025-03-24 17:30:43.917067 - Error: Could not read the FPGA
+2025-03-24 17:30:43.948896 - Waveform sent
+2025-03-24 17:30:43.948896 - Error: FPGA not ready
+2025-03-24 17:30:43.948896 - Error: Could not read the FPGA
+2025-03-24 17:30:43.980354 - Waveform sent
+2025-03-24 17:30:43.980354 - Error: FPGA not ready
+2025-03-24 17:30:43.980354 - Error: Could not read the FPGA
+2025-03-24 17:30:44.011943 - Waveform sent
+2025-03-24 17:30:44.011943 - Error: FPGA not ready
+2025-03-24 17:30:44.011943 - Error: Could not read the FPGA
+2025-03-24 17:30:44.043280 - Waveform sent
+2025-03-24 17:30:44.043280 - Error: FPGA not ready
+2025-03-24 17:30:44.043280 - Error: Could not read the FPGA
+2025-03-24 17:30:44.075360 - Waveform sent
+2025-03-24 17:30:44.075360 - Error: FPGA not ready
+2025-03-24 17:30:44.075360 - Error: Could not read the FPGA
+2025-03-24 17:30:44.106317 - Waveform sent
+2025-03-24 17:30:44.107257 - Error: FPGA not ready
+2025-03-24 17:30:44.107257 - Error: Could not read the FPGA
+2025-03-24 17:30:44.137423 - Waveform sent
+2025-03-24 17:30:44.137423 - Error: FPGA not ready
+2025-03-24 17:30:44.137423 - Error: Could not read the FPGA
+2025-03-24 17:30:44.169681 - Waveform sent
+2025-03-24 17:30:44.169681 - Error: FPGA not ready
+2025-03-24 17:30:44.169681 - Error: Could not read the FPGA
+2025-03-24 17:30:44.201198 - Waveform sent
+2025-03-24 17:30:44.201198 - Error: FPGA not ready
+2025-03-24 17:30:44.201198 - Error: Could not read the FPGA
+2025-03-24 17:30:44.232970 - Waveform sent
+2025-03-24 17:30:44.232970 - Error: FPGA not ready
+2025-03-24 17:30:44.232970 - Error: Could not read the FPGA
+2025-03-24 17:30:44.264054 - Waveform sent
+2025-03-24 17:30:44.264054 - Error: FPGA not ready
+2025-03-24 17:30:44.264054 - Error: Could not read the FPGA
+2025-03-24 17:30:44.296183 - Waveform sent
+2025-03-24 17:30:44.296183 - Error: FPGA not ready
+2025-03-24 17:30:44.296183 - Error: Could not read the FPGA
+2025-03-24 17:30:44.327396 - Waveform sent
+2025-03-24 17:30:44.327396 - Error: FPGA not ready
+2025-03-24 17:30:44.327396 - Error: Could not read the FPGA
+2025-03-24 17:30:44.359404 - Waveform sent
+2025-03-24 17:30:44.359404 - Error: FPGA not ready
+2025-03-24 17:30:44.359404 - Error: Could not read the FPGA
+2025-03-24 17:30:44.390319 - Waveform sent
+2025-03-24 17:30:44.391314 - Error: FPGA not ready
+2025-03-24 17:30:44.391314 - Error: Could not read the FPGA
+2025-03-24 17:30:44.422639 - Waveform sent
+2025-03-24 17:30:44.422639 - Error: FPGA not ready
+2025-03-24 17:30:44.422639 - Error: Could not read the FPGA
+2025-03-24 17:30:44.453207 - Waveform sent
+2025-03-24 17:30:44.453207 - Error: FPGA not ready
+2025-03-24 17:30:44.453207 - Error: Could not read the FPGA
+2025-03-24 17:30:44.485278 - Waveform sent
+2025-03-24 17:30:44.485278 - Error: FPGA not ready
+2025-03-24 17:30:44.485278 - Error: Could not read the FPGA
+2025-03-24 17:30:44.516336 - Waveform sent
+2025-03-24 17:30:44.517334 - Error: FPGA not ready
+2025-03-24 17:30:44.517334 - Error: Could not read the FPGA
+2025-03-24 17:30:44.548119 - Waveform sent
+2025-03-24 17:30:44.548119 - Error: FPGA not ready
+2025-03-24 17:30:44.548119 - Error: Could not read the FPGA
+2025-03-24 17:30:44.579768 - Waveform sent
+2025-03-24 17:30:44.579768 - Error: FPGA not ready
+2025-03-24 17:30:44.579768 - Error: Could not read the FPGA
+2025-03-24 17:30:44.611108 - Waveform sent
+2025-03-24 17:30:44.612014 - Error: FPGA not ready
+2025-03-24 17:30:44.612014 - Error: Could not read the FPGA
+2025-03-24 17:30:44.643883 - Waveform sent
+2025-03-24 17:30:44.643883 - Error: FPGA not ready
+2025-03-24 17:30:44.643883 - Error: Could not read the FPGA
+2025-03-24 17:30:44.675471 - Waveform sent
+2025-03-24 17:30:44.675471 - Error: FPGA not ready
+2025-03-24 17:30:44.675471 - Error: Could not read the FPGA
+2025-03-24 17:30:44.706915 - Waveform sent
+2025-03-24 17:30:44.706915 - Error: FPGA not ready
+2025-03-24 17:30:44.706915 - Error: Could not read the FPGA
+2025-03-24 17:30:44.738567 - Waveform sent
+2025-03-24 17:30:44.738567 - Error: FPGA not ready
+2025-03-24 17:30:44.738567 - Error: Could not read the FPGA
+2025-03-24 17:30:44.769972 - Waveform sent
+2025-03-24 17:30:44.769972 - Error: FPGA not ready
+2025-03-24 17:30:44.769972 - Error: Could not read the FPGA
+2025-03-24 17:30:44.801717 - Waveform sent
+2025-03-24 17:30:44.801717 - Error: FPGA not ready
+2025-03-24 17:30:44.801717 - Error: Could not read the FPGA
+2025-03-24 17:30:44.833138 - Waveform sent
+2025-03-24 17:30:44.833138 - Error: FPGA not ready
+2025-03-24 17:30:44.833138 - Error: Could not read the FPGA
+2025-03-24 17:30:44.863892 - Waveform sent
+2025-03-24 17:30:44.864909 - Error: FPGA not ready
+2025-03-24 17:30:44.864909 - Error: Could not read the FPGA
+2025-03-24 17:30:44.896336 - Waveform sent
+2025-03-24 17:30:44.896336 - Error: FPGA not ready
+2025-03-24 17:30:44.896336 - Error: Could not read the FPGA
+2025-03-24 17:30:44.928277 - Waveform sent
+2025-03-24 17:30:44.928277 - Error: FPGA not ready
+2025-03-24 17:30:44.928277 - Error: Could not read the FPGA
+2025-03-24 17:30:44.959227 - Waveform sent
+2025-03-24 17:30:44.960288 - Error: FPGA not ready
+2025-03-24 17:30:44.960288 - Error: Could not read the FPGA
+2025-03-24 17:30:44.991442 - Waveform sent
+2025-03-24 17:30:44.991442 - Error: FPGA not ready
+2025-03-24 17:30:44.991442 - Error: Could not read the FPGA
+2025-03-24 17:30:45.022447 - Waveform sent
+2025-03-24 17:30:45.023439 - Error: FPGA not ready
+2025-03-24 17:30:45.023439 - Error: Could not read the FPGA
+2025-03-24 17:30:45.054028 - Waveform sent
+2025-03-24 17:30:45.055010 - Error: FPGA not ready
+2025-03-24 17:30:45.055010 - Error: Could not read the FPGA
+2025-03-24 17:30:45.085020 - Waveform sent
+2025-03-24 17:30:45.086535 - Error: FPGA not ready
+2025-03-24 17:30:45.086535 - Error: Could not read the FPGA
+2025-03-24 17:30:45.163325 - Waveform sent
+2025-03-24 17:30:45.164323 - Error: FPGA not ready
+2025-03-24 17:30:45.164323 - Error: Could not read the FPGA
+2025-03-24 17:30:45.227008 - Waveform sent
+2025-03-24 17:30:45.227008 - Error: FPGA not ready
+2025-03-24 17:30:45.227008 - Error: Could not read the FPGA
+2025-03-24 17:30:45.258650 - Waveform sent
+2025-03-24 17:30:45.258650 - Error: FPGA not ready
+2025-03-24 17:30:45.258650 - Error: Could not read the FPGA
+
+2025-03-24 17:31:22.518243 - FPGA opened
+2025-03-24 17:31:22.518243 - Key sent
+2025-03-24 17:31:22.536417 - Nonce sent
+2025-03-24 17:31:22.551947 - Associated data sent
+
+2025-03-24 17:31:44.113845 - FPGA opened
+2025-03-24 17:31:44.113845 - Key sent
+2025-03-24 17:31:44.125765 - Nonce sent
+2025-03-24 17:31:44.142792 - Associated data sent
+
+2025-03-24 17:32:10.575897 - FPGA opened
+2025-03-24 17:32:10.575897 - Key sent
+2025-03-24 17:32:10.589466 - Nonce sent
+2025-03-24 17:32:10.604920 - Associated data sent
+2025-03-24 17:32:12.465290 - Waveform sent
+2025-03-24 17:32:12.500957 - Error: FPGA not ready
+2025-03-24 17:32:12.500957 - Error: Could not read the FPGA
+2025-03-24 17:32:12.571582 - Waveform sent
+2025-03-24 17:32:12.571582 - Error: FPGA not ready
+2025-03-24 17:32:12.571582 - Error: Could not read the FPGA
+2025-03-24 17:32:12.604129 - Waveform sent
+2025-03-24 17:32:12.604129 - Error: FPGA not ready
+2025-03-24 17:32:12.604129 - Error: Could not read the FPGA
+2025-03-24 17:32:12.652092 - Waveform sent
+2025-03-24 17:32:12.652092 - Error: FPGA not ready
+2025-03-24 17:32:12.652092 - Error: Could not read the FPGA
+2025-03-24 17:32:12.683875 - Waveform sent
+2025-03-24 17:32:12.683875 - Error: FPGA not ready
+2025-03-24 17:32:12.683875 - Error: Could not read the FPGA
+2025-03-24 17:32:12.715326 - Waveform sent
+2025-03-24 17:32:12.715326 - Error: FPGA not ready
+2025-03-24 17:32:12.715326 - Error: Could not read the FPGA
+2025-03-24 17:32:12.746959 - Waveform sent
+2025-03-24 17:32:12.746959 - Error: FPGA not ready
+2025-03-24 17:32:12.746959 - Error: Could not read the FPGA
+2025-03-24 17:32:12.778593 - Waveform sent
+2025-03-24 17:32:12.778593 - Error: FPGA not ready
+2025-03-24 17:32:12.778593 - Error: Could not read the FPGA
+2025-03-24 17:32:12.809799 - Waveform sent
+2025-03-24 17:32:12.810731 - Error: FPGA not ready
+2025-03-24 17:32:12.810731 - Error: Could not read the FPGA
+2025-03-24 17:32:12.841420 - Waveform sent
+2025-03-24 17:32:12.841420 - Error: FPGA not ready
+2025-03-24 17:32:12.841420 - Error: Could not read the FPGA
+2025-03-24 17:32:12.873440 - Waveform sent
+2025-03-24 17:32:12.873440 - Error: FPGA not ready
+2025-03-24 17:32:12.873440 - Error: Could not read the FPGA
+2025-03-24 17:32:12.903975 - Waveform sent
+2025-03-24 17:32:12.904978 - Error: FPGA not ready
+2025-03-24 17:32:12.904978 - Error: Could not read the FPGA
+2025-03-24 17:32:12.936083 - Waveform sent
+2025-03-24 17:32:12.936083 - Error: FPGA not ready
+2025-03-24 17:32:12.936083 - Error: Could not read the FPGA
+2025-03-24 17:32:12.967099 - Waveform sent
+2025-03-24 17:32:12.968097 - Error: FPGA not ready
+2025-03-24 17:32:12.968097 - Error: Could not read the FPGA
+2025-03-24 17:32:12.998750 - Waveform sent
+2025-03-24 17:32:12.998750 - Error: FPGA not ready
+2025-03-24 17:32:12.999759 - Error: Could not read the FPGA
+2025-03-24 17:32:13.029745 - Waveform sent
+2025-03-24 17:32:13.031255 - Error: FPGA not ready
+2025-03-24 17:32:13.031255 - Error: Could not read the FPGA
+2025-03-24 17:32:13.062269 - Waveform sent
+2025-03-24 17:32:13.062269 - Error: FPGA not ready
+2025-03-24 17:32:13.062269 - Error: Could not read the FPGA
+2025-03-24 17:32:13.093178 - Waveform sent
+2025-03-24 17:32:13.094167 - Error: FPGA not ready
+2025-03-24 17:32:13.094167 - Error: Could not read the FPGA
+2025-03-24 17:32:13.125182 - Waveform sent
+2025-03-24 17:32:13.125182 - Error: FPGA not ready
+2025-03-24 17:32:13.125182 - Error: Could not read the FPGA
+2025-03-24 17:32:13.157035 - Waveform sent
+2025-03-24 17:32:13.157035 - Error: FPGA not ready
+2025-03-24 17:32:13.157035 - Error: Could not read the FPGA
+2025-03-24 17:32:13.188041 - Waveform sent
+2025-03-24 17:32:13.188041 - Error: FPGA not ready
+2025-03-24 17:32:13.188041 - Error: Could not read the FPGA
+2025-03-24 17:32:13.219569 - Waveform sent
+2025-03-24 17:32:13.220571 - Error: FPGA not ready
+2025-03-24 17:32:13.220571 - Error: Could not read the FPGA
+2025-03-24 17:32:13.251104 - Waveform sent
+2025-03-24 17:32:13.252105 - Error: FPGA not ready
+2025-03-24 17:32:13.252105 - Error: Could not read the FPGA
+2025-03-24 17:32:13.282104 - Waveform sent
+2025-03-24 17:32:13.283619 - Error: FPGA not ready
+2025-03-24 17:32:13.283619 - Error: Could not read the FPGA
+2025-03-24 17:32:13.314867 - Waveform sent
+2025-03-24 17:32:13.314867 - Error: FPGA not ready
+2025-03-24 17:32:13.314867 - Error: Could not read the FPGA
+2025-03-24 17:32:13.346126 - Waveform sent
+2025-03-24 17:32:13.346126 - Error: FPGA not ready
+2025-03-24 17:32:13.346126 - Error: Could not read the FPGA
+2025-03-24 17:32:13.377123 - Waveform sent
+2025-03-24 17:32:13.377123 - Error: FPGA not ready
+2025-03-24 17:32:13.377123 - Error: Could not read the FPGA
+2025-03-24 17:32:13.407952 - Waveform sent
+2025-03-24 17:32:13.409541 - Error: FPGA not ready
+2025-03-24 17:32:13.409541 - Error: Could not read the FPGA
+2025-03-24 17:32:13.440614 - Waveform sent
+2025-03-24 17:32:13.440614 - Error: FPGA not ready
+2025-03-24 17:32:13.440614 - Error: Could not read the FPGA
+2025-03-24 17:32:13.472626 - Waveform sent
+2025-03-24 17:32:13.472626 - Error: FPGA not ready
+2025-03-24 17:32:13.472626 - Error: Could not read the FPGA
+2025-03-24 17:32:13.504150 - Waveform sent
+2025-03-24 17:32:13.504150 - Error: FPGA not ready
+2025-03-24 17:32:13.504150 - Error: Could not read the FPGA
+2025-03-24 17:32:13.535141 - Waveform sent
+2025-03-24 17:32:13.535141 - Error: FPGA not ready
+2025-03-24 17:32:13.535141 - Error: Could not read the FPGA
+2025-03-24 17:32:13.566759 - Waveform sent
+2025-03-24 17:32:13.566759 - Error: FPGA not ready
+2025-03-24 17:32:13.567760 - Error: Could not read the FPGA
+2025-03-24 17:32:13.599341 - Waveform sent
+2025-03-24 17:32:13.599341 - Error: FPGA not ready
+2025-03-24 17:32:13.599341 - Error: Could not read the FPGA
+2025-03-24 17:32:13.631045 - Waveform sent
+2025-03-24 17:32:13.631045 - Error: FPGA not ready
+2025-03-24 17:32:13.631045 - Error: Could not read the FPGA
+2025-03-24 17:32:13.662055 - Waveform sent
+2025-03-24 17:32:13.662055 - Error: FPGA not ready
+2025-03-24 17:32:13.662055 - Error: Could not read the FPGA
+2025-03-24 17:32:13.693854 - Waveform sent
+2025-03-24 17:32:13.693854 - Error: FPGA not ready
+2025-03-24 17:32:13.693854 - Error: Could not read the FPGA
+2025-03-24 17:32:13.724850 - Waveform sent
+2025-03-24 17:32:13.724850 - Error: FPGA not ready
+2025-03-24 17:32:13.724850 - Error: Could not read the FPGA
+2025-03-24 17:32:13.756290 - Waveform sent
+2025-03-24 17:32:13.757220 - Error: FPGA not ready
+2025-03-24 17:32:13.757220 - Error: Could not read the FPGA
+2025-03-24 17:32:13.788766 - Waveform sent
+2025-03-24 17:32:13.788766 - Error: FPGA not ready
+2025-03-24 17:32:13.788766 - Error: Could not read the FPGA
+2025-03-24 17:32:13.819766 - Waveform sent
+2025-03-24 17:32:13.819766 - Error: FPGA not ready
+2025-03-24 17:32:13.819766 - Error: Could not read the FPGA
+2025-03-24 17:32:13.851656 - Waveform sent
+2025-03-24 17:32:13.851656 - Error: FPGA not ready
+2025-03-24 17:32:13.851656 - Error: Could not read the FPGA
+2025-03-24 17:32:13.883357 - Waveform sent
+2025-03-24 17:32:13.883357 - Error: FPGA not ready
+2025-03-24 17:32:13.883357 - Error: Could not read the FPGA
+2025-03-24 17:32:13.914436 - Waveform sent
+2025-03-24 17:32:13.915445 - Error: FPGA not ready
+2025-03-24 17:32:13.915445 - Error: Could not read the FPGA
+2025-03-24 17:32:13.946063 - Waveform sent
+2025-03-24 17:32:13.946063 - Error: FPGA not ready
+2025-03-24 17:32:13.946063 - Error: Could not read the FPGA
+2025-03-24 17:32:13.977714 - Waveform sent
+2025-03-24 17:32:13.977714 - Error: FPGA not ready
+2025-03-24 17:32:13.977714 - Error: Could not read the FPGA
+2025-03-24 17:32:14.010261 - Waveform sent
+2025-03-24 17:32:14.010261 - Error: FPGA not ready
+2025-03-24 17:32:14.010261 - Error: Could not read the FPGA
+2025-03-24 17:32:14.042327 - Waveform sent
+2025-03-24 17:32:14.042327 - Error: FPGA not ready
+2025-03-24 17:32:14.042327 - Error: Could not read the FPGA
+2025-03-24 17:32:14.074980 - Waveform sent
+2025-03-24 17:32:14.075989 - Error: FPGA not ready
+2025-03-24 17:32:14.075989 - Error: Could not read the FPGA
+2025-03-24 17:32:14.107035 - Waveform sent
+2025-03-24 17:32:14.107035 - Error: FPGA not ready
+2025-03-24 17:32:14.107035 - Error: Could not read the FPGA
+2025-03-24 17:32:14.139003 - Waveform sent
+2025-03-24 17:32:14.139003 - Error: FPGA not ready
+2025-03-24 17:32:14.139003 - Error: Could not read the FPGA
+2025-03-24 17:32:14.170603 - Waveform sent
+2025-03-24 17:32:14.172602 - Error: FPGA not ready
+2025-03-24 17:32:14.172602 - Error: Could not read the FPGA
+2025-03-24 17:32:14.201293 - Waveform sent
+2025-03-24 17:32:14.201293 - Error: FPGA not ready
+2025-03-24 17:32:14.201293 - Error: Could not read the FPGA
+2025-03-24 17:32:14.232911 - Waveform sent
+2025-03-24 17:32:14.232911 - Error: FPGA not ready
+2025-03-24 17:32:14.232911 - Error: Could not read the FPGA
+2025-03-24 17:32:14.264712 - Waveform sent
+2025-03-24 17:32:14.264712 - Error: FPGA not ready
+2025-03-24 17:32:14.264712 - Error: Could not read the FPGA
+2025-03-24 17:32:14.296478 - Waveform sent
+2025-03-24 17:32:14.296478 - Error: FPGA not ready
+2025-03-24 17:32:14.296478 - Error: Could not read the FPGA
+2025-03-24 17:32:14.327221 - Waveform sent
+2025-03-24 17:32:14.328220 - Error: FPGA not ready
+2025-03-24 17:32:14.328220 - Error: Could not read the FPGA
+2025-03-24 17:32:14.359266 - Waveform sent
+2025-03-24 17:32:14.359266 - Error: FPGA not ready
+2025-03-24 17:32:14.359266 - Error: Could not read the FPGA
+2025-03-24 17:32:14.390931 - Waveform sent
+2025-03-24 17:32:14.390931 - Error: FPGA not ready
+2025-03-24 17:32:14.390931 - Error: Could not read the FPGA
+2025-03-24 17:32:14.422296 - Waveform sent
+2025-03-24 17:32:14.422296 - Error: FPGA not ready
+2025-03-24 17:32:14.422296 - Error: Could not read the FPGA
+2025-03-24 17:32:14.453921 - Waveform sent
+2025-03-24 17:32:14.453921 - Error: FPGA not ready
+2025-03-24 17:32:14.453921 - Error: Could not read the FPGA
+2025-03-24 17:32:14.485239 - Waveform sent
+2025-03-24 17:32:14.485239 - Error: FPGA not ready
+2025-03-24 17:32:14.485239 - Error: Could not read the FPGA
+2025-03-24 17:32:14.516791 - Waveform sent
+2025-03-24 17:32:14.516791 - Error: FPGA not ready
+2025-03-24 17:32:14.517771 - Error: Could not read the FPGA
+2025-03-24 17:32:14.548286 - Waveform sent
+2025-03-24 17:32:14.548286 - Error: FPGA not ready
+2025-03-24 17:32:14.549288 - Error: Could not read the FPGA
+2025-03-24 17:32:14.579524 - Waveform sent
+2025-03-24 17:32:14.579524 - Error: FPGA not ready
+2025-03-24 17:32:14.579524 - Error: Could not read the FPGA
+2025-03-24 17:32:14.611537 - Waveform sent
+2025-03-24 17:32:14.611537 - Error: FPGA not ready
+2025-03-24 17:32:14.611537 - Error: Could not read the FPGA
+2025-03-24 17:32:14.643386 - Waveform sent
+2025-03-24 17:32:14.643386 - Error: FPGA not ready
+2025-03-24 17:32:14.643386 - Error: Could not read the FPGA
+2025-03-24 17:32:14.674443 - Waveform sent
+2025-03-24 17:32:14.674443 - Error: FPGA not ready
+2025-03-24 17:32:14.674443 - Error: Could not read the FPGA
+2025-03-24 17:32:14.705979 - Waveform sent
+2025-03-24 17:32:14.706977 - Error: FPGA not ready
+2025-03-24 17:32:14.706977 - Error: Could not read the FPGA
+2025-03-24 17:32:14.738018 - Waveform sent
+2025-03-24 17:32:14.738018 - Error: FPGA not ready
+2025-03-24 17:32:14.738018 - Error: Could not read the FPGA
+2025-03-24 17:32:14.769269 - Waveform sent
+2025-03-24 17:32:14.769269 - Error: FPGA not ready
+2025-03-24 17:32:14.769269 - Error: Could not read the FPGA
+2025-03-24 17:32:14.801642 - Waveform sent
+2025-03-24 17:32:14.801642 - Error: FPGA not ready
+2025-03-24 17:32:14.801642 - Error: Could not read the FPGA
+2025-03-24 17:32:14.832180 - Waveform sent
+2025-03-24 17:32:14.833190 - Error: FPGA not ready
+2025-03-24 17:32:14.833190 - Error: Could not read the FPGA
+2025-03-24 17:32:14.864350 - Waveform sent
+2025-03-24 17:32:14.864350 - Error: FPGA not ready
+2025-03-24 17:32:14.864350 - Error: Could not read the FPGA
+2025-03-24 17:32:14.897135 - Waveform sent
+2025-03-24 17:32:14.897135 - Error: FPGA not ready
+2025-03-24 17:32:14.897135 - Error: Could not read the FPGA
+2025-03-24 17:32:14.930109 - Waveform sent
+2025-03-24 17:32:14.930109 - Error: FPGA not ready
+2025-03-24 17:32:14.930109 - Error: Could not read the FPGA
+2025-03-24 17:32:14.961902 - Waveform sent
+2025-03-24 17:32:14.961902 - Error: FPGA not ready
+2025-03-24 17:32:14.961902 - Error: Could not read the FPGA
+2025-03-24 17:32:14.994606 - Waveform sent
+2025-03-24 17:32:14.995605 - Error: FPGA not ready
+2025-03-24 17:32:14.995605 - Error: Could not read the FPGA
+2025-03-24 17:32:15.026394 - Waveform sent
+2025-03-24 17:32:15.026394 - Error: FPGA not ready
+2025-03-24 17:32:15.026394 - Error: Could not read the FPGA
+2025-03-24 17:32:15.058631 - Waveform sent
+2025-03-24 17:32:15.058631 - Error: FPGA not ready
+2025-03-24 17:32:15.058631 - Error: Could not read the FPGA
+2025-03-24 17:32:15.089227 - Waveform sent
+2025-03-24 17:32:15.090207 - Error: FPGA not ready
+2025-03-24 17:32:15.090207 - Error: Could not read the FPGA
+2025-03-24 17:32:15.121224 - Waveform sent
+2025-03-24 17:32:15.121224 - Error: FPGA not ready
+2025-03-24 17:32:15.121224 - Error: Could not read the FPGA
+2025-03-24 17:32:15.152868 - Waveform sent
+2025-03-24 17:32:15.152868 - Error: FPGA not ready
+2025-03-24 17:32:15.152868 - Error: Could not read the FPGA
+2025-03-24 17:32:15.184588 - Waveform sent
+2025-03-24 17:32:15.184588 - Error: FPGA not ready
+2025-03-24 17:32:15.184588 - Error: Could not read the FPGA
+2025-03-24 17:32:15.216213 - Waveform sent
+2025-03-24 17:32:15.216213 - Error: FPGA not ready
+2025-03-24 17:32:15.216213 - Error: Could not read the FPGA
+2025-03-24 17:32:15.248271 - Waveform sent
+2025-03-24 17:32:15.248271 - Error: FPGA not ready
+2025-03-24 17:32:15.248271 - Error: Could not read the FPGA
+2025-03-24 17:32:15.279454 - Waveform sent
+2025-03-24 17:32:15.279454 - Error: FPGA not ready
+2025-03-24 17:32:15.279454 - Error: Could not read the FPGA
+2025-03-24 17:32:15.311050 - Waveform sent
+2025-03-24 17:32:15.311050 - Error: FPGA not ready
+2025-03-24 17:32:15.311050 - Error: Could not read the FPGA
+2025-03-24 17:32:15.392507 - Waveform sent
+2025-03-24 17:32:15.392507 - Error: FPGA not ready
+2025-03-24 17:32:15.392507 - Error: Could not read the FPGA
+2025-03-24 17:32:15.446117 - Waveform sent
+2025-03-24 17:32:15.446117 - Error: FPGA not ready
+2025-03-24 17:32:15.446117 - Error: Could not read the FPGA
+2025-03-24 17:32:15.478006 - Waveform sent
+2025-03-24 17:32:15.478006 - Error: FPGA not ready
+2025-03-24 17:32:15.478006 - Error: Could not read the FPGA
+
+2025-03-24 17:32:46.591270 - FPGA opened
+2025-03-24 17:32:46.591270 - Key sent
+2025-03-24 17:32:46.605152 - Nonce sent
+2025-03-24 17:32:46.622270 - Associated data sent
+2025-03-24 17:32:48.151078 - Waveform sent
+2025-03-24 17:32:48.187135 - Error: FPGA not ready
+2025-03-24 17:32:48.187135 - Error: Could not read the FPGA
+2025-03-24 17:32:48.273286 - Waveform sent
+2025-03-24 17:32:48.273286 - Error: FPGA not ready
+2025-03-24 17:32:48.273286 - Error: Could not read the FPGA
+2025-03-24 17:32:48.306822 - Waveform sent
+2025-03-24 17:32:48.306822 - Error: FPGA not ready
+2025-03-24 17:32:48.306822 - Error: Could not read the FPGA
+2025-03-24 17:32:48.353561 - Waveform sent
+2025-03-24 17:32:48.353561 - Error: FPGA not ready
+2025-03-24 17:32:48.353561 - Error: Could not read the FPGA
+2025-03-24 17:32:48.385630 - Waveform sent
+2025-03-24 17:32:48.385630 - Error: FPGA not ready
+2025-03-24 17:32:48.385630 - Error: Could not read the FPGA
+2025-03-24 17:32:48.417280 - Waveform sent
+2025-03-24 17:32:48.417280 - Error: FPGA not ready
+2025-03-24 17:32:48.417280 - Error: Could not read the FPGA
+2025-03-24 17:32:48.448499 - Waveform sent
+2025-03-24 17:32:48.448499 - Error: FPGA not ready
+2025-03-24 17:32:48.448499 - Error: Could not read the FPGA
+2025-03-24 17:32:48.480492 - Waveform sent
+2025-03-24 17:32:48.480492 - Error: FPGA not ready
+2025-03-24 17:32:48.480492 - Error: Could not read the FPGA
+2025-03-24 17:32:48.511047 - Waveform sent
+2025-03-24 17:32:48.512102 - Error: FPGA not ready
+2025-03-24 17:32:48.512102 - Error: Could not read the FPGA
+2025-03-24 17:32:48.542643 - Waveform sent
+2025-03-24 17:32:48.543644 - Error: FPGA not ready
+2025-03-24 17:32:48.543644 - Error: Could not read the FPGA
+2025-03-24 17:32:48.574536 - Waveform sent
+2025-03-24 17:32:48.574536 - Error: FPGA not ready
+2025-03-24 17:32:48.574536 - Error: Could not read the FPGA
+2025-03-24 17:32:48.606718 - Waveform sent
+2025-03-24 17:32:48.606718 - Error: FPGA not ready
+2025-03-24 17:32:48.606718 - Error: Could not read the FPGA
+2025-03-24 17:32:48.637663 - Waveform sent
+2025-03-24 17:32:48.637663 - Error: FPGA not ready
+2025-03-24 17:32:48.637663 - Error: Could not read the FPGA
+2025-03-24 17:32:48.668808 - Waveform sent
+2025-03-24 17:32:48.669809 - Error: FPGA not ready
+2025-03-24 17:32:48.669809 - Error: Could not read the FPGA
+2025-03-24 17:32:48.700763 - Waveform sent
+2025-03-24 17:32:48.701668 - Error: FPGA not ready
+2025-03-24 17:32:48.701668 - Error: Could not read the FPGA
+2025-03-24 17:32:48.731871 - Waveform sent
+2025-03-24 17:32:48.731871 - Error: FPGA not ready
+2025-03-24 17:32:48.731871 - Error: Could not read the FPGA
+2025-03-24 17:32:48.764392 - Waveform sent
+2025-03-24 17:32:48.764392 - Error: FPGA not ready
+2025-03-24 17:32:48.764392 - Error: Could not read the FPGA
+2025-03-24 17:32:48.795145 - Waveform sent
+2025-03-24 17:32:48.796146 - Error: FPGA not ready
+2025-03-24 17:32:48.796146 - Error: Could not read the FPGA
+2025-03-24 17:32:48.827204 - Waveform sent
+2025-03-24 17:32:48.827204 - Error: FPGA not ready
+2025-03-24 17:32:48.827204 - Error: Could not read the FPGA
+2025-03-24 17:32:48.858628 - Waveform sent
+2025-03-24 17:32:48.858628 - Error: FPGA not ready
+2025-03-24 17:32:48.858628 - Error: Could not read the FPGA
+2025-03-24 17:32:48.889613 - Waveform sent
+2025-03-24 17:32:48.890630 - Error: FPGA not ready
+2025-03-24 17:32:48.890630 - Error: Could not read the FPGA
+2025-03-24 17:32:48.921764 - Waveform sent
+2025-03-24 17:32:48.921764 - Error: FPGA not ready
+2025-03-24 17:32:48.921764 - Error: Could not read the FPGA
+2025-03-24 17:32:48.953664 - Waveform sent
+2025-03-24 17:32:48.953664 - Error: FPGA not ready
+2025-03-24 17:32:48.953664 - Error: Could not read the FPGA
+2025-03-24 17:32:48.985556 - Waveform sent
+2025-03-24 17:32:48.985556 - Error: FPGA not ready
+2025-03-24 17:32:48.985556 - Error: Could not read the FPGA
+2025-03-24 17:32:49.016073 - Waveform sent
+2025-03-24 17:32:49.016941 - Error: FPGA not ready
+2025-03-24 17:32:49.016941 - Error: Could not read the FPGA
+2025-03-24 17:32:49.049238 - Waveform sent
+2025-03-24 17:32:49.049238 - Error: FPGA not ready
+2025-03-24 17:32:49.049238 - Error: Could not read the FPGA
+2025-03-24 17:32:49.082941 - Waveform sent
+2025-03-24 17:32:49.082941 - Error: FPGA not ready
+2025-03-24 17:32:49.082941 - Error: Could not read the FPGA
+2025-03-24 17:32:49.114181 - Waveform sent
+2025-03-24 17:32:49.114181 - Error: FPGA not ready
+2025-03-24 17:32:49.114181 - Error: Could not read the FPGA
+2025-03-24 17:32:49.146968 - Waveform sent
+2025-03-24 17:32:49.146968 - Error: FPGA not ready
+2025-03-24 17:32:49.146968 - Error: Could not read the FPGA
+2025-03-24 17:32:49.178717 - Waveform sent
+2025-03-24 17:32:49.178717 - Error: FPGA not ready
+2025-03-24 17:32:49.178717 - Error: Could not read the FPGA
+2025-03-24 17:32:49.210116 - Waveform sent
+2025-03-24 17:32:49.210116 - Error: FPGA not ready
+2025-03-24 17:32:49.210116 - Error: Could not read the FPGA
+2025-03-24 17:32:49.241796 - Waveform sent
+2025-03-24 17:32:49.241796 - Error: FPGA not ready
+2025-03-24 17:32:49.241796 - Error: Could not read the FPGA
+2025-03-24 17:32:49.273013 - Waveform sent
+2025-03-24 17:32:49.273013 - Error: FPGA not ready
+2025-03-24 17:32:49.273013 - Error: Could not read the FPGA
+2025-03-24 17:32:49.304500 - Waveform sent
+2025-03-24 17:32:49.304500 - Error: FPGA not ready
+2025-03-24 17:32:49.304500 - Error: Could not read the FPGA
+2025-03-24 17:32:49.336110 - Waveform sent
+2025-03-24 17:32:49.336110 - Error: FPGA not ready
+2025-03-24 17:32:49.336110 - Error: Could not read the FPGA
+2025-03-24 17:32:49.368109 - Waveform sent
+2025-03-24 17:32:49.368109 - Error: FPGA not ready
+2025-03-24 17:32:49.368109 - Error: Could not read the FPGA
+2025-03-24 17:32:49.399529 - Waveform sent
+2025-03-24 17:32:49.400531 - Error: FPGA not ready
+2025-03-24 17:32:49.400531 - Error: Could not read the FPGA
+2025-03-24 17:32:49.431735 - Waveform sent
+2025-03-24 17:32:49.431735 - Error: FPGA not ready
+2025-03-24 17:32:49.431735 - Error: Could not read the FPGA
+2025-03-24 17:32:49.462868 - Waveform sent
+2025-03-24 17:32:49.462868 - Error: FPGA not ready
+2025-03-24 17:32:49.462868 - Error: Could not read the FPGA
+2025-03-24 17:32:49.494079 - Waveform sent
+2025-03-24 17:32:49.495078 - Error: FPGA not ready
+2025-03-24 17:32:49.495078 - Error: Could not read the FPGA
+2025-03-24 17:32:49.526074 - Waveform sent
+2025-03-24 17:32:49.526074 - Error: FPGA not ready
+2025-03-24 17:32:49.526074 - Error: Could not read the FPGA
+2025-03-24 17:32:49.557136 - Waveform sent
+2025-03-24 17:32:49.557136 - Error: FPGA not ready
+2025-03-24 17:32:49.558111 - Error: Could not read the FPGA
+2025-03-24 17:32:49.589517 - Waveform sent
+2025-03-24 17:32:49.589517 - Error: FPGA not ready
+2025-03-24 17:32:49.589517 - Error: Could not read the FPGA
+2025-03-24 17:32:49.621228 - Waveform sent
+2025-03-24 17:32:49.621228 - Error: FPGA not ready
+2025-03-24 17:32:49.621228 - Error: Could not read the FPGA
+2025-03-24 17:32:49.652307 - Waveform sent
+2025-03-24 17:32:49.652307 - Error: FPGA not ready
+2025-03-24 17:32:49.652307 - Error: Could not read the FPGA
+2025-03-24 17:32:49.683552 - Waveform sent
+2025-03-24 17:32:49.683552 - Error: FPGA not ready
+2025-03-24 17:32:49.684566 - Error: Could not read the FPGA
+2025-03-24 17:32:49.715024 - Waveform sent
+2025-03-24 17:32:49.715024 - Error: FPGA not ready
+2025-03-24 17:32:49.715024 - Error: Could not read the FPGA
+2025-03-24 17:32:49.746698 - Waveform sent
+2025-03-24 17:32:49.746698 - Error: FPGA not ready
+2025-03-24 17:32:49.746698 - Error: Could not read the FPGA
+2025-03-24 17:32:49.777885 - Waveform sent
+2025-03-24 17:32:49.778888 - Error: FPGA not ready
+2025-03-24 17:32:49.778888 - Error: Could not read the FPGA
+2025-03-24 17:32:49.809428 - Waveform sent
+2025-03-24 17:32:49.810426 - Error: FPGA not ready
+2025-03-24 17:32:49.810426 - Error: Could not read the FPGA
+2025-03-24 17:32:49.841221 - Waveform sent
+2025-03-24 17:32:49.842307 - Error: FPGA not ready
+2025-03-24 17:32:49.842307 - Error: Could not read the FPGA
+2025-03-24 17:32:49.878317 - Waveform sent
+2025-03-24 17:32:49.880354 - Error: FPGA not ready
+2025-03-24 17:32:49.880354 - Error: Could not read the FPGA
+2025-03-24 17:32:49.911813 - Waveform sent
+2025-03-24 17:32:49.911813 - Error: FPGA not ready
+2025-03-24 17:32:49.911813 - Error: Could not read the FPGA
+2025-03-24 17:32:49.942942 - Waveform sent
+2025-03-24 17:32:49.943938 - Error: FPGA not ready
+2025-03-24 17:32:49.943938 - Error: Could not read the FPGA
+2025-03-24 17:32:49.975100 - Waveform sent
+2025-03-24 17:32:49.975100 - Error: FPGA not ready
+2025-03-24 17:32:49.975100 - Error: Could not read the FPGA
+2025-03-24 17:32:50.009203 - Waveform sent
+2025-03-24 17:32:50.009203 - Error: FPGA not ready
+2025-03-24 17:32:50.010209 - Error: Could not read the FPGA
+2025-03-24 17:32:50.041912 - Waveform sent
+2025-03-24 17:32:50.041912 - Error: FPGA not ready
+2025-03-24 17:32:50.041912 - Error: Could not read the FPGA
+2025-03-24 17:32:50.074923 - Waveform sent
+2025-03-24 17:32:50.074923 - Error: FPGA not ready
+2025-03-24 17:32:50.074923 - Error: Could not read the FPGA
+2025-03-24 17:32:50.107683 - Waveform sent
+2025-03-24 17:32:50.107683 - Error: FPGA not ready
+2025-03-24 17:32:50.107683 - Error: Could not read the FPGA
+2025-03-24 17:32:50.139409 - Waveform sent
+2025-03-24 17:32:50.139409 - Error: FPGA not ready
+2025-03-24 17:32:50.139409 - Error: Could not read the FPGA
+2025-03-24 17:32:50.171316 - Waveform sent
+2025-03-24 17:32:50.171316 - Error: FPGA not ready
+2025-03-24 17:32:50.171316 - Error: Could not read the FPGA
+2025-03-24 17:32:50.202417 - Waveform sent
+2025-03-24 17:32:50.202417 - Error: FPGA not ready
+2025-03-24 17:32:50.202417 - Error: Could not read the FPGA
+2025-03-24 17:32:50.233830 - Waveform sent
+2025-03-24 17:32:50.234820 - Error: FPGA not ready
+2025-03-24 17:32:50.234820 - Error: Could not read the FPGA
+2025-03-24 17:32:50.265168 - Waveform sent
+2025-03-24 17:32:50.266177 - Error: FPGA not ready
+2025-03-24 17:32:50.266177 - Error: Could not read the FPGA
+2025-03-24 17:32:50.297578 - Waveform sent
+2025-03-24 17:32:50.297578 - Error: FPGA not ready
+2025-03-24 17:32:50.297578 - Error: Could not read the FPGA
+2025-03-24 17:32:50.329230 - Waveform sent
+2025-03-24 17:32:50.329230 - Error: FPGA not ready
+2025-03-24 17:32:50.329230 - Error: Could not read the FPGA
+2025-03-24 17:32:50.359910 - Waveform sent
+2025-03-24 17:32:50.360931 - Error: FPGA not ready
+2025-03-24 17:32:50.360931 - Error: Could not read the FPGA
+2025-03-24 17:32:50.392019 - Waveform sent
+2025-03-24 17:32:50.392019 - Error: FPGA not ready
+2025-03-24 17:32:50.392019 - Error: Could not read the FPGA
+2025-03-24 17:32:50.423131 - Waveform sent
+2025-03-24 17:32:50.423131 - Error: FPGA not ready
+2025-03-24 17:32:50.423131 - Error: Could not read the FPGA
+2025-03-24 17:32:50.455058 - Waveform sent
+2025-03-24 17:32:50.455058 - Error: FPGA not ready
+2025-03-24 17:32:50.455058 - Error: Could not read the FPGA
+2025-03-24 17:32:50.486788 - Waveform sent
+2025-03-24 17:32:50.486788 - Error: FPGA not ready
+2025-03-24 17:32:50.486788 - Error: Could not read the FPGA
+2025-03-24 17:32:50.517950 - Waveform sent
+2025-03-24 17:32:50.517950 - Error: FPGA not ready
+2025-03-24 17:32:50.517950 - Error: Could not read the FPGA
+2025-03-24 17:32:50.549848 - Waveform sent
+2025-03-24 17:32:50.549848 - Error: FPGA not ready
+2025-03-24 17:32:50.549848 - Error: Could not read the FPGA
+2025-03-24 17:32:50.580833 - Waveform sent
+2025-03-24 17:32:50.581937 - Error: FPGA not ready
+2025-03-24 17:32:50.581937 - Error: Could not read the FPGA
+2025-03-24 17:32:50.678242 - Waveform sent
+2025-03-24 17:32:50.678242 - Error: FPGA not ready
+2025-03-24 17:32:50.678242 - Error: Could not read the FPGA
+2025-03-24 17:32:50.750241 - Waveform sent
+2025-03-24 17:32:50.750241 - Error: FPGA not ready
+2025-03-24 17:32:50.750241 - Error: Could not read the FPGA
+2025-03-24 17:32:50.781677 - Waveform sent
+2025-03-24 17:32:50.781677 - Error: FPGA not ready
+2025-03-24 17:32:50.781677 - Error: Could not read the FPGA
+
+2025-03-24 17:33:33.415112 - FPGA opened
+2025-03-24 17:33:33.416033 - Key sent
+2025-03-24 17:33:33.424900 - Nonce sent
+2025-03-24 17:33:33.441420 - Associated data sent
+2025-03-24 17:33:34.949716 - Waveform sent
+2025-03-24 17:33:34.984247 - Error: FPGA not ready
+2025-03-24 17:33:34.984247 - Error: Could not read the FPGA
+2025-03-24 17:33:35.060792 - Waveform sent
+2025-03-24 17:33:35.060792 - Error: FPGA not ready
+2025-03-24 17:33:35.060792 - Error: Could not read the FPGA
+2025-03-24 17:33:35.093310 - Waveform sent
+2025-03-24 17:33:35.093310 - Error: FPGA not ready
+2025-03-24 17:33:35.093310 - Error: Could not read the FPGA
+2025-03-24 17:33:35.137046 - Waveform sent
+2025-03-24 17:33:35.137046 - Error: FPGA not ready
+2025-03-24 17:33:35.137046 - Error: Could not read the FPGA
+2025-03-24 17:33:35.168716 - Waveform sent
+2025-03-24 17:33:35.168716 - Error: FPGA not ready
+2025-03-24 17:33:35.168716 - Error: Could not read the FPGA
+2025-03-24 17:33:35.201329 - Waveform sent
+2025-03-24 17:33:35.201329 - Error: FPGA not ready
+2025-03-24 17:33:35.201329 - Error: Could not read the FPGA
+2025-03-24 17:33:35.233348 - Waveform sent
+2025-03-24 17:33:35.233348 - Error: FPGA not ready
+2025-03-24 17:33:35.233348 - Error: Could not read the FPGA
+2025-03-24 17:33:35.264973 - Waveform sent
+2025-03-24 17:33:35.264973 - Error: FPGA not ready
+2025-03-24 17:33:35.264973 - Error: Could not read the FPGA
+2025-03-24 17:33:35.297445 - Waveform sent
+2025-03-24 17:33:35.297445 - Error: FPGA not ready
+2025-03-24 17:33:35.297445 - Error: Could not read the FPGA
+2025-03-24 17:33:35.329191 - Waveform sent
+2025-03-24 17:33:35.329191 - Error: FPGA not ready
+2025-03-24 17:33:35.329191 - Error: Could not read the FPGA
+2025-03-24 17:33:35.361489 - Waveform sent
+2025-03-24 17:33:35.361489 - Error: FPGA not ready
+2025-03-24 17:33:35.361489 - Error: Could not read the FPGA
+2025-03-24 17:33:35.392895 - Waveform sent
+2025-03-24 17:33:35.392895 - Error: FPGA not ready
+2025-03-24 17:33:35.392895 - Error: Could not read the FPGA
+2025-03-24 17:33:35.424909 - Waveform sent
+2025-03-24 17:33:35.424909 - Error: FPGA not ready
+2025-03-24 17:33:35.424909 - Error: Could not read the FPGA
+2025-03-24 17:33:35.457657 - Waveform sent
+2025-03-24 17:33:35.457657 - Error: FPGA not ready
+2025-03-24 17:33:35.457657 - Error: Could not read the FPGA
+2025-03-24 17:33:35.489258 - Waveform sent
+2025-03-24 17:33:35.489258 - Error: FPGA not ready
+2025-03-24 17:33:35.489258 - Error: Could not read the FPGA
+2025-03-24 17:33:35.521426 - Waveform sent
+2025-03-24 17:33:35.521426 - Error: FPGA not ready
+2025-03-24 17:33:35.521426 - Error: Could not read the FPGA
+2025-03-24 17:33:35.554691 - Waveform sent
+2025-03-24 17:33:35.554691 - Error: FPGA not ready
+2025-03-24 17:33:35.554691 - Error: Could not read the FPGA
+2025-03-24 17:33:35.585222 - Waveform sent
+2025-03-24 17:33:35.585222 - Error: FPGA not ready
+2025-03-24 17:33:35.585222 - Error: Could not read the FPGA
+2025-03-24 17:33:35.617573 - Waveform sent
+2025-03-24 17:33:35.617573 - Error: FPGA not ready
+2025-03-24 17:33:35.617573 - Error: Could not read the FPGA
+2025-03-24 17:33:35.650205 - Waveform sent
+2025-03-24 17:33:35.650205 - Error: FPGA not ready
+2025-03-24 17:33:35.650205 - Error: Could not read the FPGA
+2025-03-24 17:33:35.682095 - Waveform sent
+2025-03-24 17:33:35.682095 - Error: FPGA not ready
+2025-03-24 17:33:35.682095 - Error: Could not read the FPGA
+2025-03-24 17:33:35.714504 - Waveform sent
+2025-03-24 17:33:35.714504 - Error: FPGA not ready
+2025-03-24 17:33:35.714504 - Error: Could not read the FPGA
+2025-03-24 17:33:35.747043 - Waveform sent
+2025-03-24 17:33:35.747043 - Error: FPGA not ready
+2025-03-24 17:33:35.747043 - Error: Could not read the FPGA
+2025-03-24 17:33:35.779087 - Waveform sent
+2025-03-24 17:33:35.779087 - Error: FPGA not ready
+2025-03-24 17:33:35.779598 - Error: Could not read the FPGA
+2025-03-24 17:33:35.810807 - Waveform sent
+2025-03-24 17:33:35.810807 - Error: FPGA not ready
+2025-03-24 17:33:35.810807 - Error: Could not read the FPGA
+2025-03-24 17:33:35.842811 - Waveform sent
+2025-03-24 17:33:35.842811 - Error: FPGA not ready
+2025-03-24 17:33:35.842811 - Error: Could not read the FPGA
+2025-03-24 17:33:35.874918 - Waveform sent
+2025-03-24 17:33:35.874918 - Error: FPGA not ready
+2025-03-24 17:33:35.874918 - Error: Could not read the FPGA
+2025-03-24 17:33:35.906654 - Waveform sent
+2025-03-24 17:33:35.907651 - Error: FPGA not ready
+2025-03-24 17:33:35.907651 - Error: Could not read the FPGA
+2025-03-24 17:33:35.938568 - Waveform sent
+2025-03-24 17:33:35.939557 - Error: FPGA not ready
+2025-03-24 17:33:35.939557 - Error: Could not read the FPGA
+2025-03-24 17:33:35.970797 - Waveform sent
+2025-03-24 17:33:35.971717 - Error: FPGA not ready
+2025-03-24 17:33:35.971717 - Error: Could not read the FPGA
+2025-03-24 17:33:36.003473 - Waveform sent
+2025-03-24 17:33:36.003473 - Error: FPGA not ready
+2025-03-24 17:33:36.003473 - Error: Could not read the FPGA
+2025-03-24 17:33:36.034953 - Waveform sent
+2025-03-24 17:33:36.035972 - Error: FPGA not ready
+2025-03-24 17:33:36.035972 - Error: Could not read the FPGA
+2025-03-24 17:33:36.067086 - Waveform sent
+2025-03-24 17:33:36.067976 - Error: FPGA not ready
+2025-03-24 17:33:36.067976 - Error: Could not read the FPGA
+2025-03-24 17:33:36.099219 - Waveform sent
+2025-03-24 17:33:36.100221 - Error: FPGA not ready
+2025-03-24 17:33:36.100221 - Error: Could not read the FPGA
+2025-03-24 17:33:36.131438 - Waveform sent
+2025-03-24 17:33:36.132376 - Error: FPGA not ready
+2025-03-24 17:33:36.132376 - Error: Could not read the FPGA
+2025-03-24 17:33:36.163938 - Waveform sent
+2025-03-24 17:33:36.163938 - Error: FPGA not ready
+2025-03-24 17:33:36.163938 - Error: Could not read the FPGA
+2025-03-24 17:33:36.195766 - Waveform sent
+2025-03-24 17:33:36.195766 - Error: FPGA not ready
+2025-03-24 17:33:36.195766 - Error: Could not read the FPGA
+2025-03-24 17:33:36.227711 - Waveform sent
+2025-03-24 17:33:36.227711 - Error: FPGA not ready
+2025-03-24 17:33:36.227711 - Error: Could not read the FPGA
+2025-03-24 17:33:36.260416 - Waveform sent
+2025-03-24 17:33:36.260416 - Error: FPGA not ready
+2025-03-24 17:33:36.260416 - Error: Could not read the FPGA
+2025-03-24 17:33:36.291837 - Waveform sent
+2025-03-24 17:33:36.292784 - Error: FPGA not ready
+2025-03-24 17:33:36.292784 - Error: Could not read the FPGA
+2025-03-24 17:33:36.323729 - Waveform sent
+2025-03-24 17:33:36.324729 - Error: FPGA not ready
+2025-03-24 17:33:36.324729 - Error: Could not read the FPGA
+2025-03-24 17:33:36.356476 - Waveform sent
+2025-03-24 17:33:36.356476 - Error: FPGA not ready
+2025-03-24 17:33:36.356476 - Error: Could not read the FPGA
+2025-03-24 17:33:36.388359 - Waveform sent
+2025-03-24 17:33:36.388359 - Error: FPGA not ready
+2025-03-24 17:33:36.388359 - Error: Could not read the FPGA
+2025-03-24 17:33:36.420809 - Waveform sent
+2025-03-24 17:33:36.420809 - Error: FPGA not ready
+2025-03-24 17:33:36.420809 - Error: Could not read the FPGA
+2025-03-24 17:33:36.453387 - Waveform sent
+2025-03-24 17:33:36.453387 - Error: FPGA not ready
+2025-03-24 17:33:36.453387 - Error: Could not read the FPGA
+2025-03-24 17:33:36.485301 - Waveform sent
+2025-03-24 17:33:36.485301 - Error: FPGA not ready
+2025-03-24 17:33:36.485301 - Error: Could not read the FPGA
+2025-03-24 17:33:36.517490 - Waveform sent
+2025-03-24 17:33:36.517490 - Error: FPGA not ready
+2025-03-24 17:33:36.517490 - Error: Could not read the FPGA
+2025-03-24 17:33:36.551227 - Waveform sent
+2025-03-24 17:33:36.551227 - Error: FPGA not ready
+2025-03-24 17:33:36.551227 - Error: Could not read the FPGA
+2025-03-24 17:33:36.582093 - Waveform sent
+2025-03-24 17:33:36.582093 - Error: FPGA not ready
+2025-03-24 17:33:36.582093 - Error: Could not read the FPGA
+2025-03-24 17:33:36.614513 - Waveform sent
+2025-03-24 17:33:36.614513 - Error: FPGA not ready
+2025-03-24 17:33:36.614513 - Error: Could not read the FPGA
+2025-03-24 17:33:36.646236 - Waveform sent
+2025-03-24 17:33:36.646236 - Error: FPGA not ready
+2025-03-24 17:33:36.646236 - Error: Could not read the FPGA
+2025-03-24 17:33:36.678796 - Waveform sent
+2025-03-24 17:33:36.680782 - Error: FPGA not ready
+2025-03-24 17:33:36.680782 - Error: Could not read the FPGA
+2025-03-24 17:33:36.710856 - Waveform sent
+2025-03-24 17:33:36.711853 - Error: FPGA not ready
+2025-03-24 17:33:36.711853 - Error: Could not read the FPGA
+2025-03-24 17:33:36.743506 - Waveform sent
+2025-03-24 17:33:36.743506 - Error: FPGA not ready
+2025-03-24 17:33:36.743506 - Error: Could not read the FPGA
+2025-03-24 17:33:36.774615 - Waveform sent
+2025-03-24 17:33:36.774615 - Error: FPGA not ready
+2025-03-24 17:33:36.774615 - Error: Could not read the FPGA
+2025-03-24 17:33:36.807268 - Waveform sent
+2025-03-24 17:33:36.807268 - Error: FPGA not ready
+2025-03-24 17:33:36.807268 - Error: Could not read the FPGA
+2025-03-24 17:33:36.839218 - Waveform sent
+2025-03-24 17:33:36.839218 - Error: FPGA not ready
+2025-03-24 17:33:36.839218 - Error: Could not read the FPGA
+2025-03-24 17:33:36.871329 - Waveform sent
+2025-03-24 17:33:36.871329 - Error: FPGA not ready
+2025-03-24 17:33:36.871329 - Error: Could not read the FPGA
+2025-03-24 17:33:36.903138 - Waveform sent
+2025-03-24 17:33:36.903138 - Error: FPGA not ready
+2025-03-24 17:33:36.903138 - Error: Could not read the FPGA
+2025-03-24 17:33:36.936016 - Waveform sent
+2025-03-24 17:33:36.936016 - Error: FPGA not ready
+2025-03-24 17:33:36.936016 - Error: Could not read the FPGA
+2025-03-24 17:33:36.967644 - Waveform sent
+2025-03-24 17:33:36.967644 - Error: FPGA not ready
+2025-03-24 17:33:36.967644 - Error: Could not read the FPGA
+2025-03-24 17:33:36.999860 - Waveform sent
+2025-03-24 17:33:36.999860 - Error: FPGA not ready
+2025-03-24 17:33:36.999860 - Error: Could not read the FPGA
+2025-03-24 17:33:37.032135 - Waveform sent
+2025-03-24 17:33:37.032135 - Error: FPGA not ready
+2025-03-24 17:33:37.032135 - Error: Could not read the FPGA
+2025-03-24 17:33:37.062917 - Waveform sent
+2025-03-24 17:33:37.064406 - Error: FPGA not ready
+2025-03-24 17:33:37.064406 - Error: Could not read the FPGA
+2025-03-24 17:33:37.095582 - Waveform sent
+2025-03-24 17:33:37.095582 - Error: FPGA not ready
+2025-03-24 17:33:37.095582 - Error: Could not read the FPGA
+2025-03-24 17:33:37.127830 - Waveform sent
+2025-03-24 17:33:37.127830 - Error: FPGA not ready
+2025-03-24 17:33:37.127830 - Error: Could not read the FPGA
+2025-03-24 17:33:37.244874 - Waveform sent
+2025-03-24 17:33:37.244874 - Error: FPGA not ready
+2025-03-24 17:33:37.245872 - Error: Could not read the FPGA
+2025-03-24 17:33:37.314791 - Waveform sent
+2025-03-24 17:33:37.314791 - Error: FPGA not ready
+2025-03-24 17:33:37.314791 - Error: Could not read the FPGA
+2025-03-24 17:33:37.346990 - Waveform sent
+2025-03-24 17:33:37.346990 - Error: FPGA not ready
+2025-03-24 17:33:37.346990 - Error: Could not read the FPGA
+
+2025-03-24 17:36:27.498931 - FPGA opened
+2025-03-24 17:36:27.498931 - Key sent
+2025-03-24 17:36:27.511300 - Nonce sent
+2025-03-24 17:36:27.527449 - Associated data sent
+2025-03-24 17:36:29.096561 - Waveform sent
+2025-03-24 17:36:29.100585 - Encryption started
+2025-03-24 17:36:29.100585 - Error: FPGA not ready
+2025-03-24 17:36:29.100585 - Error: Could not read the FPGA
+2025-03-24 17:36:29.185621 - Waveform sent
+2025-03-24 17:36:29.185621 - Error: FPGA not ready
+2025-03-24 17:36:29.185621 - Error: Could not read the FPGA
+2025-03-24 17:36:29.217637 - Waveform sent
+2025-03-24 17:36:29.218000 - Error: FPGA not ready
+2025-03-24 17:36:29.218000 - Error: Could not read the FPGA
+2025-03-24 17:36:29.268488 - Waveform sent
+2025-03-24 17:36:29.268488 - Error: FPGA not ready
+2025-03-24 17:36:29.268488 - Error: Could not read the FPGA
+2025-03-24 17:36:29.300004 - Waveform sent
+2025-03-24 17:36:29.301006 - Error: FPGA not ready
+2025-03-24 17:36:29.301006 - Error: Could not read the FPGA
+2025-03-24 17:36:29.332017 - Waveform sent
+2025-03-24 17:36:29.332017 - Error: FPGA not ready
+2025-03-24 17:36:29.332017 - Error: Could not read the FPGA
+2025-03-24 17:36:29.363603 - Waveform sent
+2025-03-24 17:36:29.363603 - Error: FPGA not ready
+2025-03-24 17:36:29.363603 - Error: Could not read the FPGA
+2025-03-24 17:36:29.395307 - Waveform sent
+2025-03-24 17:36:29.395307 - Error: FPGA not ready
+2025-03-24 17:36:29.395307 - Error: Could not read the FPGA
+2025-03-24 17:36:29.427637 - Waveform sent
+2025-03-24 17:36:29.427637 - Error: FPGA not ready
+2025-03-24 17:36:29.427637 - Error: Could not read the FPGA
+2025-03-24 17:36:29.459199 - Waveform sent
+2025-03-24 17:36:29.459199 - Error: FPGA not ready
+2025-03-24 17:36:29.459199 - Error: Could not read the FPGA
+2025-03-24 17:36:29.490058 - Waveform sent
+2025-03-24 17:36:29.491069 - Error: FPGA not ready
+2025-03-24 17:36:29.491069 - Error: Could not read the FPGA
+2025-03-24 17:36:29.522192 - Waveform sent
+2025-03-24 17:36:29.522192 - Error: FPGA not ready
+2025-03-24 17:36:29.522192 - Error: Could not read the FPGA
+2025-03-24 17:36:29.554147 - Waveform sent
+2025-03-24 17:36:29.554147 - Error: FPGA not ready
+2025-03-24 17:36:29.554147 - Error: Could not read the FPGA
+2025-03-24 17:36:29.586220 - Waveform sent
+2025-03-24 17:36:29.586220 - Error: FPGA not ready
+2025-03-24 17:36:29.586220 - Error: Could not read the FPGA
+2025-03-24 17:36:29.617772 - Waveform sent
+2025-03-24 17:36:29.617772 - Error: FPGA not ready
+2025-03-24 17:36:29.617772 - Error: Could not read the FPGA
+2025-03-24 17:36:29.649299 - Waveform sent
+2025-03-24 17:36:29.649299 - Error: FPGA not ready
+2025-03-24 17:36:29.649299 - Error: Could not read the FPGA
+2025-03-24 17:36:29.681133 - Waveform sent
+2025-03-24 17:36:29.681133 - Error: FPGA not ready
+2025-03-24 17:36:29.681133 - Error: Could not read the FPGA
+2025-03-24 17:36:29.712320 - Waveform sent
+2025-03-24 17:36:29.712320 - Error: FPGA not ready
+2025-03-24 17:36:29.712320 - Error: Could not read the FPGA
+2025-03-24 17:36:29.744034 - Waveform sent
+2025-03-24 17:36:29.744034 - Error: FPGA not ready
+2025-03-24 17:36:29.744034 - Error: Could not read the FPGA
+2025-03-24 17:36:29.776015 - Waveform sent
+2025-03-24 17:36:29.776015 - Error: FPGA not ready
+2025-03-24 17:36:29.776015 - Error: Could not read the FPGA
+2025-03-24 17:36:29.807259 - Waveform sent
+2025-03-24 17:36:29.808262 - Error: FPGA not ready
+2025-03-24 17:36:29.808262 - Error: Could not read the FPGA
+2025-03-24 17:36:29.839134 - Waveform sent
+2025-03-24 17:36:29.840082 - Error: FPGA not ready
+2025-03-24 17:36:29.840082 - Error: Could not read the FPGA
+2025-03-24 17:36:29.871739 - Waveform sent
+2025-03-24 17:36:29.872049 - Error: FPGA not ready
+2025-03-24 17:36:29.872049 - Error: Could not read the FPGA
+2025-03-24 17:36:29.902826 - Waveform sent
+2025-03-24 17:36:29.903900 - Error: FPGA not ready
+2025-03-24 17:36:29.903900 - Error: Could not read the FPGA
+2025-03-24 17:36:29.934827 - Waveform sent
+2025-03-24 17:36:29.934827 - Error: FPGA not ready
+2025-03-24 17:36:29.934827 - Error: Could not read the FPGA
+2025-03-24 17:36:29.966451 - Waveform sent
+2025-03-24 17:36:29.967345 - Error: FPGA not ready
+2025-03-24 17:36:29.967345 - Error: Could not read the FPGA
+2025-03-24 17:36:29.998191 - Waveform sent
+2025-03-24 17:36:29.999189 - Error: FPGA not ready
+2025-03-24 17:36:29.999189 - Error: Could not read the FPGA
+2025-03-24 17:36:30.030184 - Waveform sent
+2025-03-24 17:36:30.030184 - Error: FPGA not ready
+2025-03-24 17:36:30.030184 - Error: Could not read the FPGA
+2025-03-24 17:36:30.069311 - Waveform sent
+2025-03-24 17:36:30.069311 - Error: FPGA not ready
+2025-03-24 17:36:30.069311 - Error: Could not read the FPGA
+2025-03-24 17:36:30.101127 - Waveform sent
+2025-03-24 17:36:30.101127 - Error: FPGA not ready
+2025-03-24 17:36:30.101127 - Error: Could not read the FPGA
+2025-03-24 17:36:30.131900 - Waveform sent
+2025-03-24 17:36:30.133028 - Error: FPGA not ready
+2025-03-24 17:36:30.133028 - Error: Could not read the FPGA
+2025-03-24 17:36:30.163928 - Waveform sent
+2025-03-24 17:36:30.163928 - Error: FPGA not ready
+2025-03-24 17:36:30.163928 - Error: Could not read the FPGA
+2025-03-24 17:36:30.196349 - Waveform sent
+2025-03-24 17:36:30.196349 - Error: FPGA not ready
+2025-03-24 17:36:30.196349 - Error: Could not read the FPGA
+2025-03-24 17:36:30.227982 - Waveform sent
+2025-03-24 17:36:30.227982 - Error: FPGA not ready
+2025-03-24 17:36:30.227982 - Error: Could not read the FPGA
+2025-03-24 17:36:30.259162 - Waveform sent
+2025-03-24 17:36:30.260150 - Error: FPGA not ready
+2025-03-24 17:36:30.260150 - Error: Could not read the FPGA
+2025-03-24 17:36:30.290686 - Waveform sent
+2025-03-24 17:36:30.291683 - Error: FPGA not ready
+2025-03-24 17:36:30.291683 - Error: Could not read the FPGA
+2025-03-24 17:36:30.323689 - Waveform sent
+2025-03-24 17:36:30.323689 - Error: FPGA not ready
+2025-03-24 17:36:30.323689 - Error: Could not read the FPGA
+2025-03-24 17:36:30.355224 - Waveform sent
+2025-03-24 17:36:30.355224 - Error: FPGA not ready
+2025-03-24 17:36:30.355224 - Error: Could not read the FPGA
+2025-03-24 17:36:30.388761 - Waveform sent
+2025-03-24 17:36:30.388761 - Error: FPGA not ready
+2025-03-24 17:36:30.388761 - Error: Could not read the FPGA
+2025-03-24 17:36:30.422024 - Waveform sent
+2025-03-24 17:36:30.422024 - Error: FPGA not ready
+2025-03-24 17:36:30.422024 - Error: Could not read the FPGA
+2025-03-24 17:36:30.453691 - Waveform sent
+2025-03-24 17:36:30.453691 - Error: FPGA not ready
+2025-03-24 17:36:30.453691 - Error: Could not read the FPGA
+2025-03-24 17:36:30.485576 - Waveform sent
+2025-03-24 17:36:30.485576 - Error: FPGA not ready
+2025-03-24 17:36:30.485576 - Error: Could not read the FPGA
+2025-03-24 17:36:30.516578 - Waveform sent
+2025-03-24 17:36:30.516578 - Error: FPGA not ready
+2025-03-24 17:36:30.516578 - Error: Could not read the FPGA
+2025-03-24 17:36:30.548408 - Waveform sent
+2025-03-24 17:36:30.548408 - Error: FPGA not ready
+2025-03-24 17:36:30.548408 - Error: Could not read the FPGA
+2025-03-24 17:36:30.580369 - Waveform sent
+2025-03-24 17:36:30.580369 - Error: FPGA not ready
+2025-03-24 17:36:30.580369 - Error: Could not read the FPGA
+2025-03-24 17:36:30.612315 - Waveform sent
+2025-03-24 17:36:30.612315 - Error: FPGA not ready
+2025-03-24 17:36:30.612315 - Error: Could not read the FPGA
+2025-03-24 17:36:30.643976 - Waveform sent
+2025-03-24 17:36:30.643976 - Error: FPGA not ready
+2025-03-24 17:36:30.643976 - Error: Could not read the FPGA
+2025-03-24 17:36:30.675153 - Waveform sent
+2025-03-24 17:36:30.676153 - Error: FPGA not ready
+2025-03-24 17:36:30.676153 - Error: Could not read the FPGA
+2025-03-24 17:36:30.707729 - Waveform sent
+2025-03-24 17:36:30.707729 - Error: FPGA not ready
+2025-03-24 17:36:30.707729 - Error: Could not read the FPGA
+2025-03-24 17:36:30.739415 - Waveform sent
+2025-03-24 17:36:30.739415 - Error: FPGA not ready
+2025-03-24 17:36:30.739415 - Error: Could not read the FPGA
+2025-03-24 17:36:30.770416 - Waveform sent
+2025-03-24 17:36:30.771414 - Error: FPGA not ready
+2025-03-24 17:36:30.771414 - Error: Could not read the FPGA
+2025-03-24 17:36:30.803958 - Waveform sent
+2025-03-24 17:36:30.803958 - Error: FPGA not ready
+2025-03-24 17:36:30.803958 - Error: Could not read the FPGA
+2025-03-24 17:36:30.835497 - Waveform sent
+2025-03-24 17:36:30.835497 - Error: FPGA not ready
+2025-03-24 17:36:30.835497 - Error: Could not read the FPGA
+2025-03-24 17:36:30.867069 - Waveform sent
+2025-03-24 17:36:30.867971 - Error: FPGA not ready
+2025-03-24 17:36:30.867971 - Error: Could not read the FPGA
+2025-03-24 17:36:30.900566 - Waveform sent
+2025-03-24 17:36:30.900566 - Error: FPGA not ready
+2025-03-24 17:36:30.900566 - Error: Could not read the FPGA
+2025-03-24 17:36:30.932752 - Waveform sent
+2025-03-24 17:36:30.932752 - Error: FPGA not ready
+2025-03-24 17:36:30.932752 - Error: Could not read the FPGA
+2025-03-24 17:36:30.964648 - Waveform sent
+2025-03-24 17:36:30.964648 - Error: FPGA not ready
+2025-03-24 17:36:30.964648 - Error: Could not read the FPGA
+2025-03-24 17:36:30.996270 - Waveform sent
+2025-03-24 17:36:30.996270 - Error: FPGA not ready
+2025-03-24 17:36:30.996270 - Error: Could not read the FPGA
+2025-03-24 17:36:31.027605 - Waveform sent
+2025-03-24 17:36:31.028601 - Error: FPGA not ready
+2025-03-24 17:36:31.028601 - Error: Could not read the FPGA
+2025-03-24 17:36:31.059564 - Waveform sent
+2025-03-24 17:36:31.059564 - Error: FPGA not ready
+2025-03-24 17:36:31.059564 - Error: Could not read the FPGA
+2025-03-24 17:36:31.091448 - Waveform sent
+2025-03-24 17:36:31.091448 - Error: FPGA not ready
+2025-03-24 17:36:31.091448 - Error: Could not read the FPGA
+2025-03-24 17:36:31.123541 - Waveform sent
+2025-03-24 17:36:31.123541 - Error: FPGA not ready
+2025-03-24 17:36:31.123541 - Error: Could not read the FPGA
+2025-03-24 17:36:31.155313 - Waveform sent
+2025-03-24 17:36:31.155313 - Error: FPGA not ready
+2025-03-24 17:36:31.155313 - Error: Could not read the FPGA
+2025-03-24 17:36:31.186097 - Waveform sent
+2025-03-24 17:36:31.186097 - Error: FPGA not ready
+2025-03-24 17:36:31.186097 - Error: Could not read the FPGA
+2025-03-24 17:36:31.218134 - Waveform sent
+2025-03-24 17:36:31.218134 - Error: FPGA not ready
+2025-03-24 17:36:31.218134 - Error: Could not read the FPGA
+2025-03-24 17:36:31.250113 - Waveform sent
+2025-03-24 17:36:31.250113 - Error: FPGA not ready
+2025-03-24 17:36:31.250113 - Error: Could not read the FPGA
+2025-03-24 17:36:31.282414 - Waveform sent
+2025-03-24 17:36:31.282414 - Error: FPGA not ready
+2025-03-24 17:36:31.282414 - Error: Could not read the FPGA
+2025-03-24 17:36:31.313152 - Waveform sent
+2025-03-24 17:36:31.313152 - Error: FPGA not ready
+2025-03-24 17:36:31.313152 - Error: Could not read the FPGA
+2025-03-24 17:36:31.344757 - Waveform sent
+2025-03-24 17:36:31.345756 - Error: FPGA not ready
+2025-03-24 17:36:31.345756 - Error: Could not read the FPGA
+2025-03-24 17:36:31.377178 - Waveform sent
+2025-03-24 17:36:31.377178 - Error: FPGA not ready
+2025-03-24 17:36:31.377178 - Error: Could not read the FPGA
+2025-03-24 17:36:31.408279 - Waveform sent
+2025-03-24 17:36:31.408279 - Error: FPGA not ready
+2025-03-24 17:36:31.408279 - Error: Could not read the FPGA
+2025-03-24 17:36:31.440046 - Waveform sent
+2025-03-24 17:36:31.440046 - Error: FPGA not ready
+2025-03-24 17:36:31.440046 - Error: Could not read the FPGA
+2025-03-24 17:36:31.534189 - Waveform sent
+2025-03-24 17:36:31.534189 - Error: FPGA not ready
+2025-03-24 17:36:31.534189 - Error: Could not read the FPGA
+2025-03-24 17:36:31.607069 - Waveform sent
+2025-03-24 17:36:31.607069 - Error: FPGA not ready
+2025-03-24 17:36:31.607069 - Error: Could not read the FPGA
+2025-03-24 17:36:31.638589 - Waveform sent
+2025-03-24 17:36:31.638589 - Error: FPGA not ready
+2025-03-24 17:36:31.638589 - Error: Could not read the FPGA
+
+2025-03-24 17:38:08.065649 - FPGA opened
+2025-03-24 17:38:08.065649 - Key sent
+2025-03-24 17:38:08.081016 - Nonce sent
+2025-03-24 17:38:08.095475 - Associated data sent
+
+2025-03-24 17:38:31.154882 - FPGA opened
+2025-03-24 17:38:31.154882 - Key sent
+2025-03-24 17:38:31.172050 - Nonce sent
+2025-03-24 17:38:31.184476 - Associated data sent
+
+2025-03-24 17:38:57.104186 - FPGA opened
+2025-03-24 17:38:57.104186 - Key sent
+2025-03-24 17:38:57.117595 - Nonce sent
+2025-03-24 17:38:57.133886 - Associated data sent
+
+2025-03-24 17:41:41.921771 - FPGA opened
+2025-03-24 17:41:41.921771 - Key sent
+2025-03-24 17:41:41.945653 - Nonce sent
+2025-03-24 17:41:41.959148 - Associated data sent
+
+2025-03-24 17:42:17.903568 - FPGA opened
+2025-03-24 17:42:17.903568 - Key sent
+2025-03-24 17:42:17.918663 - Nonce sent
+2025-03-24 17:42:17.937909 - Associated data sent
+
+2025-03-24 17:42:42.869480 - FPGA opened
+2025-03-24 17:42:42.869480 - Key sent
+2025-03-24 17:42:42.879854 - Nonce sent
+2025-03-24 17:42:42.894319 - Associated data sent
+
+2025-03-24 17:43:08.916270 - FPGA opened
+2025-03-24 17:43:08.916270 - Key sent
+2025-03-24 17:43:08.930901 - Nonce sent
+2025-03-24 17:43:08.946390 - Associated data sent
+
+2025-03-24 17:46:07.060877 - FPGA opened
+2025-03-24 17:46:07.060877 - Key sent
+2025-03-24 17:46:07.080105 - Nonce sent
+2025-03-24 17:46:07.092852 - Associated data sent
+2025-03-24 17:46:08.679416 - Waveform sent
+2025-03-24 17:46:08.695932 - Encryption started
+2025-03-24 17:46:09.747349 - Cipher received
+2025-03-24 17:46:09.763353 - Tag received
+2025-03-24 17:46:09.831002 - Waveform sent
+2025-03-24 17:46:09.842611 - Encryption started
+2025-03-24 17:46:10.894356 - Cipher received
+2025-03-24 17:46:10.910347 - Tag received
+2025-03-24 17:46:10.934839 - Waveform sent
+2025-03-24 17:46:10.958688 - Encryption started
+2025-03-24 17:46:12.009856 - Cipher received
+2025-03-24 17:46:12.025427 - Tag received
+2025-03-24 17:46:12.052796 - Waveform sent
+2025-03-24 17:46:12.073797 - Encryption started
+2025-03-24 17:46:13.124774 - Cipher received
+2025-03-24 17:46:13.140383 - Tag received
+2025-03-24 17:46:13.160574 - Waveform sent
+2025-03-24 17:46:13.172409 - Encryption started
+2025-03-24 17:46:14.224447 - Cipher received
+2025-03-24 17:46:14.240498 - Tag received
+2025-03-24 17:46:14.256205 - Waveform sent
+2025-03-24 17:46:14.272209 - Encryption started
+2025-03-24 17:46:15.323986 - Cipher received
+2025-03-24 17:46:15.339195 - Tag received
+2025-03-24 17:46:15.354372 - Waveform sent
+2025-03-24 17:46:15.370772 - Encryption started
+2025-03-24 17:46:16.422720 - Cipher received
+2025-03-24 17:46:16.438421 - Tag received
+2025-03-24 17:46:16.452420 - Waveform sent
+2025-03-24 17:46:16.470565 - Encryption started
+2025-03-24 17:46:17.521558 - Cipher received
+2025-03-24 17:46:17.537550 - Tag received
+2025-03-24 17:46:17.552931 - Waveform sent
+2025-03-24 17:46:17.569395 - Encryption started
+2025-03-24 17:46:18.621634 - Cipher received
+2025-03-24 17:46:18.637631 - Tag received
+2025-03-24 17:46:18.651922 - Waveform sent
+2025-03-24 17:46:18.669344 - Encryption started
+2025-03-24 17:46:19.720286 - Cipher received
+2025-03-24 17:46:19.736149 - Tag received
+2025-03-24 17:46:19.750534 - Waveform sent
+2025-03-24 17:46:19.769766 - Encryption started
+2025-03-24 17:46:20.818430 - Cipher received
+2025-03-24 17:46:20.834382 - Tag received
+2025-03-24 17:46:20.847843 - Waveform sent
+2025-03-24 17:46:20.867231 - Encryption started
+2025-03-24 17:46:21.917861 - Cipher received
+2025-03-24 17:46:21.933863 - Tag received
+2025-03-24 17:46:21.944013 - Waveform sent
+2025-03-24 17:46:21.965652 - Encryption started
+2025-03-24 17:46:23.016481 - Cipher received
+2025-03-24 17:46:23.032336 - Tag received
+2025-03-24 17:46:23.045281 - Waveform sent
+2025-03-24 17:46:23.064359 - Encryption started
+2025-03-24 17:46:24.114492 - Cipher received
+2025-03-24 17:46:24.131383 - Tag received
+2025-03-24 17:46:24.142804 - Waveform sent
+2025-03-24 17:46:24.163865 - Encryption started
+2025-03-24 17:46:25.214715 - Cipher received
+2025-03-24 17:46:25.230610 - Tag received
+2025-03-24 17:46:25.244713 - Waveform sent
+2025-03-24 17:46:25.262394 - Encryption started
+2025-03-24 17:46:26.314003 - Cipher received
+2025-03-24 17:46:26.329047 - Tag received
+2025-03-24 17:46:26.344125 - Waveform sent
+2025-03-24 17:46:26.361960 - Encryption started
+2025-03-24 17:46:27.413639 - Cipher received
+2025-03-24 17:46:27.428502 - Tag received
+2025-03-24 17:46:27.444350 - Waveform sent
+2025-03-24 17:46:27.461347 - Encryption started
+2025-03-24 17:46:28.511795 - Cipher received
+2025-03-24 17:46:28.527053 - Tag received
+2025-03-24 17:46:28.537901 - Waveform sent
+2025-03-24 17:46:28.559123 - Encryption started
+2025-03-24 17:46:29.610734 - Cipher received
+2025-03-24 17:46:29.626982 - Tag received
+2025-03-24 17:46:29.642835 - Waveform sent
+2025-03-24 17:46:29.658837 - Encryption started
+2025-03-24 17:46:30.709226 - Cipher received
+2025-03-24 17:46:30.725229 - Tag received
+2025-03-24 17:46:30.797401 - Waveform sent
+2025-03-24 17:46:30.820966 - Encryption started
+2025-03-24 17:46:31.871417 - Cipher received
+2025-03-24 17:46:31.886985 - Tag received
+2025-03-24 17:46:31.900215 - Waveform sent
+2025-03-24 17:46:31.919264 - Encryption started
+2025-03-24 17:46:32.968980 - Cipher received
+2025-03-24 17:46:32.985193 - Tag received
+
+2025-03-24 17:47:15.673049 - FPGA opened
+2025-03-24 17:47:15.673049 - Key sent
+2025-03-24 17:47:15.683505 - Nonce sent
+2025-03-24 17:47:15.709072 - Associated data sent
+2025-03-24 17:47:17.381794 - Waveform sent
+2025-03-24 17:47:17.403361 - Encryption started
+2025-03-24 17:47:17.452907 - Cipher received
+2025-03-24 17:47:17.468968 - Tag received
+2025-03-24 17:47:17.538220 - Waveform sent
+2025-03-24 17:47:17.548555 - Encryption started
+2025-03-24 17:47:17.598956 - Cipher received
+2025-03-24 17:47:17.614968 - Tag received
+2025-03-24 17:47:17.629959 - Waveform sent
+2025-03-24 17:47:17.647515 - Encryption started
+2025-03-24 17:47:17.697243 - Cipher received
+2025-03-24 17:47:17.713020 - Tag received
+2025-03-24 17:47:17.742537 - Waveform sent
+2025-03-24 17:47:17.761152 - Encryption started
+2025-03-24 17:47:17.810477 - Cipher received
+2025-03-24 17:47:17.827008 - Tag received
+2025-03-24 17:47:17.842257 - Waveform sent
+2025-03-24 17:47:17.859522 - Encryption started
+2025-03-24 17:47:17.908424 - Cipher received
+2025-03-24 17:47:17.924896 - Tag received
+2025-03-24 17:47:17.939340 - Waveform sent
+2025-03-24 17:47:17.956573 - Encryption started
+2025-03-24 17:47:18.006453 - Cipher received
+2025-03-24 17:47:18.022497 - Tag received
+2025-03-24 17:47:18.037141 - Waveform sent
+2025-03-24 17:47:18.055038 - Encryption started
+2025-03-24 17:47:18.105596 - Cipher received
+2025-03-24 17:47:18.122495 - Tag received
+2025-03-24 17:47:18.135539 - Waveform sent
+2025-03-24 17:47:18.154458 - Encryption started
+2025-03-24 17:47:18.203872 - Cipher received
+2025-03-24 17:47:18.219216 - Tag received
+2025-03-24 17:47:18.233568 - Waveform sent
+2025-03-24 17:47:18.251729 - Encryption started
+2025-03-24 17:47:18.302624 - Cipher received
+2025-03-24 17:47:18.317979 - Tag received
+2025-03-24 17:47:18.332076 - Waveform sent
+2025-03-24 17:47:18.350959 - Encryption started
+2025-03-24 17:47:18.400739 - Cipher received
+2025-03-24 17:47:18.416463 - Tag received
+2025-03-24 17:47:18.430066 - Waveform sent
+2025-03-24 17:47:18.449059 - Encryption started
+2025-03-24 17:47:18.499007 - Cipher received
+2025-03-24 17:47:18.515003 - Tag received
+2025-03-24 17:47:18.529984 - Waveform sent
+2025-03-24 17:47:18.546220 - Encryption started
+2025-03-24 17:47:18.596314 - Cipher received
+2025-03-24 17:47:18.612535 - Tag received
+2025-03-24 17:47:18.626657 - Waveform sent
+2025-03-24 17:47:18.644838 - Encryption started
+2025-03-24 17:47:18.694172 - Cipher received
+2025-03-24 17:47:18.710143 - Tag received
+2025-03-24 17:47:18.725270 - Waveform sent
+2025-03-24 17:47:18.742940 - Encryption started
+2025-03-24 17:47:18.793039 - Cipher received
+2025-03-24 17:47:18.809447 - Tag received
+2025-03-24 17:47:18.823882 - Waveform sent
+2025-03-24 17:47:18.841984 - Encryption started
+2025-03-24 17:47:18.891408 - Cipher received
+2025-03-24 17:47:18.907486 - Tag received
+2025-03-24 17:47:18.922381 - Waveform sent
+2025-03-24 17:47:18.940564 - Encryption started
+2025-03-24 17:47:18.990040 - Cipher received
+2025-03-24 17:47:19.006122 - Tag received
+2025-03-24 17:47:19.021955 - Waveform sent
+2025-03-24 17:47:19.038356 - Encryption started
+2025-03-24 17:47:19.088535 - Cipher received
+2025-03-24 17:47:19.104534 - Tag received
+2025-03-24 17:47:19.116413 - Waveform sent
+2025-03-24 17:47:19.135400 - Encryption started
+2025-03-24 17:47:19.187300 - Cipher received
+2025-03-24 17:47:19.203202 - Tag received
+2025-03-24 17:47:19.218084 - Waveform sent
+2025-03-24 17:47:19.234458 - Encryption started
+2025-03-24 17:47:19.285092 - Cipher received
+2025-03-24 17:47:19.300748 - Tag received
+2025-03-24 17:47:19.316687 - Waveform sent
+2025-03-24 17:47:19.332800 - Encryption started
+2025-03-24 17:47:19.383876 - Cipher received
+2025-03-24 17:47:19.399887 - Tag received
+2025-03-24 17:47:19.412282 - Waveform sent
+2025-03-24 17:47:19.432509 - Encryption started
+2025-03-24 17:47:19.482042 - Cipher received
+2025-03-24 17:47:19.497563 - Tag received
+2025-03-24 17:47:19.508450 - Waveform sent
+2025-03-24 17:47:19.530006 - Encryption started
+2025-03-24 17:47:19.580221 - Cipher received
+2025-03-24 17:47:19.596034 - Tag received
+2025-03-24 17:47:19.611025 - Waveform sent
+2025-03-24 17:47:19.628770 - Encryption started
+2025-03-24 17:47:19.677674 - Cipher received
+2025-03-24 17:47:19.693751 - Tag received
+2025-03-24 17:47:19.709590 - Waveform sent
+2025-03-24 17:47:19.725909 - Encryption started
+2025-03-24 17:47:19.775806 - Cipher received
+2025-03-24 17:47:19.791876 - Tag received
+2025-03-24 17:47:19.805734 - Waveform sent
+2025-03-24 17:47:19.824197 - Encryption started
+2025-03-24 17:47:19.874712 - Cipher received
+2025-03-24 17:47:19.891062 - Tag received
+2025-03-24 17:47:19.906044 - Waveform sent
+2025-03-24 17:47:19.922461 - Encryption started
+2025-03-24 17:47:19.972414 - Cipher received
+2025-03-24 17:47:19.988709 - Tag received
+2025-03-24 17:47:20.003803 - Waveform sent
+2025-03-24 17:47:20.020542 - Encryption started
+2025-03-24 17:47:20.071531 - Cipher received
+2025-03-24 17:47:20.087430 - Tag received
+2025-03-24 17:47:20.104216 - Waveform sent
+2025-03-24 17:47:20.119753 - Encryption started
+2025-03-24 17:47:20.170234 - Cipher received
+2025-03-24 17:47:20.186540 - Tag received
+2025-03-24 17:47:20.202148 - Waveform sent
+2025-03-24 17:47:20.218417 - Encryption started
+2025-03-24 17:47:20.268478 - Cipher received
+2025-03-24 17:47:20.284351 - Tag received
+2025-03-24 17:47:20.298872 - Waveform sent
+2025-03-24 17:47:20.317024 - Encryption started
+2025-03-24 17:47:20.365828 - Cipher received
+2025-03-24 17:47:20.382417 - Tag received
+2025-03-24 17:47:20.396030 - Waveform sent
+2025-03-24 17:47:20.414786 - Encryption started
+2025-03-24 17:47:20.464089 - Cipher received
+2025-03-24 17:47:20.480404 - Tag received
+2025-03-24 17:47:20.496767 - Waveform sent
+2025-03-24 17:47:20.512332 - Encryption started
+2025-03-24 17:47:20.561886 - Cipher received
+2025-03-24 17:47:20.577717 - Tag received
+2025-03-24 17:47:20.592986 - Waveform sent
+2025-03-24 17:47:20.609982 - Encryption started
+2025-03-24 17:47:20.661009 - Cipher received
+2025-03-24 17:47:20.677519 - Tag received
+2025-03-24 17:47:20.692020 - Waveform sent
+2025-03-24 17:47:20.709019 - Encryption started
+2025-03-24 17:47:20.760004 - Cipher received
+2025-03-24 17:47:20.776455 - Tag received
+2025-03-24 17:47:20.791040 - Waveform sent
+2025-03-24 17:47:20.808363 - Encryption started
+2025-03-24 17:47:20.858401 - Cipher received
+2025-03-24 17:47:20.874391 - Tag received
+2025-03-24 17:47:20.887038 - Waveform sent
+2025-03-24 17:47:20.905960 - Encryption started
+2025-03-24 17:47:20.956987 - Cipher received
+2025-03-24 17:47:20.972489 - Tag received
+2025-03-24 17:47:20.987801 - Waveform sent
+2025-03-24 17:47:21.004304 - Encryption started
+2025-03-24 17:47:21.054885 - Cipher received
+2025-03-24 17:47:21.071014 - Tag received
+2025-03-24 17:47:21.085533 - Waveform sent
+2025-03-24 17:47:21.102902 - Encryption started
+2025-03-24 17:47:21.152686 - Cipher received
+2025-03-24 17:47:21.169039 - Tag received
+2025-03-24 17:47:21.183893 - Waveform sent
+2025-03-24 17:47:21.200428 - Encryption started
+2025-03-24 17:47:21.251088 - Cipher received
+2025-03-24 17:47:21.266486 - Tag received
+2025-03-24 17:47:21.282039 - Waveform sent
+2025-03-24 17:47:21.299116 - Encryption started
+2025-03-24 17:47:21.349006 - Cipher received
+2025-03-24 17:47:21.364644 - Tag received
+2025-03-24 17:47:21.378455 - Waveform sent
+2025-03-24 17:47:21.396309 - Encryption started
+2025-03-24 17:47:21.447942 - Cipher received
+2025-03-24 17:47:21.463035 - Tag received
+2025-03-24 17:47:21.477250 - Waveform sent
+2025-03-24 17:47:21.495869 - Encryption started
+2025-03-24 17:47:21.544897 - Cipher received
+2025-03-24 17:47:21.561800 - Tag received
+2025-03-24 17:47:21.580584 - Waveform sent
+2025-03-24 17:47:21.593713 - Encryption started
+2025-03-24 17:47:21.643706 - Cipher received
+2025-03-24 17:47:21.660253 - Tag received
+2025-03-24 17:47:21.680221 - Waveform sent
+2025-03-24 17:47:21.692765 - Encryption started
+2025-03-24 17:47:21.742561 - Cipher received
+2025-03-24 17:47:21.759164 - Tag received
+2025-03-24 17:47:21.774166 - Waveform sent
+2025-03-24 17:47:21.790438 - Encryption started
+2025-03-24 17:47:21.841220 - Cipher received
+2025-03-24 17:47:21.857245 - Tag received
+2025-03-24 17:47:21.873342 - Waveform sent
+2025-03-24 17:47:21.888240 - Encryption started
+2025-03-24 17:47:21.939237 - Cipher received
+2025-03-24 17:47:21.954648 - Tag received
+2025-03-24 17:47:21.970500 - Waveform sent
+2025-03-24 17:47:21.987060 - Encryption started
+2025-03-24 17:47:22.038527 - Cipher received
+2025-03-24 17:47:22.053454 - Tag received
+2025-03-24 17:47:22.097229 - Waveform sent
+2025-03-24 17:47:22.118277 - Encryption started
+2025-03-24 17:47:22.169201 - Cipher received
+2025-03-24 17:47:22.184535 - Tag received
+2025-03-24 17:47:22.242561 - Waveform sent
+2025-03-24 17:47:22.265167 - Encryption started
+2025-03-24 17:47:22.315523 - Cipher received
+2025-03-24 17:47:22.331202 - Tag received
+2025-03-24 17:47:22.346201 - Waveform sent
+2025-03-24 17:47:22.364413 - Encryption started
+2025-03-24 17:47:22.413389 - Cipher received
+2025-03-24 17:47:22.430085 - Tag received
+
+2025-03-24 17:54:38.424467 - FPGA opened
+2025-03-24 17:54:38.424467 - Key sent
+2025-03-24 17:54:38.435278 - Nonce sent
+2025-03-24 17:54:38.452935 - Associated data sent
+2025-03-24 17:54:39.963061 - Waveform sent
+2025-03-24 17:54:39.987580 - Encryption started
+2025-03-24 17:54:40.037223 - Cipher received
+2025-03-24 17:54:40.069584 - Tag received
+2025-03-24 17:54:40.145645 - Waveform sent
+2025-03-24 17:54:40.165685 - Encryption started
+2025-03-24 17:54:40.215275 - Cipher received
+2025-03-24 17:54:40.231292 - Tag received
+2025-03-24 17:54:40.245962 - Waveform sent
+2025-03-24 17:54:40.262981 - Encryption started
+2025-03-24 17:54:40.314058 - Cipher received
+2025-03-24 17:54:40.330677 - Tag received
+2025-03-24 17:54:40.363136 - Waveform sent
+2025-03-24 17:54:40.378864 - Encryption started
+2025-03-24 17:54:40.429540 - Cipher received
+2025-03-24 17:54:40.445339 - Tag received
+2025-03-24 17:54:40.461329 - Waveform sent
+2025-03-24 17:54:40.477599 - Encryption started
+2025-03-24 17:54:40.527493 - Cipher received
+2025-03-24 17:54:40.542775 - Tag received
+2025-03-24 17:54:40.557895 - Waveform sent
+2025-03-24 17:54:40.575774 - Encryption started
+2025-03-24 17:54:40.626524 - Cipher received
+2025-03-24 17:54:40.642250 - Tag received
+2025-03-24 17:54:40.655653 - Waveform sent
+2025-03-24 17:54:40.674552 - Encryption started
+2025-03-24 17:54:40.724868 - Cipher received
+2025-03-24 17:54:40.741102 - Tag received
+2025-03-24 17:54:40.758307 - Waveform sent
+2025-03-24 17:54:40.772995 - Encryption started
+2025-03-24 17:54:40.822969 - Cipher received
+2025-03-24 17:54:40.839054 - Tag received
+2025-03-24 17:54:40.853960 - Waveform sent
+2025-03-24 17:54:40.870906 - Encryption started
+2025-03-24 17:54:40.921540 - Cipher received
+2025-03-24 17:54:40.937631 - Tag received
+2025-03-24 17:54:40.952520 - Waveform sent
+2025-03-24 17:54:40.970604 - Encryption started
+2025-03-24 17:54:41.021034 - Cipher received
+2025-03-24 17:54:41.036530 - Tag received
+2025-03-24 17:54:41.055239 - Waveform sent
+2025-03-24 17:54:41.068727 - Encryption started
+2025-03-24 17:54:41.119306 - Cipher received
+2025-03-24 17:54:41.134666 - Tag received
+2025-03-24 17:54:41.151938 - Waveform sent
+2025-03-24 17:54:41.166934 - Encryption started
+2025-03-24 17:54:41.217237 - Cipher received
+2025-03-24 17:54:41.233759 - Tag received
+2025-03-24 17:54:41.249163 - Waveform sent
+2025-03-24 17:54:41.265931 - Encryption started
+2025-03-24 17:54:41.315394 - Cipher received
+2025-03-24 17:54:41.332132 - Tag received
+2025-03-24 17:54:41.348154 - Waveform sent
+2025-03-24 17:54:41.364180 - Encryption started
+2025-03-24 17:54:41.414770 - Cipher received
+2025-03-24 17:54:41.431246 - Tag received
+2025-03-24 17:54:41.448734 - Waveform sent
+2025-03-24 17:54:41.462117 - Encryption started
+2025-03-24 17:54:41.512019 - Cipher received
+2025-03-24 17:54:41.528297 - Tag received
+2025-03-24 17:54:41.543184 - Waveform sent
+2025-03-24 17:54:41.560268 - Encryption started
+2025-03-24 17:54:41.611549 - Cipher received
+2025-03-24 17:54:41.626543 - Tag received
+2025-03-24 17:54:41.642181 - Waveform sent
+2025-03-24 17:54:41.659184 - Encryption started
+2025-03-24 17:54:41.710563 - Cipher received
+2025-03-24 17:54:41.726967 - Tag received
+2025-03-24 17:54:41.744677 - Waveform sent
+2025-03-24 17:54:41.758708 - Encryption started
+2025-03-24 17:54:41.808424 - Cipher received
+2025-03-24 17:54:41.824416 - Tag received
+2025-03-24 17:54:41.840882 - Waveform sent
+2025-03-24 17:54:41.856356 - Encryption started
+2025-03-24 17:54:41.907112 - Cipher received
+2025-03-24 17:54:41.923273 - Tag received
+2025-03-24 17:54:41.936873 - Waveform sent
+2025-03-24 17:54:41.954877 - Encryption started
+2025-03-24 17:54:42.004875 - Cipher received
+2025-03-24 17:54:42.021972 - Tag received
+2025-03-24 17:54:42.039186 - Waveform sent
+2025-03-24 17:54:42.053556 - Encryption started
+2025-03-24 17:54:42.103106 - Cipher received
+2025-03-24 17:54:42.119105 - Tag received
+2025-03-24 17:54:42.135624 - Waveform sent
+2025-03-24 17:54:42.151551 - Encryption started
+2025-03-24 17:54:42.201252 - Cipher received
+2025-03-24 17:54:42.217284 - Tag received
+2025-03-24 17:54:42.233366 - Waveform sent
+2025-03-24 17:54:42.248822 - Encryption started
+2025-03-24 17:54:42.298921 - Cipher received
+2025-03-24 17:54:42.315348 - Tag received
+2025-03-24 17:54:42.332292 - Waveform sent
+2025-03-24 17:54:42.346825 - Encryption started
+2025-03-24 17:54:42.396574 - Cipher received
+2025-03-24 17:54:42.412571 - Tag received
+2025-03-24 17:54:42.428186 - Waveform sent
+2025-03-24 17:54:42.445204 - Encryption started
+2025-03-24 17:54:42.494829 - Cipher received
+2025-03-24 17:54:42.510819 - Tag received
+2025-03-24 17:54:42.529076 - Waveform sent
+2025-03-24 17:54:42.542818 - Encryption started
+2025-03-24 17:54:42.594136 - Cipher received
+2025-03-24 17:54:42.610145 - Tag received
+2025-03-24 17:54:42.626194 - Waveform sent
+2025-03-24 17:54:42.641938 - Encryption started
+2025-03-24 17:54:42.693317 - Cipher received
+2025-03-24 17:54:42.708194 - Tag received
+2025-03-24 17:54:42.754791 - Waveform sent
+2025-03-24 17:54:42.772823 - Encryption started
+2025-03-24 17:54:42.823509 - Cipher received
+2025-03-24 17:54:42.839902 - Tag received
+2025-03-24 17:54:42.900056 - Waveform sent
+2025-03-24 17:54:42.920013 - Encryption started
+2025-03-24 17:54:42.969234 - Cipher received
+2025-03-24 17:54:42.985680 - Tag received
+2025-03-24 17:54:42.997801 - Waveform sent
+2025-03-24 17:54:43.017925 - Encryption started
+2025-03-24 17:54:43.067109 - Cipher received
+2025-03-24 17:54:43.082765 - Tag received
+
+2025-03-24 17:55:53.103204 - FPGA opened
+2025-03-24 17:55:53.103204 - Key sent
+2025-03-24 17:55:53.121441 - Nonce sent
+2025-03-24 17:55:53.137983 - Associated data sent
+2025-03-24 17:55:54.612080 - Waveform sent
+2025-03-24 17:55:54.624604 - Encryption started
+2025-03-24 17:55:54.674237 - Cipher received
+2025-03-24 17:55:54.690895 - Tag received
+2025-03-24 17:55:54.759815 - Waveform sent
+2025-03-24 17:55:54.771032 - Encryption started
+2025-03-24 17:55:54.820933 - Cipher received
+2025-03-24 17:55:54.836136 - Tag received
+2025-03-24 17:55:54.855837 - Waveform sent
+2025-03-24 17:55:54.868898 - Encryption started
+2025-03-24 17:55:54.918698 - Cipher received
+2025-03-24 17:55:54.934758 - Tag received
+2025-03-24 17:55:54.964494 - Waveform sent
+2025-03-24 17:55:54.982508 - Encryption started
+2025-03-24 17:55:55.032026 - Cipher received
+2025-03-24 17:55:55.048320 - Tag received
+2025-03-24 17:55:55.064712 - Waveform sent
+2025-03-24 17:55:55.081163 - Encryption started
+2025-03-24 17:55:55.130516 - Cipher received
+2025-03-24 17:55:55.146509 - Tag received
+2025-03-24 17:55:55.165411 - Waveform sent
+2025-03-24 17:55:55.178416 - Encryption started
+2025-03-24 17:55:55.228306 - Cipher received
+2025-03-24 17:55:55.244333 - Tag received
+2025-03-24 17:55:55.261337 - Waveform sent
+2025-03-24 17:55:55.276738 - Encryption started
+2025-03-24 17:55:55.326670 - Cipher received
+2025-03-24 17:55:55.342428 - Tag received
+2025-03-24 17:55:55.358425 - Waveform sent
+2025-03-24 17:55:55.374336 - Encryption started
+2025-03-24 17:55:55.424397 - Cipher received
+2025-03-24 17:55:55.440078 - Tag received
+2025-03-24 17:55:55.456524 - Waveform sent
+2025-03-24 17:55:55.472511 - Encryption started
+2025-03-24 17:55:55.521653 - Cipher received
+2025-03-24 17:55:55.538194 - Tag received
+2025-03-24 17:55:55.555187 - Waveform sent
+2025-03-24 17:55:55.570323 - Encryption started
+2025-03-24 17:55:55.621197 - Cipher received
+2025-03-24 17:55:55.637350 - Tag received
+2025-03-24 17:55:55.652691 - Waveform sent
+2025-03-24 17:55:55.668696 - Encryption started
+2025-03-24 17:55:55.719723 - Cipher received
+2025-03-24 17:55:55.736425 - Tag received
+2025-03-24 17:55:55.753338 - Waveform sent
+2025-03-24 17:55:55.768434 - Encryption started
+2025-03-24 17:55:55.818931 - Cipher received
+2025-03-24 17:55:55.834827 - Tag received
+2025-03-24 17:55:55.855350 - Waveform sent
+2025-03-24 17:55:55.882869 - Encryption started
+2025-03-24 17:55:55.932958 - Cipher received
+2025-03-24 17:55:55.950008 - Tag received
+2025-03-24 17:55:55.966092 - Waveform sent
+2025-03-24 17:55:55.980093 - Encryption started
+2025-03-24 17:55:56.030855 - Cipher received
+2025-03-24 17:55:56.047405 - Tag received
+2025-03-24 17:55:56.063250 - Waveform sent
+2025-03-24 17:55:56.078481 - Encryption started
+2025-03-24 17:55:56.129247 - Cipher received
+2025-03-24 17:55:56.144956 - Tag received
+2025-03-24 17:55:56.161752 - Waveform sent
+2025-03-24 17:55:56.176915 - Encryption started
+2025-03-24 17:55:56.227837 - Cipher received
+2025-03-24 17:55:56.243286 - Tag received
+2025-03-24 17:55:56.259183 - Waveform sent
+2025-03-24 17:55:56.276238 - Encryption started
+2025-03-24 17:55:56.325497 - Cipher received
+2025-03-24 17:55:56.341845 - Tag received
+2025-03-24 17:55:56.355841 - Waveform sent
+2025-03-24 17:55:56.374262 - Encryption started
+2025-03-24 17:55:56.423314 - Cipher received
+2025-03-24 17:55:56.439847 - Tag received
+2025-03-24 17:55:56.456394 - Waveform sent
+2025-03-24 17:55:56.471497 - Encryption started
+2025-03-24 17:55:56.521226 - Cipher received
+2025-03-24 17:55:56.537360 - Tag received
+2025-03-24 17:55:56.554363 - Waveform sent
+2025-03-24 17:55:56.569628 - Encryption started
+2025-03-24 17:55:56.619191 - Cipher received
+2025-03-24 17:55:56.635678 - Tag received
+2025-03-24 17:55:56.652993 - Waveform sent
+2025-03-24 17:55:56.667849 - Encryption started
+2025-03-24 17:55:56.716708 - Cipher received
+2025-03-24 17:55:56.733241 - Tag received
+2025-03-24 17:55:56.744848 - Waveform sent
+2025-03-24 17:55:56.765091 - Encryption started
+2025-03-24 17:55:56.815575 - Cipher received
+2025-03-24 17:55:56.830985 - Tag received
+2025-03-24 17:55:56.846141 - Waveform sent
+2025-03-24 17:55:56.863303 - Encryption started
+2025-03-24 17:55:56.913567 - Cipher received
+2025-03-24 17:55:56.929374 - Tag received
+2025-03-24 17:55:56.945774 - Waveform sent
+2025-03-24 17:55:56.961774 - Encryption started
+2025-03-24 17:55:57.012640 - Cipher received
+2025-03-24 17:55:57.029247 - Tag received
+2025-03-24 17:55:57.046267 - Waveform sent
+2025-03-24 17:55:57.060364 - Encryption started
+2025-03-24 17:55:57.109956 - Cipher received
+2025-03-24 17:55:57.126216 - Tag received
+2025-03-24 17:55:57.142443 - Waveform sent
+2025-03-24 17:55:57.158448 - Encryption started
+2025-03-24 17:55:57.209232 - Cipher received
+2025-03-24 17:55:57.225396 - Tag received
+2025-03-24 17:55:57.242050 - Waveform sent
+2025-03-24 17:55:57.257159 - Encryption started
+2025-03-24 17:55:57.308026 - Cipher received
+2025-03-24 17:55:57.323666 - Tag received
+2025-03-24 17:55:57.341058 - Waveform sent
+2025-03-24 17:55:57.356063 - Encryption started
+2025-03-24 17:55:57.405621 - Cipher received
+2025-03-24 17:55:57.421856 - Tag received
+2025-03-24 17:55:57.440619 - Waveform sent
+2025-03-24 17:55:57.453913 - Encryption started
+2025-03-24 17:55:57.504528 - Cipher received
+2025-03-24 17:55:57.521323 - Tag received
+2025-03-24 17:55:57.536861 - Waveform sent
+2025-03-24 17:55:57.552857 - Encryption started
+2025-03-24 17:55:57.602346 - Cipher received
+2025-03-24 17:55:57.619009 - Tag received
+2025-03-24 17:55:57.655200 - Waveform sent
+2025-03-24 17:55:57.666687 - Encryption started
+2025-03-24 17:55:57.717121 - Cipher received
+2025-03-24 17:55:57.732893 - Tag received
+2025-03-24 17:55:57.807536 - Waveform sent
+2025-03-24 17:55:57.828934 - Encryption started
+2025-03-24 17:55:57.878817 - Cipher received
+2025-03-24 17:55:57.894822 - Tag received
+2025-03-24 17:55:57.912668 - Waveform sent
+2025-03-24 17:55:57.926642 - Encryption started
+2025-03-24 17:55:57.977703 - Cipher received
+2025-03-24 17:55:57.993232 - Tag received
+
+2025-03-24 17:58:27.093324 - FPGA opened
+2025-03-24 17:58:27.093324 - Key sent
+2025-03-24 17:58:27.108084 - Nonce sent
+2025-03-24 17:58:27.121079 - Associated data sent
+2025-03-24 17:58:28.656468 - Waveform sent
+2025-03-24 17:58:28.677283 - Encryption started
+2025-03-24 17:58:28.726597 - Cipher received
+2025-03-24 17:58:28.742126 - Tag received
+2025-03-24 17:58:28.803123 - Waveform sent
+2025-03-24 17:58:28.823199 - Encryption started
+2025-03-24 17:58:28.872741 - Cipher received
+2025-03-24 17:58:28.888286 - Tag received
+2025-03-24 17:58:28.900278 - Waveform sent
+2025-03-24 17:58:28.921280 - Encryption started
+2025-03-24 17:58:28.970872 - Cipher received
+2025-03-24 17:58:28.986063 - Tag received
+2025-03-24 17:58:29.012064 - Waveform sent
+2025-03-24 17:58:29.035210 - Encryption started
+2025-03-24 17:58:29.084692 - Cipher received
+2025-03-24 17:58:29.100458 - Tag received
+2025-03-24 17:58:29.112352 - Waveform sent
+2025-03-24 17:58:29.132681 - Encryption started
+2025-03-24 17:58:29.183253 - Cipher received
+2025-03-24 17:58:29.199558 - Tag received
+2025-03-24 17:58:29.210784 - Waveform sent
+2025-03-24 17:58:29.231792 - Encryption started
+2025-03-24 17:58:29.281472 - Cipher received
+2025-03-24 17:58:29.297289 - Tag received
+2025-03-24 17:58:29.308501 - Waveform sent
+2025-03-24 17:58:29.329600 - Encryption started
+2025-03-24 17:58:29.379359 - Cipher received
+2025-03-24 17:58:29.395242 - Tag received
+2025-03-24 17:58:29.406373 - Waveform sent
+2025-03-24 17:58:29.427203 - Encryption started
+2025-03-24 17:58:29.477451 - Cipher received
+2025-03-24 17:58:29.492892 - Tag received
+2025-03-24 17:58:29.504871 - Waveform sent
+2025-03-24 17:58:29.525157 - Encryption started
+2025-03-24 17:58:29.575697 - Cipher received
+2025-03-24 17:58:29.591626 - Tag received
+2025-03-24 17:58:29.602153 - Waveform sent
+2025-03-24 17:58:29.623441 - Encryption started
+2025-03-24 17:58:29.674856 - Cipher received
+2025-03-24 17:58:29.690045 - Tag received
+2025-03-24 17:58:29.701322 - Waveform sent
+2025-03-24 17:58:29.722373 - Encryption started
+2025-03-24 17:58:29.773277 - Cipher received
+2025-03-24 17:58:29.789802 - Tag received
+2025-03-24 17:58:29.801785 - Waveform sent
+2025-03-24 17:58:29.821894 - Encryption started
+2025-03-24 17:58:29.871090 - Cipher received
+2025-03-24 17:58:29.886988 - Tag received
+2025-03-24 17:58:29.898448 - Waveform sent
+2025-03-24 17:58:29.919732 - Encryption started
+2025-03-24 17:58:29.969529 - Cipher received
+2025-03-24 17:58:29.985114 - Tag received
+2025-03-24 17:58:29.993957 - Waveform sent
+2025-03-24 17:58:30.017058 - Encryption started
+2025-03-24 17:58:30.068427 - Cipher received
+2025-03-24 17:58:30.084467 - Tag received
+2025-03-24 17:58:30.095010 - Waveform sent
+2025-03-24 17:58:30.116152 - Encryption started
+2025-03-24 17:58:30.167527 - Cipher received
+2025-03-24 17:58:30.182722 - Tag received
+2025-03-24 17:58:30.193306 - Waveform sent
+2025-03-24 17:58:30.214643 - Encryption started
+2025-03-24 17:58:30.265117 - Cipher received
+2025-03-24 17:58:30.280605 - Tag received
+2025-03-24 17:58:30.290079 - Waveform sent
+2025-03-24 17:58:30.313079 - Encryption started
+2025-03-24 17:58:30.363884 - Cipher received
+2025-03-24 17:58:30.378765 - Tag received
+2025-03-24 17:58:30.390562 - Waveform sent
+2025-03-24 17:58:30.410545 - Encryption started
+2025-03-24 17:58:30.460077 - Cipher received
+2025-03-24 17:58:30.476030 - Tag received
+2025-03-24 17:58:30.486615 - Waveform sent
+2025-03-24 17:58:30.508789 - Encryption started
+2025-03-24 17:58:30.559765 - Cipher received
+2025-03-24 17:58:30.575832 - Tag received
+2025-03-24 17:58:30.588499 - Waveform sent
+2025-03-24 17:58:30.608133 - Encryption started
+2025-03-24 17:58:30.657160 - Cipher received
+2025-03-24 17:58:30.673261 - Tag received
+2025-03-24 17:58:30.683501 - Waveform sent
+2025-03-24 17:58:30.705426 - Encryption started
+2025-03-24 17:58:30.755749 - Cipher received
+2025-03-24 17:58:30.771202 - Tag received
+2025-03-24 17:58:30.782097 - Waveform sent
+2025-03-24 17:58:30.803727 - Encryption started
+2025-03-24 17:58:30.853816 - Cipher received
+2025-03-24 17:58:30.869810 - Tag received
+2025-03-24 17:58:30.881692 - Waveform sent
+2025-03-24 17:58:30.901394 - Encryption started
+2025-03-24 17:58:30.951857 - Cipher received
+2025-03-24 17:58:30.967475 - Tag received
+2025-03-24 17:58:30.983543 - Waveform sent
+2025-03-24 17:58:31.000026 - Encryption started
+2025-03-24 17:58:31.050282 - Cipher received
+2025-03-24 17:58:31.066185 - Tag received
+2025-03-24 17:58:31.077329 - Waveform sent
+2025-03-24 17:58:31.098930 - Encryption started
+2025-03-24 17:58:31.149317 - Cipher received
+2025-03-24 17:58:31.165519 - Tag received
+2025-03-24 17:58:31.177868 - Waveform sent
+2025-03-24 17:58:31.197881 - Encryption started
+2025-03-24 17:58:31.247574 - Cipher received
+2025-03-24 17:58:31.263343 - Tag received
+2025-03-24 17:58:31.326869 - Waveform sent
+2025-03-24 17:58:31.343399 - Encryption started
+2025-03-24 17:58:31.394185 - Cipher received
+2025-03-24 17:58:31.410177 - Tag received
+2025-03-24 17:58:31.470166 - Waveform sent
+2025-03-24 17:58:31.489516 - Encryption started
+2025-03-24 17:58:31.541508 - Cipher received
+2025-03-24 17:58:31.556539 - Tag received
+2025-03-24 17:58:31.566966 - Waveform sent
+2025-03-24 17:58:31.589040 - Encryption started
+2025-03-24 17:58:31.639505 - Cipher received
+2025-03-24 17:58:31.655504 - Tag received
+
+2025-03-24 17:58:58.661732 - FPGA opened
+2025-03-24 17:58:58.662086 - Key sent
+2025-03-24 17:58:58.674181 - Nonce sent
+2025-03-24 17:58:58.686269 - Associated data sent
+2025-03-24 17:59:00.305765 - Waveform sent
+2025-03-24 17:59:00.320662 - Encryption started
+2025-03-24 17:59:00.370543 - Cipher received
+2025-03-24 17:59:00.386203 - Tag received
+2025-03-24 17:59:00.455726 - Waveform sent
+2025-03-24 17:59:00.483027 - Encryption started
+2025-03-24 17:59:00.533244 - Cipher received
+2025-03-24 17:59:00.549253 - Tag received
+2025-03-24 17:59:00.566508 - Waveform sent
+2025-03-24 17:59:00.581220 - Encryption started
+2025-03-24 17:59:00.631291 - Cipher received
+2025-03-24 17:59:00.647730 - Tag received
+2025-03-24 17:59:00.681821 - Waveform sent
+2025-03-24 17:59:00.695419 - Encryption started
+2025-03-24 17:59:00.745580 - Cipher received
+2025-03-24 17:59:00.761022 - Tag received
+2025-03-24 17:59:00.775386 - Waveform sent
+2025-03-24 17:59:00.793496 - Encryption started
+2025-03-24 17:59:00.843839 - Cipher received
+2025-03-24 17:59:00.859297 - Tag received
+2025-03-24 17:59:00.876297 - Waveform sent
+2025-03-24 17:59:00.892146 - Encryption started
+2025-03-24 17:59:00.941495 - Cipher received
+2025-03-24 17:59:00.956646 - Tag received
+2025-03-24 17:59:00.974648 - Waveform sent
+2025-03-24 17:59:00.989426 - Encryption started
+2025-03-24 17:59:01.039408 - Cipher received
+2025-03-24 17:59:01.054945 - Tag received
+2025-03-24 17:59:01.068967 - Waveform sent
+2025-03-24 17:59:01.086805 - Encryption started
+2025-03-24 17:59:01.137303 - Cipher received
+2025-03-24 17:59:01.153322 - Tag received
+2025-03-24 17:59:01.168370 - Waveform sent
+2025-03-24 17:59:01.186071 - Encryption started
+2025-03-24 17:59:01.235083 - Cipher received
+2025-03-24 17:59:01.251097 - Tag received
+2025-03-24 17:59:01.268161 - Waveform sent
+2025-03-24 17:59:01.282737 - Encryption started
+2025-03-24 17:59:01.332867 - Cipher received
+2025-03-24 17:59:01.348922 - Tag received
+2025-03-24 17:59:01.366018 - Waveform sent
+2025-03-24 17:59:01.381005 - Encryption started
+2025-03-24 17:59:01.432416 - Cipher received
+2025-03-24 17:59:01.448112 - Tag received
+2025-03-24 17:59:01.465995 - Waveform sent
+2025-03-24 17:59:01.480057 - Encryption started
+2025-03-24 17:59:01.529763 - Cipher received
+2025-03-24 17:59:01.545256 - Tag received
+2025-03-24 17:59:01.561257 - Waveform sent
+2025-03-24 17:59:01.577777 - Encryption started
+2025-03-24 17:59:01.629049 - Cipher received
+2025-03-24 17:59:01.644257 - Tag received
+2025-03-24 17:59:01.661256 - Waveform sent
+2025-03-24 17:59:01.677252 - Encryption started
+2025-03-24 17:59:01.726216 - Cipher received
+2025-03-24 17:59:01.742555 - Tag received
+2025-03-24 17:59:01.763561 - Waveform sent
+2025-03-24 17:59:01.774896 - Encryption started
+2025-03-24 17:59:01.825621 - Cipher received
+2025-03-24 17:59:01.841422 - Tag received
+2025-03-24 17:59:01.858438 - Waveform sent
+2025-03-24 17:59:01.873767 - Encryption started
+2025-03-24 17:59:01.923447 - Cipher received
+2025-03-24 17:59:01.939414 - Tag received
+2025-03-24 17:59:02.010115 - Waveform sent
+2025-03-24 17:59:02.035741 - Encryption started
+2025-03-24 17:59:02.087269 - Cipher received
+2025-03-24 17:59:02.102955 - Tag received
+2025-03-24 17:59:02.169070 - Waveform sent
+2025-03-24 17:59:02.182516 - Encryption started
+2025-03-24 17:59:02.232359 - Cipher received
+2025-03-24 17:59:02.248009 - Tag received
+2025-03-24 17:59:02.262035 - Waveform sent
+2025-03-24 17:59:02.281001 - Encryption started
+2025-03-24 17:59:02.330644 - Cipher received
+2025-03-24 17:59:02.346384 - Tag received
+
+2025-03-24 17:59:33.901450 - FPGA opened
+2025-03-24 17:59:33.901450 - Key sent
+2025-03-24 17:59:33.907277 - Nonce sent
+2025-03-24 17:59:33.921656 - Associated data sent
+2025-03-24 17:59:35.500480 - Waveform sent
+2025-03-24 17:59:35.524486 - Encryption started
+2025-03-24 17:59:35.574029 - Cipher received
+2025-03-24 17:59:35.590660 - Tag received
+2025-03-24 17:59:35.649787 - Waveform sent
+2025-03-24 17:59:35.669694 - Encryption started
+2025-03-24 17:59:35.719701 - Cipher received
+2025-03-24 17:59:35.736212 - Tag received
+2025-03-24 17:59:35.754143 - Waveform sent
+2025-03-24 17:59:35.768141 - Encryption started
+2025-03-24 17:59:35.818432 - Cipher received
+2025-03-24 17:59:35.834311 - Tag received
+2025-03-24 17:59:35.866963 - Waveform sent
+2025-03-24 17:59:35.882144 - Encryption started
+2025-03-24 17:59:35.932238 - Cipher received
+2025-03-24 17:59:35.947437 - Tag received
+2025-03-24 17:59:35.964913 - Waveform sent
+2025-03-24 17:59:35.980702 - Encryption started
+2025-03-24 17:59:36.030411 - Cipher received
+2025-03-24 17:59:36.046073 - Tag received
+2025-03-24 17:59:36.062296 - Waveform sent
+2025-03-24 17:59:36.078582 - Encryption started
+2025-03-24 17:59:36.127884 - Cipher received
+2025-03-24 17:59:36.145586 - Tag received
+2025-03-24 17:59:36.162455 - Waveform sent
+2025-03-24 17:59:36.177215 - Encryption started
+2025-03-24 17:59:36.226677 - Cipher received
+2025-03-24 17:59:36.243054 - Tag received
+2025-03-24 17:59:36.258855 - Waveform sent
+2025-03-24 17:59:36.274961 - Encryption started
+2025-03-24 17:59:36.326359 - Cipher received
+2025-03-24 17:59:36.342164 - Tag received
+2025-03-24 17:59:36.358105 - Waveform sent
+2025-03-24 17:59:36.374099 - Encryption started
+2025-03-24 17:59:36.425216 - Cipher received
+2025-03-24 17:59:36.440671 - Tag received
+2025-03-24 17:59:36.457179 - Waveform sent
+2025-03-24 17:59:36.473174 - Encryption started
+2025-03-24 17:59:36.522396 - Cipher received
+2025-03-24 17:59:36.539171 - Tag received
+2025-03-24 17:59:36.555025 - Waveform sent
+2025-03-24 17:59:36.571026 - Encryption started
+2025-03-24 17:59:36.620855 - Cipher received
+2025-03-24 17:59:36.636832 - Tag received
+2025-03-24 17:59:36.652741 - Waveform sent
+2025-03-24 17:59:36.668686 - Encryption started
+2025-03-24 17:59:36.719899 - Cipher received
+2025-03-24 17:59:36.736094 - Tag received
+2025-03-24 17:59:36.752929 - Waveform sent
+2025-03-24 17:59:36.768117 - Encryption started
+2025-03-24 17:59:36.817097 - Cipher received
+2025-03-24 17:59:36.833763 - Tag received
+2025-03-24 17:59:36.851768 - Waveform sent
+2025-03-24 17:59:36.865800 - Encryption started
+2025-03-24 17:59:36.916923 - Cipher received
+2025-03-24 17:59:36.932327 - Tag received
+2025-03-24 17:59:36.948714 - Waveform sent
+2025-03-24 17:59:36.964715 - Encryption started
+2025-03-24 17:59:37.015677 - Cipher received
+2025-03-24 17:59:37.030674 - Tag received
+2025-03-24 17:59:37.047206 - Waveform sent
+2025-03-24 17:59:37.063032 - Encryption started
+2025-03-24 17:59:37.112586 - Cipher received
+2025-03-24 17:59:37.129360 - Tag received
+2025-03-24 17:59:37.147275 - Waveform sent
+2025-03-24 17:59:37.161439 - Encryption started
+2025-03-24 17:59:37.211029 - Cipher received
+2025-03-24 17:59:37.226816 - Tag received
+2025-03-24 17:59:37.243347 - Waveform sent
+2025-03-24 17:59:37.258914 - Encryption started
+2025-03-24 17:59:37.310244 - Cipher received
+2025-03-24 17:59:37.326290 - Tag received
+2025-03-24 17:59:37.341805 - Waveform sent
+2025-03-24 17:59:37.358064 - Encryption started
+2025-03-24 17:59:37.409350 - Cipher received
+2025-03-24 17:59:37.424952 - Tag received
+2025-03-24 17:59:37.443558 - Waveform sent
+2025-03-24 17:59:37.457467 - Encryption started
+2025-03-24 17:59:37.508977 - Cipher received
+2025-03-24 17:59:37.525061 - Tag received
+2025-03-24 17:59:37.538506 - Waveform sent
+2025-03-24 17:59:37.556460 - Encryption started
+2025-03-24 17:59:37.606799 - Cipher received
+2025-03-24 17:59:37.622749 - Tag received
+2025-03-24 17:59:37.637160 - Waveform sent
+2025-03-24 17:59:37.655683 - Encryption started
+2025-03-24 17:59:37.704888 - Cipher received
+2025-03-24 17:59:37.720633 - Tag received
+2025-03-24 17:59:37.738076 - Waveform sent
+2025-03-24 17:59:37.753357 - Encryption started
+2025-03-24 17:59:37.803751 - Cipher received
+2025-03-24 17:59:37.820354 - Tag received
+2025-03-24 17:59:37.834239 - Waveform sent
+2025-03-24 17:59:37.851878 - Encryption started
+2025-03-24 17:59:37.902986 - Cipher received
+2025-03-24 17:59:37.918720 - Tag received
+2025-03-24 17:59:37.934410 - Waveform sent
+2025-03-24 17:59:37.951477 - Encryption started
+2025-03-24 17:59:38.000353 - Cipher received
+2025-03-24 17:59:38.016521 - Tag received
+2025-03-24 17:59:38.091620 - Waveform sent
+2025-03-24 17:59:38.112855 - Encryption started
+2025-03-24 17:59:38.162571 - Cipher received
+2025-03-24 17:59:38.178548 - Tag received
+2025-03-24 17:59:38.241063 - Waveform sent
+2025-03-24 17:59:38.258510 - Encryption started
+2025-03-24 17:59:38.307850 - Cipher received
+2025-03-24 17:59:38.323792 - Tag received
+2025-03-24 17:59:38.337454 - Waveform sent
+2025-03-24 17:59:38.356471 - Encryption started
+2025-03-24 17:59:38.406203 - Cipher received
+2025-03-24 17:59:38.421556 - Tag received
+
+2025-03-24 18:00:33.312659 - FPGA opened
+2025-03-24 18:00:33.312659 - Key sent
+2025-03-24 18:00:33.326821 - Nonce sent
+2025-03-24 18:00:33.342712 - Associated data sent
+2025-03-24 18:00:34.871927 - Waveform sent
+2025-03-24 18:00:34.893450 - Encryption started
+2025-03-24 18:00:34.943995 - Cipher received
+2025-03-24 18:00:34.960002 - Tag received
+2025-03-24 18:00:35.015547 - Waveform sent
+2025-03-24 18:00:35.040127 - Encryption started
+2025-03-24 18:00:35.089697 - Cipher received
+2025-03-24 18:00:35.105714 - Tag received
+2025-03-24 18:00:35.118688 - Waveform sent
+2025-03-24 18:00:35.138231 - Encryption started
+2025-03-24 18:00:35.188229 - Cipher received
+2025-03-24 18:00:35.203744 - Tag received
+2025-03-24 18:00:35.220744 - Waveform sent
+2025-03-24 18:00:35.236284 - Encryption started
+2025-03-24 18:00:35.286507 - Cipher received
+2025-03-24 18:00:35.301975 - Tag received
+2025-03-24 18:00:35.311773 - Waveform sent
+2025-03-24 18:00:35.334521 - Encryption started
+2025-03-24 18:00:35.383879 - Cipher received
+2025-03-24 18:00:35.399882 - Tag received
+2025-03-24 18:00:35.410773 - Waveform sent
+2025-03-24 18:00:35.432318 - Encryption started
+2025-03-24 18:00:35.482062 - Cipher received
+2025-03-24 18:00:35.498450 - Tag received
+2025-03-24 18:00:35.508451 - Waveform sent
+2025-03-24 18:00:35.530244 - Encryption started
+2025-03-24 18:00:35.579824 - Cipher received
+2025-03-24 18:00:35.595244 - Tag received
+2025-03-24 18:00:35.606434 - Waveform sent
+2025-03-24 18:00:35.628340 - Encryption started
+2025-03-24 18:00:35.677923 - Cipher received
+2025-03-24 18:00:35.694074 - Tag received
+2025-03-24 18:00:35.705354 - Waveform sent
+2025-03-24 18:00:35.726353 - Encryption started
+2025-03-24 18:00:35.777041 - Cipher received
+2025-03-24 18:00:35.792826 - Tag received
+2025-03-24 18:00:35.802942 - Waveform sent
+2025-03-24 18:00:35.826476 - Encryption started
+2025-03-24 18:00:35.875649 - Cipher received
+2025-03-24 18:00:35.891552 - Tag received
+2025-03-24 18:00:35.903544 - Waveform sent
+2025-03-24 18:00:35.923924 - Encryption started
+2025-03-24 18:00:35.975780 - Cipher received
+2025-03-24 18:00:35.990845 - Tag received
+2025-03-24 18:00:36.002836 - Waveform sent
+2025-03-24 18:00:36.022837 - Encryption started
+2025-03-24 18:00:36.074221 - Cipher received
+2025-03-24 18:00:36.089248 - Tag received
+2025-03-24 18:00:36.102374 - Waveform sent
+2025-03-24 18:00:36.122739 - Encryption started
+2025-03-24 18:00:36.172050 - Cipher received
+2025-03-24 18:00:36.188732 - Tag received
+2025-03-24 18:00:36.200159 - Waveform sent
+2025-03-24 18:00:36.220564 - Encryption started
+2025-03-24 18:00:36.271615 - Cipher received
+2025-03-24 18:00:36.287615 - Tag received
+2025-03-24 18:00:36.299820 - Waveform sent
+2025-03-24 18:00:36.319663 - Encryption started
+2025-03-24 18:00:36.369137 - Cipher received
+2025-03-24 18:00:36.385526 - Tag received
+2025-03-24 18:00:36.397884 - Waveform sent
+2025-03-24 18:00:36.417840 - Encryption started
+2025-03-24 18:00:36.467628 - Cipher received
+2025-03-24 18:00:36.483160 - Tag received
+2025-03-24 18:00:36.493897 - Waveform sent
+2025-03-24 18:00:36.515774 - Encryption started
+2025-03-24 18:00:36.566734 - Cipher received
+2025-03-24 18:00:36.582181 - Tag received
+2025-03-24 18:00:36.592616 - Waveform sent
+2025-03-24 18:00:36.614598 - Encryption started
+2025-03-24 18:00:36.664368 - Cipher received
+2025-03-24 18:00:36.680351 - Tag received
+2025-03-24 18:00:36.690295 - Waveform sent
+2025-03-24 18:00:36.713143 - Encryption started
+2025-03-24 18:00:36.763310 - Cipher received
+2025-03-24 18:00:36.779557 - Tag received
+2025-03-24 18:00:36.789244 - Waveform sent
+2025-03-24 18:00:36.812331 - Encryption started
+2025-03-24 18:00:36.862503 - Cipher received
+2025-03-24 18:00:36.877602 - Tag received
+2025-03-24 18:00:36.888039 - Waveform sent
+2025-03-24 18:00:36.910604 - Encryption started
+2025-03-24 18:00:36.960189 - Cipher received
+2025-03-24 18:00:36.976144 - Tag received
+2025-03-24 18:00:37.071567 - Waveform sent
+2025-03-24 18:00:37.089103 - Encryption started
+2025-03-24 18:00:37.139498 - Cipher received
+2025-03-24 18:00:37.154962 - Tag received
+2025-03-24 18:00:37.217078 - Waveform sent
+2025-03-24 18:00:37.234590 - Encryption started
+2025-03-24 18:00:37.284469 - Cipher received
+2025-03-24 18:00:37.301417 - Tag received
+2025-03-24 18:00:37.311416 - Waveform sent
+2025-03-24 18:00:37.333079 - Encryption started
+2025-03-24 18:00:37.384114 - Cipher received
+2025-03-24 18:00:37.399489 - Tag received
+
+2025-03-24 18:02:05.326846 - FPGA opened
+2025-03-24 18:02:05.326846 - Key sent
+2025-03-24 18:02:05.345277 - Nonce sent
+2025-03-24 18:02:05.359260 - Associated data sent
+2025-03-24 18:02:06.933373 - Waveform sent
+2025-03-24 18:02:06.944889 - Encryption started
+2025-03-24 18:02:06.998449 - Cipher received
+2025-03-24 18:02:07.014418 - Tag received
+2025-03-24 18:02:07.061046 - Waveform sent
+2025-03-24 18:02:07.078632 - Encryption started
+2025-03-24 18:02:07.128120 - Cipher received
+2025-03-24 18:02:07.144194 - Tag received
+2025-03-24 18:02:07.156569 - Waveform sent
+2025-03-24 18:02:07.176602 - Encryption started
+2025-03-24 18:02:07.227023 - Cipher received
+2025-03-24 18:02:07.243578 - Tag received
+2025-03-24 18:02:07.269557 - Waveform sent
+2025-03-24 18:02:07.291251 - Encryption started
+2025-03-24 18:02:07.340869 - Cipher received
+2025-03-24 18:02:07.356889 - Tag received
+2025-03-24 18:02:07.367903 - Waveform sent
+2025-03-24 18:02:07.389428 - Encryption started
+2025-03-24 18:02:07.440350 - Cipher received
+2025-03-24 18:02:07.456357 - Tag received
+2025-03-24 18:02:07.464463 - Waveform sent
+2025-03-24 18:02:07.487830 - Encryption started
+2025-03-24 18:02:07.538409 - Cipher received
+2025-03-24 18:02:07.553426 - Tag received
+2025-03-24 18:02:07.563016 - Waveform sent
+2025-03-24 18:02:07.585904 - Encryption started
+2025-03-24 18:02:07.636605 - Cipher received
+2025-03-24 18:02:07.653086 - Tag received
+2025-03-24 18:02:07.663056 - Waveform sent
+2025-03-24 18:02:07.685522 - Encryption started
+2025-03-24 18:02:07.735346 - Cipher received
+2025-03-24 18:02:07.751256 - Tag received
+2025-03-24 18:02:07.760481 - Waveform sent
+2025-03-24 18:02:07.782881 - Encryption started
+2025-03-24 18:02:07.832866 - Cipher received
+2025-03-24 18:02:07.849218 - Tag received
+2025-03-24 18:02:07.859226 - Waveform sent
+2025-03-24 18:02:07.880840 - Encryption started
+2025-03-24 18:02:07.930207 - Cipher received
+2025-03-24 18:02:07.946598 - Tag received
+2025-03-24 18:02:07.956600 - Waveform sent
+2025-03-24 18:02:07.979076 - Encryption started
+2025-03-24 18:02:08.029013 - Cipher received
+2025-03-24 18:02:08.044558 - Tag received
+2025-03-24 18:02:08.054700 - Waveform sent
+2025-03-24 18:02:08.077567 - Encryption started
+2025-03-24 18:02:08.126111 - Cipher received
+2025-03-24 18:02:08.142669 - Tag received
+2025-03-24 18:02:08.152856 - Waveform sent
+2025-03-24 18:02:08.174926 - Encryption started
+2025-03-24 18:02:08.224403 - Cipher received
+2025-03-24 18:02:08.240108 - Tag received
+2025-03-24 18:02:08.252378 - Waveform sent
+2025-03-24 18:02:08.272794 - Encryption started
+2025-03-24 18:02:08.322600 - Cipher received
+2025-03-24 18:02:08.338280 - Tag received
+2025-03-24 18:02:08.350279 - Waveform sent
+2025-03-24 18:02:08.371267 - Encryption started
+2025-03-24 18:02:08.420845 - Cipher received
+2025-03-24 18:02:08.437320 - Tag received
+2025-03-24 18:02:08.447973 - Waveform sent
+2025-03-24 18:02:08.468320 - Encryption started
+2025-03-24 18:02:08.518570 - Cipher received
+2025-03-24 18:02:08.534189 - Tag received
+2025-03-24 18:02:08.584868 - Waveform sent
+2025-03-24 18:02:08.598868 - Encryption started
+2025-03-24 18:02:08.649805 - Cipher received
+2025-03-24 18:02:08.665852 - Tag received
+2025-03-24 18:02:08.725409 - Waveform sent
+2025-03-24 18:02:08.744931 - Encryption started
+2025-03-24 18:02:08.794612 - Cipher received
+2025-03-24 18:02:08.810924 - Tag received
+2025-03-24 18:02:08.820903 - Waveform sent
+2025-03-24 18:02:08.843601 - Encryption started
+2025-03-24 18:02:08.892859 - Cipher received
+2025-03-24 18:02:08.908359 - Tag received
+
+2025-03-24 18:02:44.079857 - FPGA opened
+2025-03-24 18:02:44.081870 - Key sent
+2025-03-24 18:02:44.090059 - Nonce sent
+2025-03-24 18:02:44.106714 - Associated data sent
+2025-03-24 18:02:45.634320 - Waveform sent
+2025-03-24 18:02:45.657211 - Encryption started
+2025-03-24 18:02:45.707360 - Cipher received
+2025-03-24 18:02:45.723644 - Tag received
+2025-03-24 18:02:45.778170 - Waveform sent
+2025-03-24 18:02:45.804710 - Encryption started
+2025-03-24 18:02:45.855311 - Cipher received
+2025-03-24 18:02:45.871324 - Tag received
+2025-03-24 18:02:45.882314 - Waveform sent
+2025-03-24 18:02:45.902877 - Encryption started
+2025-03-24 18:02:45.952451 - Cipher received
+2025-03-24 18:02:45.968533 - Tag received
+2025-03-24 18:02:45.997461 - Waveform sent
+2025-03-24 18:02:46.017141 - Encryption started
+2025-03-24 18:02:46.067718 - Cipher received
+2025-03-24 18:02:46.083815 - Tag received
+2025-03-24 18:02:46.095359 - Waveform sent
+2025-03-24 18:02:46.116358 - Encryption started
+2025-03-24 18:02:46.165613 - Cipher received
+2025-03-24 18:02:46.181426 - Tag received
+2025-03-24 18:02:46.191674 - Waveform sent
+2025-03-24 18:02:46.213684 - Encryption started
+2025-03-24 18:02:46.263529 - Cipher received
+2025-03-24 18:02:46.279542 - Tag received
+2025-03-24 18:02:46.290200 - Waveform sent
+2025-03-24 18:02:46.311541 - Encryption started
+2025-03-24 18:02:46.361737 - Cipher received
+2025-03-24 18:02:46.378043 - Tag received
+2025-03-24 18:02:46.388492 - Waveform sent
+2025-03-24 18:02:46.409939 - Encryption started
+2025-03-24 18:02:46.460846 - Cipher received
+2025-03-24 18:02:46.477052 - Tag received
+2025-03-24 18:02:46.487682 - Waveform sent
+2025-03-24 18:02:46.509188 - Encryption started
+2025-03-24 18:02:46.559532 - Cipher received
+2025-03-24 18:02:46.576011 - Tag received
+2025-03-24 18:02:46.586092 - Waveform sent
+2025-03-24 18:02:46.608051 - Encryption started
+2025-03-24 18:02:46.657670 - Cipher received
+2025-03-24 18:02:46.673673 - Tag received
+2025-03-24 18:02:46.684206 - Waveform sent
+2025-03-24 18:02:46.705604 - Encryption started
+2025-03-24 18:02:46.755136 - Cipher received
+2025-03-24 18:02:46.771204 - Tag received
+2025-03-24 18:02:46.780117 - Waveform sent
+2025-03-24 18:02:46.804746 - Encryption started
+2025-03-24 18:02:46.853272 - Cipher received
+2025-03-24 18:02:46.868761 - Tag received
+2025-03-24 18:02:46.879609 - Waveform sent
+2025-03-24 18:02:46.901517 - Encryption started
+2025-03-24 18:02:46.951533 - Cipher received
+2025-03-24 18:02:46.966645 - Tag received
+2025-03-24 18:02:46.977809 - Waveform sent
+2025-03-24 18:02:46.999373 - Encryption started
+2025-03-24 18:02:47.049042 - Cipher received
+2025-03-24 18:02:47.064973 - Tag received
+2025-03-24 18:02:47.073871 - Waveform sent
+2025-03-24 18:02:47.097536 - Encryption started
+2025-03-24 18:02:47.146699 - Cipher received
+2025-03-24 18:02:47.162894 - Tag received
+2025-03-24 18:02:47.172999 - Waveform sent
+2025-03-24 18:02:47.194926 - Encryption started
+2025-03-24 18:02:47.245277 - Cipher received
+2025-03-24 18:02:47.261413 - Tag received
+2025-03-24 18:02:47.271450 - Waveform sent
+2025-03-24 18:02:47.293316 - Encryption started
+2025-03-24 18:02:47.342518 - Cipher received
+2025-03-24 18:02:47.358518 - Tag received
+2025-03-24 18:02:47.370419 - Waveform sent
+2025-03-24 18:02:47.391025 - Encryption started
+2025-03-24 18:02:47.440795 - Cipher received
+2025-03-24 18:02:47.456468 - Tag received
+2025-03-24 18:02:47.472464 - Waveform sent
+2025-03-24 18:02:47.488460 - Encryption started
+2025-03-24 18:02:47.538343 - Cipher received
+2025-03-24 18:02:47.554518 - Tag received
+2025-03-24 18:02:47.564539 - Waveform sent
+2025-03-24 18:02:47.587376 - Encryption started
+2025-03-24 18:02:47.636376 - Cipher received
+2025-03-24 18:02:47.652893 - Tag received
+2025-03-24 18:02:47.699313 - Waveform sent
+2025-03-24 18:02:47.716226 - Encryption started
+2025-03-24 18:02:47.766120 - Cipher received
+2025-03-24 18:02:47.782639 - Tag received
+2025-03-24 18:02:47.790978 - Waveform sent
+2025-03-24 18:02:47.814737 - Encryption started
+2025-03-24 18:02:47.864442 - Cipher received
+2025-03-24 18:02:47.880092 - Tag received
+
+2025-03-24 18:03:14.535559 - FPGA opened
+2025-03-24 18:03:14.535559 - Key sent
+2025-03-24 18:03:14.543248 - Nonce sent
+2025-03-24 18:03:14.563067 - Associated data sent
+2025-03-24 18:03:16.138941 - Waveform sent
+2025-03-24 18:03:16.162888 - Encryption started
+2025-03-24 18:03:16.212620 - Cipher received
+2025-03-24 18:03:16.228547 - Tag received
+2025-03-24 18:03:16.296098 - Waveform sent
+2025-03-24 18:03:16.309378 - Encryption started
+2025-03-24 18:03:16.359373 - Cipher received
+2025-03-24 18:03:16.374484 - Tag received
+2025-03-24 18:03:16.388130 - Waveform sent
+2025-03-24 18:03:16.407025 - Encryption started
+2025-03-24 18:03:16.457126 - Cipher received
+2025-03-24 18:03:16.472607 - Tag received
+2025-03-24 18:03:16.501497 - Waveform sent
+2025-03-24 18:03:16.520809 - Encryption started
+2025-03-24 18:03:16.571623 - Cipher received
+2025-03-24 18:03:16.588287 - Tag received
+2025-03-24 18:03:16.598350 - Waveform sent
+2025-03-24 18:03:16.620467 - Encryption started
+2025-03-24 18:03:16.669960 - Cipher received
+2025-03-24 18:03:16.685540 - Tag received
+2025-03-24 18:03:16.696531 - Waveform sent
+2025-03-24 18:03:16.717584 - Encryption started
+2025-03-24 18:03:16.767738 - Cipher received
+2025-03-24 18:03:16.783542 - Tag received
+2025-03-24 18:03:16.793065 - Waveform sent
+2025-03-24 18:03:16.816066 - Encryption started
+2025-03-24 18:03:16.865259 - Cipher received
+2025-03-24 18:03:16.882057 - Tag received
+2025-03-24 18:03:16.892631 - Waveform sent
+2025-03-24 18:03:16.914626 - Encryption started
+2025-03-24 18:03:16.964742 - Cipher received
+2025-03-24 18:03:16.981286 - Tag received
+2025-03-24 18:03:16.992625 - Waveform sent
+2025-03-24 18:03:17.012627 - Encryption started
+2025-03-24 18:03:17.066964 - Cipher received
+2025-03-24 18:03:17.084179 - Tag received
+2025-03-24 18:03:17.094826 - Waveform sent
+2025-03-24 18:03:17.115919 - Encryption started
+2025-03-24 18:03:17.166643 - Cipher received
+2025-03-24 18:03:17.182362 - Tag received
+2025-03-24 18:03:17.195530 - Waveform sent
+2025-03-24 18:03:17.215376 - Encryption started
+2025-03-24 18:03:17.265762 - Cipher received
+2025-03-24 18:03:17.280959 - Tag received
+2025-03-24 18:03:17.293609 - Waveform sent
+2025-03-24 18:03:17.314120 - Encryption started
+2025-03-24 18:03:17.364462 - Cipher received
+2025-03-24 18:03:17.380484 - Tag received
+2025-03-24 18:03:17.391483 - Waveform sent
+2025-03-24 18:03:17.412822 - Encryption started
+2025-03-24 18:03:17.463125 - Cipher received
+2025-03-24 18:03:17.479604 - Tag received
+2025-03-24 18:03:17.490244 - Waveform sent
+2025-03-24 18:03:17.512245 - Encryption started
+2025-03-24 18:03:17.561651 - Cipher received
+2025-03-24 18:03:17.577663 - Tag received
+2025-03-24 18:03:17.587190 - Waveform sent
+2025-03-24 18:03:17.609759 - Encryption started
+2025-03-24 18:03:17.660092 - Cipher received
+2025-03-24 18:03:17.675588 - Tag received
+2025-03-24 18:03:17.697302 - Waveform sent
+2025-03-24 18:03:17.724633 - Encryption started
+2025-03-24 18:03:17.774615 - Cipher received
+2025-03-24 18:03:17.789730 - Tag received
+2025-03-24 18:03:17.843648 - Waveform sent
+2025-03-24 18:03:17.870451 - Encryption started
+2025-03-24 18:03:17.919880 - Cipher received
+2025-03-24 18:03:17.935755 - Tag received
+2025-03-24 18:03:17.945546 - Waveform sent
+2025-03-24 18:03:17.968440 - Encryption started
+2025-03-24 18:03:18.019136 - Cipher received
+2025-03-24 18:03:18.034697 - Tag received
+
+2025-03-24 18:06:23.133045 - FPGA opened
+2025-03-24 18:06:23.133045 - Key sent
+2025-03-24 18:06:23.139395 - Nonce sent
+2025-03-24 18:06:23.154200 - Associated data sent
+2025-03-24 18:06:24.710511 - Waveform sent
+2025-03-24 18:06:24.722401 - Encryption started
+2025-03-24 18:06:24.773529 - Cipher received
+2025-03-24 18:06:24.789293 - Tag received
+2025-03-24 18:06:24.848727 - Waveform sent
+2025-03-24 18:06:24.869177 - Encryption started
+2025-03-24 18:06:24.918949 - Cipher received
+2025-03-24 18:06:24.934992 - Tag received
+2025-03-24 18:06:24.953528 - Waveform sent
+2025-03-24 18:06:24.967612 - Encryption started
+2025-03-24 18:06:25.017338 - Cipher received
+2025-03-24 18:06:25.032493 - Tag received
+2025-03-24 18:06:25.065096 - Waveform sent
+2025-03-24 18:06:25.081089 - Encryption started
+2025-03-24 18:06:25.131176 - Cipher received
+2025-03-24 18:06:25.146656 - Tag received
+2025-03-24 18:06:25.168039 - Waveform sent
+2025-03-24 18:06:25.178926 - Encryption started
+2025-03-24 18:06:25.229223 - Cipher received
+2025-03-24 18:06:25.244822 - Tag received
+2025-03-24 18:06:25.260921 - Waveform sent
+2025-03-24 18:06:25.277298 - Encryption started
+2025-03-24 18:06:25.327873 - Cipher received
+2025-03-24 18:06:25.343576 - Tag received
+2025-03-24 18:06:25.360581 - Waveform sent
+2025-03-24 18:06:25.376249 - Encryption started
+2025-03-24 18:06:25.426373 - Cipher received
+2025-03-24 18:06:25.442534 - Tag received
+2025-03-24 18:06:25.459333 - Waveform sent
+2025-03-24 18:06:25.474335 - Encryption started
+2025-03-24 18:06:25.524313 - Cipher received
+2025-03-24 18:06:25.540444 - Tag received
+2025-03-24 18:06:25.557291 - Waveform sent
+2025-03-24 18:06:25.572413 - Encryption started
+2025-03-24 18:06:25.623902 - Cipher received
+2025-03-24 18:06:25.639796 - Tag received
+2025-03-24 18:06:25.654795 - Waveform sent
+2025-03-24 18:06:25.671859 - Encryption started
+2025-03-24 18:06:25.722736 - Cipher received
+2025-03-24 18:06:25.738820 - Tag received
+2025-03-24 18:06:25.755715 - Waveform sent
+2025-03-24 18:06:25.771127 - Encryption started
+2025-03-24 18:06:25.820233 - Cipher received
+2025-03-24 18:06:25.836930 - Tag received
+2025-03-24 18:06:25.853910 - Waveform sent
+2025-03-24 18:06:25.868024 - Encryption started
+2025-03-24 18:06:25.917975 - Cipher received
+2025-03-24 18:06:25.935278 - Tag received
+2025-03-24 18:06:25.949308 - Waveform sent
+2025-03-24 18:06:25.966537 - Encryption started
+2025-03-24 18:06:26.015957 - Cipher received
+2025-03-24 18:06:26.032189 - Tag received
+2025-03-24 18:06:26.048426 - Waveform sent
+2025-03-24 18:06:26.064538 - Encryption started
+2025-03-24 18:06:26.114323 - Cipher received
+2025-03-24 18:06:26.130066 - Tag received
+2025-03-24 18:06:26.147450 - Waveform sent
+2025-03-24 18:06:26.162472 - Encryption started
+2025-03-24 18:06:26.213366 - Cipher received
+2025-03-24 18:06:26.229417 - Tag received
+2025-03-24 18:06:26.246971 - Waveform sent
+2025-03-24 18:06:26.260969 - Encryption started
+2025-03-24 18:06:26.312021 - Cipher received
+2025-03-24 18:06:26.327971 - Tag received
+2025-03-24 18:06:26.345646 - Waveform sent
+2025-03-24 18:06:26.360210 - Encryption started
+2025-03-24 18:06:26.411113 - Cipher received
+2025-03-24 18:06:26.426691 - Tag received
+2025-03-24 18:06:26.445133 - Waveform sent
+2025-03-24 18:06:26.459378 - Encryption started
+2025-03-24 18:06:26.510071 - Cipher received
+2025-03-24 18:06:26.526036 - Tag received
+2025-03-24 18:06:26.546758 - Waveform sent
+2025-03-24 18:06:26.574756 - Encryption started
+2025-03-24 18:06:26.625427 - Cipher received
+2025-03-24 18:06:26.641118 - Tag received
+2025-03-24 18:06:26.656028 - Waveform sent
+2025-03-24 18:06:26.673519 - Encryption started
+2025-03-24 18:06:26.722434 - Cipher received
+2025-03-24 18:06:26.739047 - Tag received
+2025-03-24 18:06:26.751922 - Waveform sent
+2025-03-24 18:06:26.770939 - Encryption started
+2025-03-24 18:06:26.820790 - Cipher received
+2025-03-24 18:06:26.836824 - Tag received
+2025-03-24 18:06:26.849228 - Waveform sent
+2025-03-24 18:06:26.869163 - Encryption started
+2025-03-24 18:06:26.919162 - Cipher received
+2025-03-24 18:06:26.935119 - Tag received
+2025-03-24 18:06:26.947763 - Waveform sent
+2025-03-24 18:06:26.967612 - Encryption started
+2025-03-24 18:06:27.016403 - Cipher received
+2025-03-24 18:06:27.032009 - Tag received
+2025-03-24 18:06:27.066598 - Waveform sent
+2025-03-24 18:06:27.080695 - Encryption started
+2025-03-24 18:06:27.132007 - Cipher received
+2025-03-24 18:06:27.147875 - Tag received
+2025-03-24 18:06:27.215873 - Waveform sent
+2025-03-24 18:06:27.227571 - Encryption started
+2025-03-24 18:06:27.277783 - Cipher received
+2025-03-24 18:06:27.293004 - Tag received
+2025-03-24 18:06:27.308024 - Waveform sent
+2025-03-24 18:06:27.325228 - Encryption started
+2025-03-24 18:06:27.376040 - Cipher received
+2025-03-24 18:06:27.391692 - Tag received
+
+2025-03-24 18:09:00.148881 - FPGA opened
+2025-03-24 18:09:00.148881 - Key sent
+2025-03-24 18:09:00.164046 - Nonce sent
+2025-03-24 18:09:00.175636 - Associated data sent
+2025-03-24 18:09:01.867317 - Waveform sent
+2025-03-24 18:09:01.890848 - Encryption started
+2025-03-24 18:09:01.940692 - Cipher received
+2025-03-24 18:09:01.956279 - Tag received
+2025-03-24 18:09:02.036420 - Waveform sent
+2025-03-24 18:09:02.052329 - Encryption started
+2025-03-24 18:09:02.104016 - Cipher received
+2025-03-24 18:09:02.119277 - Tag received
+2025-03-24 18:09:02.136780 - Waveform sent
+2025-03-24 18:09:02.151879 - Encryption started
+2025-03-24 18:09:02.201405 - Cipher received
+2025-03-24 18:09:02.216538 - Tag received
+2025-03-24 18:09:02.248873 - Waveform sent
+2025-03-24 18:09:02.265720 - Encryption started
+2025-03-24 18:09:02.316358 - Cipher received
+2025-03-24 18:09:02.332200 - Tag received
+2025-03-24 18:09:02.348198 - Waveform sent
+2025-03-24 18:09:02.363979 - Encryption started
+2025-03-24 18:09:02.413962 - Cipher received
+2025-03-24 18:09:02.430401 - Tag received
+2025-03-24 18:09:02.445659 - Waveform sent
+2025-03-24 18:09:02.462675 - Encryption started
+2025-03-24 18:09:02.512653 - Cipher received
+2025-03-24 18:09:02.528005 - Tag received
+2025-03-24 18:09:02.543571 - Waveform sent
+2025-03-24 18:09:02.560007 - Encryption started
+2025-03-24 18:09:02.609615 - Cipher received
+2025-03-24 18:09:02.625854 - Tag received
+2025-03-24 18:09:02.643480 - Waveform sent
+2025-03-24 18:09:02.658697 - Encryption started
+2025-03-24 18:09:02.708627 - Cipher received
+2025-03-24 18:09:02.723915 - Tag received
+2025-03-24 18:09:02.741464 - Waveform sent
+2025-03-24 18:09:02.756481 - Encryption started
+2025-03-24 18:09:02.811000 - Cipher received
+2025-03-24 18:09:02.826838 - Tag received
+2025-03-24 18:09:02.845649 - Waveform sent
+2025-03-24 18:09:02.859671 - Encryption started
+2025-03-24 18:09:02.908808 - Cipher received
+2025-03-24 18:09:02.924982 - Tag received
+2025-03-24 18:09:02.942616 - Waveform sent
+2025-03-24 18:09:02.957120 - Encryption started
+2025-03-24 18:09:03.006612 - Cipher received
+2025-03-24 18:09:03.022625 - Tag received
+2025-03-24 18:09:03.048622 - Waveform sent
+2025-03-24 18:09:03.070213 - Encryption started
+2025-03-24 18:09:03.121026 - Cipher received
+2025-03-24 18:09:03.137190 - Tag received
+2025-03-24 18:09:03.151806 - Waveform sent
+2025-03-24 18:09:03.168930 - Encryption started
+2025-03-24 18:09:03.218815 - Cipher received
+2025-03-24 18:09:03.234548 - Tag received
+2025-03-24 18:09:03.249498 - Waveform sent
+2025-03-24 18:09:03.266502 - Encryption started
+2025-03-24 18:09:03.316776 - Cipher received
+2025-03-24 18:09:03.332739 - Tag received
+2025-03-24 18:09:03.350954 - Waveform sent
+2025-03-24 18:09:03.364956 - Encryption started
+2025-03-24 18:09:03.414179 - Cipher received
+2025-03-24 18:09:03.431249 - Tag received
+2025-03-24 18:09:03.447735 - Waveform sent
+2025-03-24 18:09:03.463030 - Encryption started
+2025-03-24 18:09:03.513808 - Cipher received
+2025-03-24 18:09:03.529507 - Tag received
+2025-03-24 18:09:03.547146 - Waveform sent
+2025-03-24 18:09:03.561188 - Encryption started
+2025-03-24 18:09:03.611670 - Cipher received
+2025-03-24 18:09:03.628327 - Tag received
+2025-03-24 18:09:03.644578 - Waveform sent
+2025-03-24 18:09:03.660728 - Encryption started
+2025-03-24 18:09:03.710285 - Cipher received
+2025-03-24 18:09:03.725826 - Tag received
+2025-03-24 18:09:03.744245 - Waveform sent
+2025-03-24 18:09:03.758248 - Encryption started
+2025-03-24 18:09:03.809780 - Cipher received
+2025-03-24 18:09:03.824742 - Tag received
+2025-03-24 18:09:03.840134 - Waveform sent
+2025-03-24 18:09:03.857290 - Encryption started
+2025-03-24 18:09:03.906946 - Cipher received
+2025-03-24 18:09:03.923051 - Tag received
+2025-03-24 18:09:03.938579 - Waveform sent
+2025-03-24 18:09:03.955606 - Encryption started
+2025-03-24 18:09:04.004731 - Cipher received
+2025-03-24 18:09:04.020907 - Tag received
+2025-03-24 18:09:04.036026 - Waveform sent
+2025-03-24 18:09:04.053502 - Encryption started
+2025-03-24 18:09:04.103513 - Cipher received
+2025-03-24 18:09:04.119381 - Tag received
+2025-03-24 18:09:04.183850 - Waveform sent
+2025-03-24 18:09:04.198668 - Encryption started
+2025-03-24 18:09:04.248526 - Cipher received
+2025-03-24 18:09:04.264619 - Tag received
+2025-03-24 18:09:04.280818 - Waveform sent
+2025-03-24 18:09:04.297332 - Encryption started
+2025-03-24 18:09:04.346677 - Cipher received
+2025-03-24 18:09:04.362571 - Tag received
+
+2025-03-24 18:10:26.985595 - FPGA opened
+2025-03-24 18:10:26.985595 - Key sent
+2025-03-24 18:10:26.995230 - Nonce sent
+2025-03-24 18:10:27.009305 - Associated data sent
+
+2025-03-24 18:10:51.669270 - FPGA opened
+2025-03-24 18:10:51.669270 - Key sent
+2025-03-24 18:10:51.682088 - Nonce sent
+2025-03-24 18:10:51.698995 - Associated data sent
+
+2025-03-24 18:11:24.856427 - FPGA opened
+2025-03-24 18:11:24.856860 - Key sent
+2025-03-24 18:11:24.866596 - Nonce sent
+2025-03-24 18:11:24.884160 - Associated data sent
+
+2025-03-24 18:12:25.404391 - FPGA opened
+2025-03-24 18:12:25.407195 - Key sent
+2025-03-24 18:12:25.412770 - Nonce sent
+2025-03-24 18:12:25.432389 - Associated data sent
+2025-03-24 18:12:26.814133 - Waveform sent
+2025-03-24 18:12:26.839644 - Encryption started
+2025-03-24 18:12:26.890182 - Cipher received
+2025-03-24 18:12:26.906180 - Tag received
+2025-03-24 18:12:26.974657 - Waveform sent
+2025-03-24 18:12:27.002480 - Encryption started
+2025-03-24 18:12:27.052241 - Cipher received
+2025-03-24 18:12:27.068318 - Tag received
+2025-03-24 18:12:27.085515 - Waveform sent
+2025-03-24 18:12:27.100061 - Encryption started
+2025-03-24 18:12:27.149686 - Cipher received
+2025-03-24 18:12:27.165724 - Tag received
+2025-03-24 18:12:27.197631 - Waveform sent
+2025-03-24 18:12:27.213888 - Encryption started
+2025-03-24 18:12:27.263636 - Cipher received
+2025-03-24 18:12:27.279708 - Tag received
+2025-03-24 18:12:27.294239 - Waveform sent
+2025-03-24 18:12:27.312279 - Encryption started
+2025-03-24 18:12:27.361928 - Cipher received
+2025-03-24 18:12:27.378295 - Tag received
+2025-03-24 18:12:27.394564 - Waveform sent
+2025-03-24 18:12:27.409850 - Encryption started
+2025-03-24 18:12:27.459648 - Cipher received
+2025-03-24 18:12:27.476226 - Tag received
+2025-03-24 18:12:27.492226 - Waveform sent
+2025-03-24 18:12:27.508223 - Encryption started
+2025-03-24 18:12:27.558222 - Cipher received
+2025-03-24 18:12:27.573779 - Tag received
+2025-03-24 18:12:27.590138 - Waveform sent
+2025-03-24 18:12:27.605792 - Encryption started
+2025-03-24 18:12:27.657265 - Cipher received
+2025-03-24 18:12:27.672415 - Tag received
+2025-03-24 18:12:27.686864 - Waveform sent
+2025-03-24 18:12:27.705318 - Encryption started
+2025-03-24 18:12:27.755318 - Cipher received
+2025-03-24 18:12:27.771182 - Tag received
+2025-03-24 18:12:27.785468 - Waveform sent
+2025-03-24 18:12:27.803319 - Encryption started
+2025-03-24 18:12:27.852594 - Cipher received
+2025-03-24 18:12:27.868372 - Tag received
+2025-03-24 18:12:27.884811 - Waveform sent
+2025-03-24 18:12:27.900917 - Encryption started
+2025-03-24 18:12:27.950405 - Cipher received
+2025-03-24 18:12:27.966486 - Tag received
+2025-03-24 18:12:27.980749 - Waveform sent
+2025-03-24 18:12:27.999315 - Encryption started
+2025-03-24 18:12:28.048336 - Cipher received
+2025-03-24 18:12:28.064414 - Tag received
+2025-03-24 18:12:28.080332 - Waveform sent
+2025-03-24 18:12:28.096670 - Encryption started
+2025-03-24 18:12:28.146689 - Cipher received
+2025-03-24 18:12:28.162821 - Tag received
+2025-03-24 18:12:28.177783 - Waveform sent
+2025-03-24 18:12:28.194865 - Encryption started
+2025-03-24 18:12:28.244386 - Cipher received
+2025-03-24 18:12:28.260524 - Tag received
+2025-03-24 18:12:28.277412 - Waveform sent
+2025-03-24 18:12:28.292989 - Encryption started
+2025-03-24 18:12:28.342691 - Cipher received
+2025-03-24 18:12:28.358972 - Tag received
+2025-03-24 18:12:28.376401 - Waveform sent
+2025-03-24 18:12:28.391022 - Encryption started
+2025-03-24 18:12:28.441326 - Cipher received
+2025-03-24 18:12:28.457253 - Tag received
+2025-03-24 18:12:28.475391 - Waveform sent
+2025-03-24 18:12:28.489386 - Encryption started
+2025-03-24 18:12:28.539975 - Cipher received
+2025-03-24 18:12:28.554979 - Tag received
+2025-03-24 18:12:28.650768 - Waveform sent
+2025-03-24 18:12:28.667666 - Encryption started
+2025-03-24 18:12:28.718664 - Cipher received
+2025-03-24 18:12:28.734424 - Tag received
+2025-03-24 18:12:28.793670 - Waveform sent
+2025-03-24 18:12:28.814009 - Encryption started
+2025-03-24 18:12:28.863417 - Cipher received
+2025-03-24 18:12:28.880166 - Tag received
+2025-03-24 18:12:28.892367 - Waveform sent
+2025-03-24 18:12:28.911122 - Encryption started
+2025-03-24 18:12:28.962155 - Cipher received
+2025-03-24 18:12:28.977825 - Tag received
+
+2025-03-24 18:12:42.117017 - FPGA opened
+2025-03-24 18:12:42.117017 - Key sent
+2025-03-24 18:12:42.126235 - Nonce sent
+2025-03-24 18:12:42.141163 - Associated data sent
+2025-03-24 18:12:43.720755 - Waveform sent
+2025-03-24 18:12:43.745282 - Encryption started
+2025-03-24 18:12:43.794849 - Cipher received
+2025-03-24 18:12:43.810875 - Tag received
+2025-03-24 18:12:43.884643 - Waveform sent
+2025-03-24 18:12:43.906636 - Encryption started
+2025-03-24 18:12:43.956463 - Cipher received
+2025-03-24 18:12:43.973025 - Tag received
+2025-03-24 18:12:43.990630 - Waveform sent
+2025-03-24 18:12:44.004731 - Encryption started
+2025-03-24 18:12:44.054478 - Cipher received
+2025-03-24 18:12:44.070142 - Tag received
+2025-03-24 18:12:44.101864 - Waveform sent
+2025-03-24 18:12:44.119157 - Encryption started
+2025-03-24 18:12:44.171881 - Cipher received
+2025-03-24 18:12:44.187955 - Tag received
+2025-03-24 18:12:44.203506 - Waveform sent
+2025-03-24 18:12:44.219812 - Encryption started
+2025-03-24 18:12:44.269988 - Cipher received
+2025-03-24 18:12:44.285861 - Tag received
+2025-03-24 18:12:44.299170 - Waveform sent
+2025-03-24 18:12:44.318077 - Encryption started
+2025-03-24 18:12:44.367729 - Cipher received
+2025-03-24 18:12:44.383681 - Tag received
+2025-03-24 18:12:44.397957 - Waveform sent
+2025-03-24 18:12:44.415958 - Encryption started
+2025-03-24 18:12:44.466671 - Cipher received
+2025-03-24 18:12:44.482246 - Tag received
+2025-03-24 18:12:44.495772 - Waveform sent
+2025-03-24 18:12:44.515058 - Encryption started
+2025-03-24 18:12:44.564676 - Cipher received
+2025-03-24 18:12:44.581165 - Tag received
+2025-03-24 18:12:44.595212 - Waveform sent
+2025-03-24 18:12:44.612430 - Encryption started
+2025-03-24 18:12:44.663390 - Cipher received
+2025-03-24 18:12:44.679581 - Tag received
+2025-03-24 18:12:44.695084 - Waveform sent
+2025-03-24 18:12:44.712190 - Encryption started
+2025-03-24 18:12:44.762142 - Cipher received
+2025-03-24 18:12:44.778407 - Tag received
+2025-03-24 18:12:44.797038 - Waveform sent
+2025-03-24 18:12:44.811052 - Encryption started
+2025-03-24 18:12:44.860854 - Cipher received
+2025-03-24 18:12:44.876141 - Tag received
+2025-03-24 18:12:44.892847 - Waveform sent
+2025-03-24 18:12:44.908831 - Encryption started
+2025-03-24 18:12:44.957922 - Cipher received
+2025-03-24 18:12:44.974264 - Tag received
+2025-03-24 18:12:44.986792 - Waveform sent
+2025-03-24 18:12:45.007190 - Encryption started
+2025-03-24 18:12:45.055999 - Cipher received
+2025-03-24 18:12:45.071999 - Tag received
+2025-03-24 18:12:45.086001 - Waveform sent
+2025-03-24 18:12:45.104574 - Encryption started
+2025-03-24 18:12:45.153999 - Cipher received
+2025-03-24 18:12:45.169732 - Tag received
+2025-03-24 18:12:45.186378 - Waveform sent
+2025-03-24 18:12:45.202385 - Encryption started
+2025-03-24 18:12:45.252108 - Cipher received
+2025-03-24 18:12:45.268094 - Tag received
+2025-03-24 18:12:45.283640 - Waveform sent
+2025-03-24 18:12:45.299985 - Encryption started
+2025-03-24 18:12:45.349722 - Cipher received
+2025-03-24 18:12:45.366771 - Tag received
+2025-03-24 18:12:45.381655 - Waveform sent
+2025-03-24 18:12:45.398027 - Encryption started
+2025-03-24 18:12:45.448474 - Cipher received
+2025-03-24 18:12:45.464526 - Tag received
+2025-03-24 18:12:45.480294 - Waveform sent
+2025-03-24 18:12:45.496297 - Encryption started
+2025-03-24 18:12:45.546521 - Cipher received
+2025-03-24 18:12:45.562541 - Tag received
+2025-03-24 18:12:45.577723 - Waveform sent
+2025-03-24 18:12:45.594654 - Encryption started
+2025-03-24 18:12:45.646448 - Cipher received
+2025-03-24 18:12:45.661096 - Tag received
+2025-03-24 18:12:45.675233 - Waveform sent
+2025-03-24 18:12:45.693796 - Encryption started
+2025-03-24 18:12:45.743576 - Cipher received
+2025-03-24 18:12:45.759407 - Tag received
+2025-03-24 18:12:45.809415 - Waveform sent
+2025-03-24 18:12:45.823417 - Encryption started
+2025-03-24 18:12:45.873252 - Cipher received
+2025-03-24 18:12:45.889774 - Tag received
+2025-03-24 18:12:45.899455 - Waveform sent
+2025-03-24 18:12:45.921626 - Encryption started
+2025-03-24 18:12:45.971118 - Cipher received
+2025-03-24 18:12:45.987776 - Tag received
+
+2025-03-24 18:14:17.092920 - FPGA opened
+2025-03-24 18:14:17.092920 - Key sent
+2025-03-24 18:14:17.107281 - Nonce sent
+2025-03-24 18:14:17.123963 - Associated data sent
+2025-03-24 18:14:18.754924 - Waveform sent
+2025-03-24 18:14:18.770930 - Encryption started
+2025-03-24 18:14:18.821460 - Cipher received
+2025-03-24 18:14:18.837029 - Tag received
+2025-03-24 18:14:20.712430 - Waveform sent
+2025-03-24 18:14:20.723950 - Encryption started
+2025-03-24 18:14:20.773943 - Cipher received
+2025-03-24 18:14:20.789950 - Tag received
+2025-03-24 18:14:22.259986 - Waveform sent
+2025-03-24 18:14:22.276405 - Encryption started
+2025-03-24 18:14:22.327170 - Cipher received
+2025-03-24 18:14:22.342948 - Tag received
+2025-03-24 18:14:23.949087 - Waveform sent
+2025-03-24 18:14:23.974090 - Encryption started
+2025-03-24 18:14:24.023984 - Cipher received
+2025-03-24 18:14:24.039661 - Tag received
+2025-03-24 18:14:25.598007 - Waveform sent
+2025-03-24 18:14:25.623327 - Encryption started
+2025-03-24 18:14:25.672263 - Cipher received
+2025-03-24 18:14:25.688491 - Tag received
+2025-03-24 18:14:27.216603 - Waveform sent
+2025-03-24 18:14:27.239602 - Encryption started
+2025-03-24 18:14:27.289513 - Cipher received
+2025-03-24 18:14:27.305063 - Tag received
+2025-03-24 18:14:28.846240 - Waveform sent
+2025-03-24 18:14:28.872295 - Encryption started
+2025-03-24 18:14:28.923315 - Cipher received
+2025-03-24 18:14:28.939302 - Tag received
+2025-03-24 18:14:30.515429 - Waveform sent
+2025-03-24 18:14:30.538447 - Encryption started
+2025-03-24 18:14:30.588246 - Cipher received
+2025-03-24 18:14:30.603908 - Tag received
+2025-03-24 18:14:32.086104 - Waveform sent
+2025-03-24 18:14:32.106811 - Encryption started
+2025-03-24 18:14:32.158247 - Cipher received
+2025-03-24 18:14:32.173760 - Tag received
+2025-03-24 18:14:33.746302 - Waveform sent
+2025-03-24 18:14:33.772505 - Encryption started
+2025-03-24 18:14:33.823614 - Cipher received
+2025-03-24 18:14:33.840055 - Tag received
+2025-03-24 18:14:35.473935 - Waveform sent
+2025-03-24 18:14:35.486622 - Encryption started
+2025-03-24 18:14:35.537199 - Cipher received
+2025-03-24 18:14:35.553997 - Tag received
+2025-03-24 18:14:37.159029 - Waveform sent
+2025-03-24 18:14:37.184781 - Encryption started
+2025-03-24 18:14:37.234247 - Cipher received
+2025-03-24 18:14:37.250567 - Tag received
+2025-03-24 18:14:38.949285 - Waveform sent
+2025-03-24 18:14:38.961402 - Encryption started
+2025-03-24 18:14:39.012222 - Cipher received
+2025-03-24 18:14:39.028057 - Tag received
+2025-03-24 18:14:40.768382 - Waveform sent
+2025-03-24 18:14:40.787126 - Encryption started
+2025-03-24 18:14:40.837535 - Cipher received
+2025-03-24 18:14:40.853698 - Tag received
+2025-03-24 18:14:42.457035 - Waveform sent
+2025-03-24 18:14:42.469120 - Encryption started
+2025-03-24 18:14:42.518785 - Cipher received
+2025-03-24 18:14:42.534931 - Tag received
+2025-03-24 18:14:44.124095 - Waveform sent
+2025-03-24 18:14:44.149843 - Encryption started
+2025-03-24 18:14:44.200750 - Cipher received
+2025-03-24 18:14:44.216235 - Tag received
+2025-03-24 18:14:45.864958 - Waveform sent
+2025-03-24 18:14:45.879871 - Encryption started
+2025-03-24 18:14:45.930123 - Cipher received
+2025-03-24 18:14:45.945033 - Tag received
+2025-03-24 18:14:47.698864 - Waveform sent
+2025-03-24 18:14:47.720149 - Encryption started
+2025-03-24 18:14:47.770059 - Cipher received
+2025-03-24 18:14:47.786203 - Tag received
+2025-03-24 18:14:49.976144 - Waveform sent
+2025-03-24 18:14:49.992451 - Encryption started
+2025-03-24 18:14:50.042261 - Cipher received
+2025-03-24 18:14:50.058779 - Tag received
+2025-03-24 18:14:52.342833 - Waveform sent
+2025-03-24 18:14:52.361319 - Encryption started
+2025-03-24 18:14:52.412477 - Cipher received
+2025-03-24 18:14:52.428269 - Tag received
+2025-03-24 18:14:54.745551 - Waveform sent
+2025-03-24 18:14:54.762325 - Encryption started
+2025-03-24 18:14:54.811888 - Cipher received
+2025-03-24 18:14:54.828434 - Tag received
+2025-03-24 18:14:57.165910 - Waveform sent
+2025-03-24 18:14:57.179183 - Encryption started
+2025-03-24 18:14:57.228783 - Cipher received
+2025-03-24 18:14:57.244641 - Tag received
+2025-03-24 18:14:59.518288 - Waveform sent
+2025-03-24 18:14:59.531101 - Encryption started
+2025-03-24 18:14:59.582168 - Cipher received
+2025-03-24 18:14:59.598221 - Tag received
+2025-03-24 18:15:02.128899 - Waveform sent
+2025-03-24 18:15:02.140466 - Encryption started
+2025-03-24 18:15:02.190845 - Cipher received
+2025-03-24 18:15:02.206863 - Tag received
