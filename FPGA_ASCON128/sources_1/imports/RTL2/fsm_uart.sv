@@ -21,6 +21,7 @@ module fsm_uart
     output logic          Load_o          //load signal for byte transmission
 );
 
+
   //internal signals for key_reg
   logic [7:0] key_reg_s;
   logic init_key_s;
@@ -104,12 +105,14 @@ module fsm_uart
     wait_end_ascon,
 
     //send the cipher result all the cipher wave
+    init_cipher_dcounter,
     start_cipher_byte,
     send_cipher_byte, // on boucle sur ces etats pour envoyer le cipher
     //startlf
     //sendlf
     
     //send the tag
+    init_tag_dcounter,
     start_tag_byte,
     send_tag_byte, // on boucle sur ces etats pour envoyer le tag
     //startlf
@@ -125,6 +128,10 @@ module fsm_uart
 
   state_t etat_p;
   state_t etat_f;
+
+
+
+  
 
   key_reg key_reg_0 (
       .clock_i(clock_i),
@@ -243,11 +250,11 @@ module fsm_uart
           8'h47:   etat_f = start_ascon;  //G
           8'h67:   etat_f = start_ascon;  //g
 
-          8'h43:   etat_f = start_cipher_byte;  //C
-          8'h63:   etat_f = start_cipher_byte;  //c
+          8'h43:   etat_f = init_cipher_dcounter;  //C
+          8'h63:   etat_f = init_cipher_dcounter;  //c
 
-          8'h54:   etat_f = start_tag_byte;  //T
-          8'h74:   etat_f = start_tag_byte;  //t
+          8'h54:   etat_f = init_tag_dcounter;  //T
+          8'h74:   etat_f = init_tag_dcounter; //start_tag_byte;  //t
 
           default: etat_f = idle_cmd;
         endcase
@@ -374,15 +381,17 @@ module fsm_uart
         etat_f = wait_end_ascon;
       end
 
-      //read cipher
+      //send cipher
+      init_cipher_dcounter: etat_f = start_cipher_byte;
+
       // start_cipher_byte
       start_cipher_byte: etat_f = send_cipher_byte;
 
       // send_cipher_byte
       send_cipher_byte:
       if (TxBusy_i == 1'b0) begin
-        if (cpt_s == 9'h1) begin
-          etat_f = startlf;
+        if (cpt_s == 9'h0) begin
+          etat_f = starto;
         end else begin
           etat_f = start_cipher_byte;
         end
@@ -391,14 +400,15 @@ module fsm_uart
       end
 
       //read tag
+      init_tag_dcounter: etat_f = start_tag_byte;
       // start_tag_byte
       start_tag_byte: etat_f = send_tag_byte;
 
       // send_tag_byte
       send_tag_byte:
       if (TxBusy_i == 1'b0) begin
-        if (cpt_s == 9'h1) begin
-          etat_f = startlf;
+        if (cpt_s == 9'h0) begin
+          etat_f = starto;
         end else begin
           etat_f = start_tag_byte;
         end
@@ -1262,7 +1272,7 @@ module fsm_uart
 
       wait_end_ascon: begin
         TxByte_o      = '0;
-        Start_ascon_o = 1'b0;
+        Start_ascon_o = 1'b1; //
         Load_o        = 1'b0;
         key_reg_s     = '0;
         init_key_s    = 1'b0;
@@ -1289,11 +1299,11 @@ module fsm_uart
         en_trans_s    = 1'b0;
       end
 
-      //send cipher
-      start_cipher_byte: begin
-        TxByte_o      = cipher_reg_o_s;//8'h43;  //
+      
+      init_cipher_dcounter: begin
+        TxByte_o      = '0;
         Start_ascon_o = 1'b0;
-        Load_o        = 1'b1;  //
+        Load_o        = 1'b0;
         key_reg_s     = '0;
         init_key_s    = 1'b0;
         en_key_s      = 1'b0;
@@ -1306,11 +1316,11 @@ module fsm_uart
         wave_reg_s    = '0;
         init_wave_s   = 1'b0;
         en_wave_s     = 1'b0;
-        init_cipher_s = 1'b0;
-        en_cipher_s   = 1'b0;
+        init_cipher_s = 1'b1; // permet de memoriser le cipher en sortie d'ascon dans le registre d'envoi par 8 bits
+        en_cipher_s   = 1'b1; //
         init_tag_s    = 1'b0;
         en_tag_s      = 1'b0;
-        en_cpt_s      = 1'b0;
+        en_cpt_s      = 1'b1; //
         init_c16_s    = 1'b0;
         init_c17_s    = 1'b0;
         init_c32_s    = 1'b0;
@@ -1320,10 +1330,11 @@ module fsm_uart
       end
 
 
-      send_cipher_byte: begin
-        TxByte_o      = '0;
+      //send cipher
+      start_cipher_byte: begin
+        TxByte_o      = cipher_reg_o_s;//8'h43;  //
         Start_ascon_o = 1'b0;
-        Load_o        = 1'b0;
+        Load_o        = 1'b1;  //
         key_reg_s     = '0;
         init_key_s    = 1'b0;
         en_key_s      = 1'b0;
@@ -1350,11 +1361,10 @@ module fsm_uart
       end
 
 
-      //send tag
-      start_tag_byte: begin
-        TxByte_o      = tag_reg_o_s;//8'h42;  //
+      send_cipher_byte: begin
+        TxByte_o      = '0;
         Start_ascon_o = 1'b0;
-        Load_o        = 1'b1;  //
+        Load_o        = 1'b0;
         key_reg_s     = '0;
         init_key_s    = 1'b0;
         en_key_s      = 1'b0;
@@ -1376,7 +1386,67 @@ module fsm_uart
         init_c17_s    = 1'b0;
         init_c32_s    = 1'b0;
         init_c184_s   = 1'b0;
-        init_c366_s   = 1'b1; //
+        init_c366_s   = 1'b0;
+        en_trans_s    = 1'b0;
+      end
+
+
+      init_tag_dcounter: begin
+        TxByte_o      = '0;
+        Start_ascon_o = 1'b0;
+        Load_o        = 1'b0;
+        key_reg_s     = '0;
+        init_key_s    = 1'b0;
+        en_key_s      = 1'b0;
+        nonce_reg_s   = '0;
+        init_nonce_s  = 1'b0;
+        en_nonce_s    = 1'b0;
+        ad_reg_s      = '0;
+        init_ad_s     = 1'b0;
+        en_ad_s       = 1'b0;
+        wave_reg_s    = '0;
+        init_wave_s   = 1'b0;
+        en_wave_s     = 1'b0;
+        init_cipher_s = 1'b0;
+        en_cipher_s   = 1'b0;
+        init_tag_s    = 1'b1; //
+        en_tag_s      = 1'b1; //
+        en_cpt_s      = 1'b1; //
+        init_c16_s    = 1'b0;
+        init_c17_s    = 1'b0;
+        init_c32_s    = 1'b1; //
+        init_c184_s   = 1'b0;
+        init_c366_s   = 1'b0;
+        en_trans_s    = 1'b0;
+      end
+
+      //send tag
+      start_tag_byte: begin
+        TxByte_o      = tag_reg_o_s;//8'h42;  //
+        Start_ascon_o = 1'b0;
+        Load_o        = 1'b1;  //
+        key_reg_s     = '0;
+        init_key_s    = 1'b0;
+        en_key_s      = 1'b0;
+        nonce_reg_s   = '0;
+        init_nonce_s  = 1'b0;
+        en_nonce_s    = 1'b0;
+        ad_reg_s      = '0;
+        init_ad_s     = 1'b0;
+        en_ad_s       = 1'b0;
+        wave_reg_s    = '0;
+        init_wave_s   = 1'b0;
+        en_wave_s     = 1'b0;
+        init_cipher_s = 1'b0;
+        en_cipher_s   = 1'b0;
+        init_tag_s    = 1'b0;
+        en_tag_s      = 1'b1; //
+        en_cpt_s      = 1'b1; //
+        init_c16_s    = 1'b0;
+        init_c17_s    = 1'b0;
+        init_c32_s    = 1'b0;
+        init_c184_s   = 1'b0;
+        init_c366_s   = 1'b0;
         en_trans_s    = 1'b0;
       end
 
@@ -1399,8 +1469,8 @@ module fsm_uart
         init_cipher_s = 1'b0;
         en_cipher_s   = 1'b0;
         init_tag_s    = 1'b0;
-        en_tag_s      = 1'b1; //
-        en_cpt_s      = 1'b1; //
+        en_tag_s      = 1'b0;
+        en_cpt_s      = 1'b0;
         init_c16_s    = 1'b0;
         init_c17_s    = 1'b0;
         init_c32_s    = 1'b0;

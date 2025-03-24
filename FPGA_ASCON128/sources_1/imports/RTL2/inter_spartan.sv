@@ -4,14 +4,16 @@ module inter_spartan
   import uart_pkg::*;
 (
     input  logic       clock_i,  //main clock
-    input  logic       reset_i,  //asynchronous reset active low
+    input  logic       reset_i,  //asynchronous reset active high
     input  logic       Rx_i,     //RX to RS232
-    input  logic [2:0] Baud_i,   //baud selection
+    //input  logic [2:0] Baud_i,   //baud selection
     output logic       Tx_o,     //Tx to RS 232
     output logic [2:0] Baud_o,
     output logic       RTS_o
 );
-
+  logic [2:0] Baud_i;
+  assign Baud_i = 3'b000; // baudrate a 115200 bauds
+  
   logic RXErr_s;
   logic RXRdy_s;
   logic TxBusy_s;
@@ -47,7 +49,7 @@ module inter_spartan
   logic end_tag_s;
   logic end_initialisation_s;
   logic end_cipher_s;
-
+  logic en_reg_ascon_for_cipher_s;
   
 
 
@@ -64,8 +66,30 @@ module inter_spartan
   // logic [1471:0] wave_s;  //1472
   // //logic [0:22][63:0] wave_o_s;  //1472+64 packed
 
+    
 
-  assign clock_s = clock_i;
+  //debug
+//  ila_0 your_instance_name (
+//    .clk(clock_i), // input wire clk
+
+//    .probe0(wave_to_send_s)
+//  );
+
+
+
+
+  
+  clk_wiz_0 clock_125MHz_to_50MHz
+  (
+    // Clock out ports
+    .clk_out1(clock_s),     // output clk_out1: 50MHz
+    // Status and control signals
+    .reset(reset_i), // input reset
+   // Clock in ports
+    .clk_in1(clock_i)      // input clk_in1: 125MHz
+  );
+
+//  assign clock_s = clock_i;
  
 
   uart_core uart_core_0 (
@@ -109,7 +133,7 @@ module inter_spartan
   (
       // inputs
       .clock_i(clock_s),
-      .reset_i(resetb_s),
+      .reset_i(reset_i),
       .start_i(start_ascon_s),
       .data_i(wave_received_s), // entree de la wave de 1472 bits (getion interne a la fsm du decoupage en paquets de 64 bits)
       .associate_data_i(ad_s),
@@ -124,7 +148,8 @@ module inter_spartan
       .associate_data_o(associate_data_s),
       .finalisation_o(finalisation_s),
       .data_o(data_s),
-      .data_valid_o(data_valid_s)
+      .data_valid_o(data_valid_s),
+      .en_reg_ascon_for_cipher_o(en_reg_ascon_for_cipher_s)
   );
 
   // instance ASCON
@@ -132,7 +157,7 @@ module inter_spartan
   (
       // inputs
       .clock_i(clock_s),
-      .reset_i(resetb_s),
+      .reset_i(reset_i),
       .init_i(init_s),
       .associate_data_i(associate_data_s),
       .finalisation_i(finalisation_s),
@@ -151,35 +176,9 @@ module inter_spartan
   );
 
 
- 
-  //wave_s concatenate ad and wave received
-  // assign wave_s[0]  = ad_s;
-  // assign wave_s[1]  = wave_received_s[1471:1408];
-  // assign wave_s[2]  = wave_received_s[1407:1344];
-  // assign wave_s[3]  = wave_received_s[1343:1280];
-  // assign wave_s[4]  = wave_received_s[1279:1216];
-  // assign wave_s[5]  = wave_received_s[1215:1152];
-  // assign wave_s[6]  = wave_received_s[1151:1088];
-  // assign wave_s[7]  = wave_received_s[1087:1024];
-  // assign wave_s[8]  = wave_received_s[1023:960];
-  // assign wave_s[9]  = wave_received_s[959:896];
-  // assign wave_s[10] = wave_received_s[895:832];
-  // assign wave_s[11] = wave_received_s[831:768];
-  // assign wave_s[12] = wave_received_s[767:704];
-  // assign wave_s[13] = wave_received_s[703:640];
-  // assign wave_s[14] = wave_received_s[639:576];
-  // assign wave_s[15] = wave_received_s[575:512];
-  // assign wave_s[16] = wave_received_s[511:448];
-  // assign wave_s[17] = wave_received_s[447:384];
-  // assign wave_s[18] = wave_received_s[383:320];
-  // assign wave_s[19] = wave_received_s[319:256];
-  // assign wave_s[20] = wave_received_s[255:192];
-  // assign wave_s[21] = wave_received_s[191:128];
-  // assign wave_s[22] = wave_received_s[127:64];
-  // assign wave_s[23] = wave_received_s[63:0];
 
   
-assign en_reg_ascon_s = cipher_valid_s;
+assign en_reg_ascon_s = en_reg_ascon_for_cipher_s | init_s;
 //register to store cipher result 8 bytes
 ascon_reg u_ascon_reg (
     .clock_i (clock_s),
@@ -188,7 +187,7 @@ ascon_reg u_ascon_reg (
     //asynchronous reset active low
     .data_i  (cipher_s),
     .en_i    (en_reg_ascon_s),
-    .init_i  (init_s), // ??????????????????????????????????????????????????????????
+    .init_i  (init_s),
     //wave register storing 8 bytes by the right hand side. (23*64bits)
     .wave_o  (wave_to_send_s)   //wave_o_s
 );

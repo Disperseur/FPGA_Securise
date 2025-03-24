@@ -10,10 +10,10 @@ set_property -dict {PACKAGE_PIN N16 IOSTANDARD LVCMOS33} [get_ports {Baud_o[2]}]
 # ----------------------------------------------------------------------------
 # User PUSH Switches - Bank 35
 # ---------------------------------------------------------------------------- 
-set_property -dict {PACKAGE_PIN D19 IOSTANDARD LVCMOS33} [get_ports {Baud_i[0]}];  # "SW0"
-set_property -dict {PACKAGE_PIN D20 IOSTANDARD LVCMOS33} [get_ports {Baud_i[1]}];  # "SW1"
-# set_property -dict {PACKAGE_PIN L20 IOSTANDARD LVCMOS33} [get_ports {Baud_i[2]}];  # "SW2"
-set_property -dict { PACKAGE_PIN M20   IOSTANDARD LVCMOS33 } [get_ports { Baud_i[2] }]; #IO_L7N_T1_AD2N_35 Sch=sw[0]
+#set_property -dict {PACKAGE_PIN D19 IOSTANDARD LVCMOS33} [get_ports {Baud_i[0]}];  # "SW0"
+#set_property -dict {PACKAGE_PIN D20 IOSTANDARD LVCMOS33} [get_ports {Baud_i[1]}];  # "SW1"
+## set_property -dict {PACKAGE_PIN L20 IOSTANDARD LVCMOS33} [get_ports {Baud_i[2]}];  # "SW2"
+#set_property -dict { PACKAGE_PIN M20   IOSTANDARD LVCMOS33 } [get_ports { Baud_i[2] }]; #IO_L7N_T1_AD2N_35 Sch=sw[0]
 #resetb_i
 set_property -dict {PACKAGE_PIN L19 IOSTANDARD LVCMOS33} [get_ports {reset_i}]
 

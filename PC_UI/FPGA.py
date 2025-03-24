@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 
 
 FPGA_ACK = b'OK\n'
-GO =    bytes.fromhex('48')
-TAG =   bytes.fromhex('55')
-CIPHER =bytes.fromhex('44')
+GO =    bytes.fromhex('47')
+CIPHER =bytes.fromhex('43')
+TAG =   bytes.fromhex('54')
 
 class FPGA:
     def __init__(self, port, baudrate):
