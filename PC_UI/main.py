@@ -12,7 +12,7 @@ NONCE   = bytes.fromhex("4ED0EC0B98C529B7C8CDDF37BCD0284A")
 DA      = b"A to B"
 
 # Variable globale pour choisir le nombre d'ECGs affichés
-NUM_ECGS_DISPLAYED = 10
+NUM_ECGS_DISPLAYED = 5
 # Variable globale pour choisir le nombre d'ECGs utilisés pour le calcul du BPM
 NUM_ECGS_FOR_BPM = 10
 
@@ -23,8 +23,8 @@ class PlotWindow(QMainWindow):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle('ECG analyser')
-        self.setGeometry(0, 0, 1500, 400)
+        self.setWindowTitle('Waveform Plotter')
+        self.setGeometry(100, 100, 800, 600)
         
         self.main_widget = QWidget(self)
         self.setCentralWidget(self.main_widget)
@@ -38,6 +38,7 @@ class PlotWindow(QMainWindow):
         self.plot_widget.showGrid(x=True, y=True)
         
         self.curve_decrypted = self.plot_widget.plot(pen='g', name='Decrypted')
+        self.curve_filtered = self.plot_widget.plot(pen='b', name='Filtered')
         self.curve_peaks = self.plot_widget.plot(pen=None, symbol='o', symbolBrush='r', name='R-peaks')
         
         self.ptr_wave = 0
@@ -46,12 +47,13 @@ class PlotWindow(QMainWindow):
         
         # File circulaire assez grande pour NUM_ECGS_DISPLAYED ECGs
         self.decrypted_data = deque(maxlen=max(NUM_ECGS_DISPLAYED, NUM_ECGS_FOR_BPM) * 2000)
+        self.filtered_data = []
         self.peaks_x = []
         self.peaks_y = []
         
         self.timer = QtCore.QTimer()
         self.timer.timeout.connect(self.update_plot)
-        self.timer.start(1)  # Affichage fluide
+        self.timer.start(10)  # Affichage fluide
 
         # Timer BPM
         self.bpm_timer = QtCore.QTimer()
@@ -79,6 +81,7 @@ class PlotWindow(QMainWindow):
             # Mise à jour graphique
             self.curve_decrypted.setData(list(self.decrypted_data))
             self.curve_peaks.setData(self.peaks_x, self.peaks_y)
+            self.curve_filtered.setData(self.filtered_data)
 
             # Afficher NUM_ECGS_DISPLAYED ECGs
             wave_length = len(self.current_wave_decrypted)
@@ -87,21 +90,27 @@ class PlotWindow(QMainWindow):
             self.plot_widget.setXRange(start, end)
 
     def detect_peaks_and_bpm(self):
-        MIN_LENGTH = 1000
+        MIN_LENGTH = 5000  # Minimum pour éviter les erreurs avec le filtre
         if len(self.decrypted_data) < MIN_LENGTH:
+            self.setWindowTitle('Waveform Plotter - BPM: --')
             return
 
         ecg_signal = np.array(self.decrypted_data)[-NUM_ECGS_FOR_BPM * 2000:]  # Plus de données pour BPM
         try:
-            _, rpeaks = nk.ecg_peaks(ecg_signal, sampling_rate=1000)
+            # Application du filtre ECG spécifique de NeuroKit2
+            filtered_ecg = nk.ecg_clean(ecg_signal, sampling_rate=1000, method="neurokit")
+            self.filtered_data = filtered_ecg.tolist()
+            
+            _, rpeaks = nk.ecg_peaks(filtered_ecg, sampling_rate=1000)
             peaks = rpeaks['ECG_R_Peaks']
 
             if len(peaks) < 2:
                 self.setWindowTitle('Waveform Plotter - BPM: --')
                 return
 
-            self.peaks_x = peaks.tolist()
-            self.peaks_y = ecg_signal[peaks].tolist()
+            offset = len(self.decrypted_data) - len(filtered_ecg)
+            self.peaks_x = (peaks + offset).tolist()
+            self.peaks_y = filtered_ecg[peaks].tolist()
 
             bpm = nk.ecg_rate(peaks, sampling_rate=1000)
             avg_bpm = np.mean(bpm)
