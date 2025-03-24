@@ -13,10 +13,12 @@ fpga.open_instrument()
 fpga.send_key(KEY)
 fpga.send_nonce(NONCE)
 fpga.send_associated_data(DA)
+
 fpga.send_waveform(WAVE)
 fpga.start_encryption()
 cipher = fpga.get_cipher()
 tag = fpga.get_tag()
+
 fpga.close_instrument()
 
 plain = fpga.decrypt_waveform_python(cipher[:-3]+tag, KEY[1:], NONCE[1:], DA[1:-2])

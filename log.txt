@@ -8,3 +8,1181 @@
 2025-03-24 17:08:18.021073 - Cipher received
 2025-03-24 17:08:18.038622 - Tag received
 2025-03-24 17:08:18.159152 - FPGA closed
+
+2025-03-24 17:21:53.618172 - FPGA opened
+2025-03-24 17:21:53.618172 - Key sent
+2025-03-24 17:21:53.636815 - Nonce sent
+2025-03-24 17:21:53.644758 - Associated data sent
+2025-03-24 17:21:55.228035 - Waveform sent
+2025-03-24 17:21:55.263753 - Error: FPGA not ready
+2025-03-24 17:21:55.263753 - Error: Could not read the FPGA
+2025-03-24 17:21:55.326204 - Waveform sent
+2025-03-24 17:21:55.326204 - Error: FPGA not ready
+2025-03-24 17:21:55.326204 - Error: Could not read the FPGA
+2025-03-24 17:21:55.357720 - Waveform sent
+2025-03-24 17:21:55.358766 - Error: FPGA not ready
+2025-03-24 17:21:55.358766 - Error: Could not read the FPGA
+2025-03-24 17:21:55.403343 - Waveform sent
+2025-03-24 17:21:55.403343 - Error: FPGA not ready
+2025-03-24 17:21:55.403343 - Error: Could not read the FPGA
+2025-03-24 17:21:55.433903 - Waveform sent
+2025-03-24 17:21:55.434914 - Error: FPGA not ready
+2025-03-24 17:21:55.434914 - Error: Could not read the FPGA
+2025-03-24 17:21:55.465066 - Waveform sent
+2025-03-24 17:21:55.466062 - Error: FPGA not ready
+2025-03-24 17:21:55.466062 - Error: Could not read the FPGA
+2025-03-24 17:21:55.496800 - Waveform sent
+2025-03-24 17:21:55.496800 - Error: FPGA not ready
+2025-03-24 17:21:55.496800 - Error: Could not read the FPGA
+2025-03-24 17:21:55.528764 - Waveform sent
+2025-03-24 17:21:55.528764 - Error: FPGA not ready
+2025-03-24 17:21:55.528764 - Error: Could not read the FPGA
+2025-03-24 17:21:55.560128 - Waveform sent
+2025-03-24 17:21:55.560128 - Error: FPGA not ready
+2025-03-24 17:21:55.560128 - Error: Could not read the FPGA
+2025-03-24 17:21:55.591500 - Waveform sent
+2025-03-24 17:21:55.591500 - Error: FPGA not ready
+2025-03-24 17:21:55.591500 - Error: Could not read the FPGA
+2025-03-24 17:21:55.622516 - Waveform sent
+2025-03-24 17:21:55.622516 - Error: FPGA not ready
+2025-03-24 17:21:55.622516 - Error: Could not read the FPGA
+2025-03-24 17:21:55.654168 - Waveform sent
+2025-03-24 17:21:55.654168 - Error: FPGA not ready
+2025-03-24 17:21:55.654168 - Error: Could not read the FPGA
+2025-03-24 17:21:55.685673 - Waveform sent
+2025-03-24 17:21:55.685673 - Error: FPGA not ready
+2025-03-24 17:21:55.685673 - Error: Could not read the FPGA
+2025-03-24 17:21:55.716668 - Waveform sent
+2025-03-24 17:21:55.716668 - Error: FPGA not ready
+2025-03-24 17:21:55.716668 - Error: Could not read the FPGA
+2025-03-24 17:21:55.748204 - Waveform sent
+2025-03-24 17:21:55.748204 - Error: FPGA not ready
+2025-03-24 17:21:55.748204 - Error: Could not read the FPGA
+2025-03-24 17:21:55.779731 - Waveform sent
+2025-03-24 17:21:55.779731 - Error: FPGA not ready
+2025-03-24 17:21:55.779731 - Error: Could not read the FPGA
+2025-03-24 17:21:55.810910 - Waveform sent
+2025-03-24 17:21:55.810910 - Error: FPGA not ready
+2025-03-24 17:21:55.810910 - Error: Could not read the FPGA
+2025-03-24 17:21:55.842731 - Waveform sent
+2025-03-24 17:21:55.842731 - Error: FPGA not ready
+2025-03-24 17:21:55.842731 - Error: Could not read the FPGA
+2025-03-24 17:21:55.874157 - Waveform sent
+2025-03-24 17:21:55.874157 - Error: FPGA not ready
+2025-03-24 17:21:55.874157 - Error: Could not read the FPGA
+2025-03-24 17:21:55.904932 - Waveform sent
+2025-03-24 17:21:55.904932 - Error: FPGA not ready
+2025-03-24 17:21:55.905922 - Error: Could not read the FPGA
+2025-03-24 17:21:55.936824 - Waveform sent
+2025-03-24 17:21:55.936824 - Error: FPGA not ready
+2025-03-24 17:21:55.936824 - Error: Could not read the FPGA
+2025-03-24 17:21:55.968299 - Waveform sent
+2025-03-24 17:21:55.968299 - Error: FPGA not ready
+2025-03-24 17:21:55.968299 - Error: Could not read the FPGA
+2025-03-24 17:21:55.998859 - Waveform sent
+2025-03-24 17:21:55.999861 - Error: FPGA not ready
+2025-03-24 17:21:55.999861 - Error: Could not read the FPGA
+2025-03-24 17:21:56.030859 - Waveform sent
+2025-03-24 17:21:56.030859 - Error: FPGA not ready
+2025-03-24 17:21:56.030859 - Error: Could not read the FPGA
+2025-03-24 17:21:56.062439 - Waveform sent
+2025-03-24 17:21:56.062439 - Error: FPGA not ready
+2025-03-24 17:21:56.062439 - Error: Could not read the FPGA
+2025-03-24 17:21:56.093313 - Waveform sent
+2025-03-24 17:21:56.093313 - Error: FPGA not ready
+2025-03-24 17:21:56.093313 - Error: Could not read the FPGA
+2025-03-24 17:21:56.124470 - Waveform sent
+2025-03-24 17:21:56.124470 - Error: FPGA not ready
+2025-03-24 17:21:56.124470 - Error: Could not read the FPGA
+2025-03-24 17:21:56.156001 - Waveform sent
+2025-03-24 17:21:56.157000 - Error: FPGA not ready
+2025-03-24 17:21:56.157000 - Error: Could not read the FPGA
+2025-03-24 17:21:56.187881 - Waveform sent
+2025-03-24 17:21:56.187881 - Error: FPGA not ready
+2025-03-24 17:21:56.187881 - Error: Could not read the FPGA
+2025-03-24 17:21:56.219078 - Waveform sent
+2025-03-24 17:21:56.219078 - Error: FPGA not ready
+2025-03-24 17:21:56.219078 - Error: Could not read the FPGA
+2025-03-24 17:21:56.250924 - Waveform sent
+2025-03-24 17:21:56.250924 - Error: FPGA not ready
+2025-03-24 17:21:56.250924 - Error: Could not read the FPGA
+2025-03-24 17:21:56.282104 - Waveform sent
+2025-03-24 17:21:56.282104 - Error: FPGA not ready
+2025-03-24 17:21:56.282104 - Error: Could not read the FPGA
+2025-03-24 17:21:56.312889 - Waveform sent
+2025-03-24 17:21:56.312889 - Error: FPGA not ready
+2025-03-24 17:21:56.312889 - Error: Could not read the FPGA
+2025-03-24 17:21:56.344637 - Waveform sent
+2025-03-24 17:21:56.344637 - Error: FPGA not ready
+2025-03-24 17:21:56.344637 - Error: Could not read the FPGA
+2025-03-24 17:21:56.376322 - Waveform sent
+2025-03-24 17:21:56.376322 - Error: FPGA not ready
+2025-03-24 17:21:56.376322 - Error: Could not read the FPGA
+2025-03-24 17:21:56.407701 - Waveform sent
+2025-03-24 17:21:56.407701 - Error: FPGA not ready
+2025-03-24 17:21:56.407701 - Error: Could not read the FPGA
+2025-03-24 17:21:56.439291 - Waveform sent
+2025-03-24 17:21:56.439291 - Error: FPGA not ready
+2025-03-24 17:21:56.439291 - Error: Could not read the FPGA
+2025-03-24 17:21:56.470314 - Waveform sent
+2025-03-24 17:21:56.470314 - Error: FPGA not ready
+2025-03-24 17:21:56.470314 - Error: Could not read the FPGA
+2025-03-24 17:21:56.501646 - Waveform sent
+2025-03-24 17:21:56.501646 - Error: FPGA not ready
+2025-03-24 17:21:56.502616 - Error: Could not read the FPGA
+2025-03-24 17:21:56.533380 - Waveform sent
+2025-03-24 17:21:56.533380 - Error: FPGA not ready
+2025-03-24 17:21:56.533380 - Error: Could not read the FPGA
+2025-03-24 17:21:56.564655 - Waveform sent
+2025-03-24 17:21:56.564655 - Error: FPGA not ready
+2025-03-24 17:21:56.564655 - Error: Could not read the FPGA
+2025-03-24 17:21:56.596035 - Waveform sent
+2025-03-24 17:21:56.596035 - Error: FPGA not ready
+2025-03-24 17:21:56.596035 - Error: Could not read the FPGA
+2025-03-24 17:21:56.627029 - Waveform sent
+2025-03-24 17:21:56.627029 - Error: FPGA not ready
+2025-03-24 17:21:56.627029 - Error: Could not read the FPGA
+2025-03-24 17:21:56.658303 - Waveform sent
+2025-03-24 17:21:56.658303 - Error: FPGA not ready
+2025-03-24 17:21:56.659323 - Error: Could not read the FPGA
+2025-03-24 17:21:56.690099 - Waveform sent
+2025-03-24 17:21:56.690099 - Error: FPGA not ready
+2025-03-24 17:21:56.690099 - Error: Could not read the FPGA
+2025-03-24 17:21:56.721105 - Waveform sent
+2025-03-24 17:21:56.721105 - Error: FPGA not ready
+2025-03-24 17:21:56.722014 - Error: Could not read the FPGA
+2025-03-24 17:21:56.752742 - Waveform sent
+2025-03-24 17:21:56.752742 - Error: FPGA not ready
+2025-03-24 17:21:56.752742 - Error: Could not read the FPGA
+2025-03-24 17:21:56.784292 - Waveform sent
+2025-03-24 17:21:56.784292 - Error: FPGA not ready
+2025-03-24 17:21:56.784292 - Error: Could not read the FPGA
+2025-03-24 17:21:56.815554 - Waveform sent
+2025-03-24 17:21:56.815554 - Error: FPGA not ready
+2025-03-24 17:21:56.815554 - Error: Could not read the FPGA
+2025-03-24 17:21:56.847233 - Waveform sent
+2025-03-24 17:21:56.847233 - Error: FPGA not ready
+2025-03-24 17:21:56.847233 - Error: Could not read the FPGA
+2025-03-24 17:21:56.877791 - Waveform sent
+2025-03-24 17:21:56.878771 - Error: FPGA not ready
+2025-03-24 17:21:56.878771 - Error: Could not read the FPGA
+2025-03-24 17:21:56.909919 - Waveform sent
+2025-03-24 17:21:56.911918 - Error: FPGA not ready
+2025-03-24 17:21:56.911918 - Error: Could not read the FPGA
+2025-03-24 17:21:56.940869 - Waveform sent
+2025-03-24 17:21:56.940869 - Error: FPGA not ready
+2025-03-24 17:21:56.940869 - Error: Could not read the FPGA
+2025-03-24 17:21:56.972671 - Waveform sent
+2025-03-24 17:21:56.972671 - Error: FPGA not ready
+2025-03-24 17:21:56.972671 - Error: Could not read the FPGA
+2025-03-24 17:21:57.003778 - Waveform sent
+2025-03-24 17:21:57.003778 - Error: FPGA not ready
+2025-03-24 17:21:57.003778 - Error: Could not read the FPGA
+2025-03-24 17:21:57.035572 - Waveform sent
+2025-03-24 17:21:57.035572 - Error: FPGA not ready
+2025-03-24 17:21:57.035572 - Error: Could not read the FPGA
+2025-03-24 17:21:57.066226 - Waveform sent
+2025-03-24 17:21:57.067121 - Error: FPGA not ready
+2025-03-24 17:21:57.067121 - Error: Could not read the FPGA
+2025-03-24 17:21:57.097806 - Waveform sent
+2025-03-24 17:21:57.097806 - Error: FPGA not ready
+2025-03-24 17:21:57.097806 - Error: Could not read the FPGA
+2025-03-24 17:21:57.129668 - Waveform sent
+2025-03-24 17:21:57.129668 - Error: FPGA not ready
+2025-03-24 17:21:57.129668 - Error: Could not read the FPGA
+2025-03-24 17:21:57.160927 - Waveform sent
+2025-03-24 17:21:57.160927 - Error: FPGA not ready
+2025-03-24 17:21:57.160927 - Error: Could not read the FPGA
+2025-03-24 17:21:57.191379 - Waveform sent
+2025-03-24 17:21:57.192381 - Error: FPGA not ready
+2025-03-24 17:21:57.192381 - Error: Could not read the FPGA
+2025-03-24 17:21:57.223379 - Waveform sent
+2025-03-24 17:21:57.223379 - Error: FPGA not ready
+2025-03-24 17:21:57.223379 - Error: Could not read the FPGA
+2025-03-24 17:21:57.254962 - Waveform sent
+2025-03-24 17:21:57.254962 - Error: FPGA not ready
+2025-03-24 17:21:57.254962 - Error: Could not read the FPGA
+2025-03-24 17:21:57.286671 - Waveform sent
+2025-03-24 17:21:57.286671 - Error: FPGA not ready
+2025-03-24 17:21:57.286671 - Error: Could not read the FPGA
+2025-03-24 17:21:57.317005 - Waveform sent
+2025-03-24 17:21:57.317983 - Error: FPGA not ready
+2025-03-24 17:21:57.317983 - Error: Could not read the FPGA
+2025-03-24 17:21:57.348960 - Waveform sent
+2025-03-24 17:21:57.348960 - Error: FPGA not ready
+2025-03-24 17:21:57.348960 - Error: Could not read the FPGA
+2025-03-24 17:21:57.380267 - Waveform sent
+2025-03-24 17:21:57.380267 - Error: FPGA not ready
+2025-03-24 17:21:57.380267 - Error: Could not read the FPGA
+2025-03-24 17:21:57.411522 - Waveform sent
+2025-03-24 17:21:57.411522 - Error: FPGA not ready
+2025-03-24 17:21:57.411522 - Error: Could not read the FPGA
+2025-03-24 17:21:57.443506 - Waveform sent
+2025-03-24 17:21:57.443506 - Error: FPGA not ready
+2025-03-24 17:21:57.443506 - Error: Could not read the FPGA
+2025-03-24 17:21:57.474507 - Waveform sent
+2025-03-24 17:21:57.474507 - Error: FPGA not ready
+2025-03-24 17:21:57.474507 - Error: Could not read the FPGA
+2025-03-24 17:21:57.506203 - Waveform sent
+2025-03-24 17:21:57.506203 - Error: FPGA not ready
+2025-03-24 17:21:57.506203 - Error: Could not read the FPGA
+2025-03-24 17:21:57.537546 - Waveform sent
+2025-03-24 17:21:57.537546 - Error: FPGA not ready
+2025-03-24 17:21:57.537546 - Error: Could not read the FPGA
+2025-03-24 17:21:57.569702 - Waveform sent
+2025-03-24 17:21:57.569702 - Error: FPGA not ready
+2025-03-24 17:21:57.569702 - Error: Could not read the FPGA
+2025-03-24 17:21:57.600464 - Waveform sent
+2025-03-24 17:21:57.600464 - Error: FPGA not ready
+2025-03-24 17:21:57.600464 - Error: Could not read the FPGA
+2025-03-24 17:21:57.632225 - Waveform sent
+2025-03-24 17:21:57.632225 - Error: FPGA not ready
+2025-03-24 17:21:57.632225 - Error: Could not read the FPGA
+2025-03-24 17:21:57.664001 - Waveform sent
+2025-03-24 17:21:57.664001 - Error: FPGA not ready
+2025-03-24 17:21:57.664001 - Error: Could not read the FPGA
+2025-03-24 17:21:57.695094 - Waveform sent
+2025-03-24 17:21:57.695094 - Error: FPGA not ready
+2025-03-24 17:21:57.695094 - Error: Could not read the FPGA
+2025-03-24 17:21:57.726376 - Waveform sent
+2025-03-24 17:21:57.726376 - Error: FPGA not ready
+2025-03-24 17:21:57.726376 - Error: Could not read the FPGA
+2025-03-24 17:21:57.757136 - Waveform sent
+2025-03-24 17:21:57.758138 - Error: FPGA not ready
+2025-03-24 17:21:57.758138 - Error: Could not read the FPGA
+2025-03-24 17:21:57.788675 - Waveform sent
+2025-03-24 17:21:57.789657 - Error: FPGA not ready
+2025-03-24 17:21:57.789657 - Error: Could not read the FPGA
+2025-03-24 17:21:57.820012 - Waveform sent
+2025-03-24 17:21:57.820012 - Error: FPGA not ready
+2025-03-24 17:21:57.820012 - Error: Could not read the FPGA
+2025-03-24 17:21:57.851549 - Waveform sent
+2025-03-24 17:21:57.851549 - Error: FPGA not ready
+2025-03-24 17:21:57.851549 - Error: Could not read the FPGA
+2025-03-24 17:21:57.883091 - Waveform sent
+2025-03-24 17:21:57.883091 - Error: FPGA not ready
+2025-03-24 17:21:57.883091 - Error: Could not read the FPGA
+2025-03-24 17:21:57.914195 - Waveform sent
+2025-03-24 17:21:57.915091 - Error: FPGA not ready
+2025-03-24 17:21:57.915091 - Error: Could not read the FPGA
+2025-03-24 17:21:57.945937 - Waveform sent
+2025-03-24 17:21:57.945937 - Error: FPGA not ready
+2025-03-24 17:21:57.945937 - Error: Could not read the FPGA
+2025-03-24 17:21:57.977034 - Waveform sent
+2025-03-24 17:21:57.977935 - Error: FPGA not ready
+2025-03-24 17:21:57.977935 - Error: Could not read the FPGA
+2025-03-24 17:21:58.008870 - Waveform sent
+2025-03-24 17:21:58.008870 - Error: FPGA not ready
+2025-03-24 17:21:58.008870 - Error: Could not read the FPGA
+2025-03-24 17:21:58.039582 - Waveform sent
+2025-03-24 17:21:58.040583 - Error: FPGA not ready
+2025-03-24 17:21:58.040583 - Error: Could not read the FPGA
+2025-03-24 17:21:58.071583 - Waveform sent
+2025-03-24 17:21:58.071583 - Error: FPGA not ready
+2025-03-24 17:21:58.071583 - Error: Could not read the FPGA
+2025-03-24 17:21:58.102823 - Waveform sent
+2025-03-24 17:21:58.102823 - Error: FPGA not ready
+2025-03-24 17:21:58.102823 - Error: Could not read the FPGA
+2025-03-24 17:21:58.133893 - Waveform sent
+2025-03-24 17:21:58.134774 - Error: FPGA not ready
+2025-03-24 17:21:58.134774 - Error: Could not read the FPGA
+2025-03-24 17:21:58.165767 - Waveform sent
+2025-03-24 17:21:58.165767 - Error: FPGA not ready
+2025-03-24 17:21:58.165767 - Error: Could not read the FPGA
+2025-03-24 17:21:58.196515 - Waveform sent
+2025-03-24 17:21:58.196515 - Error: FPGA not ready
+2025-03-24 17:21:58.196515 - Error: Could not read the FPGA
+2025-03-24 17:21:58.228797 - Waveform sent
+2025-03-24 17:21:58.228797 - Error: FPGA not ready
+2025-03-24 17:21:58.228797 - Error: Could not read the FPGA
+2025-03-24 17:21:58.259331 - Waveform sent
+2025-03-24 17:21:58.259331 - Error: FPGA not ready
+2025-03-24 17:21:58.259331 - Error: Could not read the FPGA
+2025-03-24 17:21:58.291199 - Waveform sent
+2025-03-24 17:21:58.291199 - Error: FPGA not ready
+2025-03-24 17:21:58.291199 - Error: Could not read the FPGA
+2025-03-24 17:21:58.322347 - Waveform sent
+2025-03-24 17:21:58.322347 - Error: FPGA not ready
+2025-03-24 17:21:58.322347 - Error: Could not read the FPGA
+2025-03-24 17:21:58.354006 - Waveform sent
+2025-03-24 17:21:58.354006 - Error: FPGA not ready
+2025-03-24 17:21:58.354006 - Error: Could not read the FPGA
+2025-03-24 17:21:58.384950 - Waveform sent
+2025-03-24 17:21:58.384950 - Error: FPGA not ready
+2025-03-24 17:21:58.384950 - Error: Could not read the FPGA
+2025-03-24 17:21:58.416192 - Waveform sent
+2025-03-24 17:21:58.416192 - Error: FPGA not ready
+2025-03-24 17:21:58.417111 - Error: Could not read the FPGA
+2025-03-24 17:21:58.447784 - Waveform sent
+2025-03-24 17:21:58.447784 - Error: FPGA not ready
+2025-03-24 17:21:58.447784 - Error: Could not read the FPGA
+2025-03-24 17:21:58.479386 - Waveform sent
+2025-03-24 17:21:58.479386 - Error: FPGA not ready
+2025-03-24 17:21:58.479386 - Error: Could not read the FPGA
+2025-03-24 17:21:58.512394 - Waveform sent
+2025-03-24 17:21:58.512394 - Error: FPGA not ready
+2025-03-24 17:21:58.512394 - Error: Could not read the FPGA
+2025-03-24 17:21:58.543129 - Waveform sent
+2025-03-24 17:21:58.543129 - Error: FPGA not ready
+2025-03-24 17:21:58.543129 - Error: Could not read the FPGA
+2025-03-24 17:21:58.574348 - Waveform sent
+2025-03-24 17:21:58.574348 - Error: FPGA not ready
+2025-03-24 17:21:58.575251 - Error: Could not read the FPGA
+2025-03-24 17:21:58.605936 - Waveform sent
+2025-03-24 17:21:58.605936 - Error: FPGA not ready
+2025-03-24 17:21:58.605936 - Error: Could not read the FPGA
+2025-03-24 17:21:58.637475 - Waveform sent
+2025-03-24 17:21:58.637475 - Error: FPGA not ready
+2025-03-24 17:21:58.637475 - Error: Could not read the FPGA
+2025-03-24 17:21:58.668466 - Waveform sent
+2025-03-24 17:21:58.668466 - Error: FPGA not ready
+2025-03-24 17:21:58.668466 - Error: Could not read the FPGA
+2025-03-24 17:21:58.699985 - Waveform sent
+2025-03-24 17:21:58.699985 - Error: FPGA not ready
+2025-03-24 17:21:58.699985 - Error: Could not read the FPGA
+2025-03-24 17:21:58.731058 - Waveform sent
+2025-03-24 17:21:58.731058 - Error: FPGA not ready
+2025-03-24 17:21:58.731058 - Error: Could not read the FPGA
+2025-03-24 17:21:58.762177 - Waveform sent
+2025-03-24 17:21:58.763167 - Error: FPGA not ready
+2025-03-24 17:21:58.763167 - Error: Could not read the FPGA
+2025-03-24 17:21:58.794171 - Waveform sent
+2025-03-24 17:21:58.794171 - Error: FPGA not ready
+2025-03-24 17:21:58.794171 - Error: Could not read the FPGA
+2025-03-24 17:21:58.825176 - Waveform sent
+2025-03-24 17:21:58.825176 - Error: FPGA not ready
+2025-03-24 17:21:58.825176 - Error: Could not read the FPGA
+2025-03-24 17:21:58.856699 - Waveform sent
+2025-03-24 17:21:58.856699 - Error: FPGA not ready
+2025-03-24 17:21:58.856699 - Error: Could not read the FPGA
+2025-03-24 17:21:58.888297 - Waveform sent
+2025-03-24 17:21:58.888297 - Error: FPGA not ready
+2025-03-24 17:21:58.888297 - Error: Could not read the FPGA
+2025-03-24 17:21:58.919696 - Waveform sent
+2025-03-24 17:21:58.919696 - Error: FPGA not ready
+2025-03-24 17:21:58.919696 - Error: Could not read the FPGA
+2025-03-24 17:21:58.950573 - Waveform sent
+2025-03-24 17:21:58.950573 - Error: FPGA not ready
+2025-03-24 17:21:58.950573 - Error: Could not read the FPGA
+2025-03-24 17:21:58.981632 - Waveform sent
+2025-03-24 17:21:58.982572 - Error: FPGA not ready
+2025-03-24 17:21:58.982572 - Error: Could not read the FPGA
+2025-03-24 17:21:59.013100 - Waveform sent
+2025-03-24 17:21:59.014101 - Error: FPGA not ready
+2025-03-24 17:21:59.014101 - Error: Could not read the FPGA
+2025-03-24 17:21:59.044721 - Waveform sent
+2025-03-24 17:21:59.044721 - Error: FPGA not ready
+2025-03-24 17:21:59.044721 - Error: Could not read the FPGA
+2025-03-24 17:21:59.076660 - Waveform sent
+2025-03-24 17:21:59.076660 - Error: FPGA not ready
+2025-03-24 17:21:59.076660 - Error: Could not read the FPGA
+2025-03-24 17:21:59.108246 - Waveform sent
+2025-03-24 17:21:59.108246 - Error: FPGA not ready
+2025-03-24 17:21:59.108246 - Error: Could not read the FPGA
+2025-03-24 17:21:59.138828 - Waveform sent
+2025-03-24 17:21:59.138828 - Error: FPGA not ready
+2025-03-24 17:21:59.138828 - Error: Could not read the FPGA
+2025-03-24 17:21:59.170357 - Waveform sent
+2025-03-24 17:21:59.170357 - Error: FPGA not ready
+2025-03-24 17:21:59.170357 - Error: Could not read the FPGA
+2025-03-24 17:21:59.201339 - Waveform sent
+2025-03-24 17:21:59.202382 - Error: FPGA not ready
+2025-03-24 17:21:59.202382 - Error: Could not read the FPGA
+2025-03-24 17:21:59.232818 - Waveform sent
+2025-03-24 17:21:59.232818 - Error: FPGA not ready
+2025-03-24 17:21:59.232818 - Error: Could not read the FPGA
+2025-03-24 17:21:59.264049 - Waveform sent
+2025-03-24 17:21:59.265051 - Error: FPGA not ready
+2025-03-24 17:21:59.265051 - Error: Could not read the FPGA
+2025-03-24 17:21:59.295413 - Waveform sent
+2025-03-24 17:21:59.295413 - Error: FPGA not ready
+2025-03-24 17:21:59.295413 - Error: Could not read the FPGA
+2025-03-24 17:21:59.330014 - Waveform sent
+2025-03-24 17:21:59.330014 - Error: FPGA not ready
+2025-03-24 17:21:59.330014 - Error: Could not read the FPGA
+2025-03-24 17:21:59.361441 - Waveform sent
+2025-03-24 17:21:59.361441 - Error: FPGA not ready
+2025-03-24 17:21:59.361441 - Error: Could not read the FPGA
+2025-03-24 17:21:59.393924 - Waveform sent
+2025-03-24 17:21:59.393924 - Error: FPGA not ready
+2025-03-24 17:21:59.393924 - Error: Could not read the FPGA
+2025-03-24 17:21:59.424957 - Waveform sent
+2025-03-24 17:21:59.424957 - Error: FPGA not ready
+2025-03-24 17:21:59.424957 - Error: Could not read the FPGA
+2025-03-24 17:21:59.456965 - Waveform sent
+2025-03-24 17:21:59.456965 - Error: FPGA not ready
+2025-03-24 17:21:59.456965 - Error: Could not read the FPGA
+2025-03-24 17:21:59.488496 - Waveform sent
+2025-03-24 17:21:59.488496 - Error: FPGA not ready
+2025-03-24 17:21:59.488496 - Error: Could not read the FPGA
+2025-03-24 17:21:59.519718 - Error: Could not send the waveform
+2025-03-24 17:21:59.586404 - Waveform sent
+2025-03-24 17:21:59.586404 - Error: FPGA not ready
+2025-03-24 17:21:59.586404 - Error: Could not read the FPGA
+2025-03-24 17:21:59.617638 - Waveform sent
+2025-03-24 17:21:59.617638 - Error: FPGA not ready
+2025-03-24 17:21:59.617638 - Error: Could not read the FPGA
+2025-03-24 17:21:59.649288 - Waveform sent
+2025-03-24 17:21:59.649288 - Error: FPGA not ready
+2025-03-24 17:21:59.649288 - Error: Could not read the FPGA
+2025-03-24 17:21:59.680296 - Waveform sent
+2025-03-24 17:21:59.680296 - Error: FPGA not ready
+2025-03-24 17:21:59.680296 - Error: Could not read the FPGA
+2025-03-24 17:21:59.712097 - Waveform sent
+2025-03-24 17:21:59.712097 - Error: FPGA not ready
+2025-03-24 17:21:59.712097 - Error: Could not read the FPGA
+2025-03-24 17:21:59.743107 - Waveform sent
+2025-03-24 17:21:59.743107 - Error: FPGA not ready
+2025-03-24 17:21:59.744212 - Error: Could not read the FPGA
+2025-03-24 17:21:59.774352 - Waveform sent
+2025-03-24 17:21:59.774352 - Error: FPGA not ready
+2025-03-24 17:21:59.774352 - Error: Could not read the FPGA
+2025-03-24 17:21:59.806077 - Waveform sent
+2025-03-24 17:21:59.806077 - Error: FPGA not ready
+2025-03-24 17:21:59.806077 - Error: Could not read the FPGA
+2025-03-24 17:21:59.837377 - Waveform sent
+2025-03-24 17:21:59.838279 - Error: FPGA not ready
+2025-03-24 17:21:59.838279 - Error: Could not read the FPGA
+2025-03-24 17:21:59.868839 - Waveform sent
+2025-03-24 17:21:59.868839 - Error: FPGA not ready
+2025-03-24 17:21:59.868839 - Error: Could not read the FPGA
+2025-03-24 17:21:59.899689 - Waveform sent
+2025-03-24 17:21:59.900695 - Error: FPGA not ready
+2025-03-24 17:21:59.900695 - Error: Could not read the FPGA
+2025-03-24 17:21:59.931595 - Error: Could not send the waveform
+2025-03-24 17:21:59.963102 - Waveform sent
+2025-03-24 17:21:59.963102 - Error: FPGA not ready
+2025-03-24 17:21:59.963102 - Error: Could not read the FPGA
+2025-03-24 17:21:59.994203 - Waveform sent
+2025-03-24 17:21:59.994203 - Error: FPGA not ready
+2025-03-24 17:21:59.994203 - Error: Could not read the FPGA
+2025-03-24 17:22:00.025210 - Waveform sent
+2025-03-24 17:22:00.026199 - Error: FPGA not ready
+2025-03-24 17:22:00.026199 - Error: Could not read the FPGA
+2025-03-24 17:22:00.056881 - Waveform sent
+2025-03-24 17:22:00.056881 - Error: FPGA not ready
+2025-03-24 17:22:00.056881 - Error: Could not read the FPGA
+2025-03-24 17:22:00.088041 - Waveform sent
+2025-03-24 17:22:00.088041 - Error: FPGA not ready
+2025-03-24 17:22:00.088041 - Error: Could not read the FPGA
+2025-03-24 17:22:00.119843 - Waveform sent
+2025-03-24 17:22:00.119843 - Error: FPGA not ready
+2025-03-24 17:22:00.119843 - Error: Could not read the FPGA
+2025-03-24 17:22:00.151395 - Waveform sent
+2025-03-24 17:22:00.151395 - Error: FPGA not ready
+2025-03-24 17:22:00.151395 - Error: Could not read the FPGA
+2025-03-24 17:22:00.181402 - Waveform sent
+2025-03-24 17:22:00.182921 - Error: FPGA not ready
+2025-03-24 17:22:00.182921 - Error: Could not read the FPGA
+2025-03-24 17:22:00.213940 - Waveform sent
+2025-03-24 17:22:00.213940 - Error: FPGA not ready
+2025-03-24 17:22:00.213940 - Error: Could not read the FPGA
+2025-03-24 17:22:00.245467 - Waveform sent
+2025-03-24 17:22:00.245467 - Error: FPGA not ready
+2025-03-24 17:22:00.245467 - Error: Could not read the FPGA
+2025-03-24 17:22:00.276975 - Waveform sent
+2025-03-24 17:22:00.276975 - Error: FPGA not ready
+2025-03-24 17:22:00.276975 - Error: Could not read the FPGA
+2025-03-24 17:22:00.308181 - Waveform sent
+2025-03-24 17:22:00.308181 - Error: FPGA not ready
+2025-03-24 17:22:00.308181 - Error: Could not read the FPGA
+2025-03-24 17:22:00.339452 - Waveform sent
+2025-03-24 17:22:00.339452 - Error: FPGA not ready
+2025-03-24 17:22:00.339452 - Error: Could not read the FPGA
+2025-03-24 17:22:00.370984 - Waveform sent
+2025-03-24 17:22:00.370984 - Error: FPGA not ready
+2025-03-24 17:22:00.370984 - Error: Could not read the FPGA
+2025-03-24 17:22:00.401713 - Waveform sent
+2025-03-24 17:22:00.402606 - Error: FPGA not ready
+2025-03-24 17:22:00.402606 - Error: Could not read the FPGA
+2025-03-24 17:22:00.433685 - Error: Could not send the waveform
+2025-03-24 17:22:00.464189 - Error: Could not send the waveform
+2025-03-24 17:22:00.496094 - Error: Could not send the waveform
+2025-03-24 17:22:00.527092 - Error: Could not send the waveform
+2025-03-24 17:22:00.558538 - Waveform sent
+2025-03-24 17:22:00.558538 - Error: FPGA not ready
+2025-03-24 17:22:00.558538 - Error: Could not read the FPGA
+2025-03-24 17:22:00.590585 - Error: Could not send the waveform
+2025-03-24 17:22:00.621836 - Error: Could not send the waveform
+2025-03-24 17:22:00.652750 - Error: Could not send the waveform
+2025-03-24 17:22:00.684962 - Error: Could not send the waveform
+2025-03-24 17:22:00.716730 - Error: Could not send the waveform
+2025-03-24 17:22:00.747838 - Error: Could not send the waveform
+2025-03-24 17:22:00.778582 - Error: Could not send the waveform
+2025-03-24 17:22:00.810326 - Error: Could not send the waveform
+2025-03-24 17:22:00.842173 - Waveform sent
+2025-03-24 17:22:00.842173 - Error: FPGA not ready
+2025-03-24 17:22:00.842173 - Error: Could not read the FPGA
+2025-03-24 17:22:00.872978 - Error: Could not send the waveform
+2025-03-24 17:22:00.905112 - Waveform sent
+2025-03-24 17:22:00.905112 - Error: FPGA not ready
+2025-03-24 17:22:00.905112 - Error: Could not read the FPGA
+2025-03-24 17:22:00.935805 - Waveform sent
+2025-03-24 17:22:00.936772 - Error: FPGA not ready
+2025-03-24 17:22:00.936772 - Error: Could not read the FPGA
+2025-03-24 17:22:00.967895 - Waveform sent
+2025-03-24 17:22:00.967895 - Error: FPGA not ready
+2025-03-24 17:22:00.967895 - Error: Could not read the FPGA
+2025-03-24 17:22:00.999517 - Waveform sent
+2025-03-24 17:22:00.999517 - Error: FPGA not ready
+2025-03-24 17:22:00.999517 - Error: Could not read the FPGA
+2025-03-24 17:22:01.030194 - Waveform sent
+2025-03-24 17:22:01.030194 - Error: FPGA not ready
+2025-03-24 17:22:01.030194 - Error: Could not read the FPGA
+2025-03-24 17:22:01.061790 - Waveform sent
+2025-03-24 17:22:01.061790 - Error: FPGA not ready
+2025-03-24 17:22:01.061790 - Error: Could not read the FPGA
+2025-03-24 17:22:01.093405 - Waveform sent
+2025-03-24 17:22:01.093405 - Error: FPGA not ready
+2025-03-24 17:22:01.093405 - Error: Could not read the FPGA
+2025-03-24 17:22:01.124296 - Waveform sent
+2025-03-24 17:22:01.124296 - Error: FPGA not ready
+2025-03-24 17:22:01.124296 - Error: Could not read the FPGA
+2025-03-24 17:22:01.155359 - Error: Could not send the waveform
+2025-03-24 17:22:01.189158 - Waveform sent
+2025-03-24 17:22:01.189158 - Error: FPGA not ready
+2025-03-24 17:22:01.189158 - Error: Could not read the FPGA
+2025-03-24 17:22:01.220235 - Waveform sent
+2025-03-24 17:22:01.221232 - Error: FPGA not ready
+2025-03-24 17:22:01.221232 - Error: Could not read the FPGA
+2025-03-24 17:22:01.251870 - Waveform sent
+2025-03-24 17:22:01.252794 - Error: FPGA not ready
+2025-03-24 17:22:01.252794 - Error: Could not read the FPGA
+2025-03-24 17:22:01.282909 - Waveform sent
+2025-03-24 17:22:01.283892 - Error: FPGA not ready
+2025-03-24 17:22:01.283892 - Error: Could not read the FPGA
+2025-03-24 17:22:01.315090 - Waveform sent
+2025-03-24 17:22:01.315090 - Error: FPGA not ready
+2025-03-24 17:22:01.315090 - Error: Could not read the FPGA
+2025-03-24 17:22:01.345810 - Waveform sent
+2025-03-24 17:22:01.345810 - Error: FPGA not ready
+2025-03-24 17:22:01.346717 - Error: Could not read the FPGA
+2025-03-24 17:22:01.377735 - Waveform sent
+2025-03-24 17:22:01.377735 - Error: FPGA not ready
+2025-03-24 17:22:01.377735 - Error: Could not read the FPGA
+2025-03-24 17:22:01.409112 - Waveform sent
+2025-03-24 17:22:01.409112 - Error: FPGA not ready
+2025-03-24 17:22:01.409112 - Error: Could not read the FPGA
+2025-03-24 17:22:01.440364 - Waveform sent
+2025-03-24 17:22:01.440364 - Error: FPGA not ready
+2025-03-24 17:22:01.440364 - Error: Could not read the FPGA
+2025-03-24 17:22:01.471275 - Waveform sent
+2025-03-24 17:22:01.471275 - Error: FPGA not ready
+2025-03-24 17:22:01.471275 - Error: Could not read the FPGA
+2025-03-24 17:22:01.502778 - Waveform sent
+2025-03-24 17:22:01.502778 - Error: FPGA not ready
+2025-03-24 17:22:01.502778 - Error: Could not read the FPGA
+2025-03-24 17:22:01.534377 - Waveform sent
+2025-03-24 17:22:01.534377 - Error: FPGA not ready
+2025-03-24 17:22:01.534377 - Error: Could not read the FPGA
+2025-03-24 17:22:01.566053 - Waveform sent
+2025-03-24 17:22:01.566053 - Error: FPGA not ready
+2025-03-24 17:22:01.566053 - Error: Could not read the FPGA
+2025-03-24 17:22:01.596555 - Waveform sent
+2025-03-24 17:22:01.597564 - Error: FPGA not ready
+2025-03-24 17:22:01.597564 - Error: Could not read the FPGA
+2025-03-24 17:22:01.628708 - Waveform sent
+2025-03-24 17:22:01.628708 - Error: FPGA not ready
+2025-03-24 17:22:01.628708 - Error: Could not read the FPGA
+2025-03-24 17:22:01.660193 - Error: Could not send the waveform
+2025-03-24 17:22:01.668578 - Error: Could not send the waveform
+2025-03-24 17:22:01.700350 - Error: Could not send the waveform
+2025-03-24 17:22:01.731058 - Error: Could not send the waveform
+2025-03-24 17:22:01.762348 - Error: Could not send the waveform
+2025-03-24 17:22:01.794101 - Error: Could not send the waveform
+2025-03-24 17:22:01.826304 - Error: Could not send the waveform
+2025-03-24 17:22:01.857397 - Error: Could not send the waveform
+2025-03-24 17:22:01.889324 - Error: Could not send the waveform
+2025-03-24 17:22:01.920597 - Error: Could not send the waveform
+2025-03-24 17:22:01.952080 - Error: Could not send the waveform
+2025-03-24 17:22:01.983498 - Error: Could not send the waveform
+2025-03-24 17:22:02.015212 - Error: Could not send the waveform
+2025-03-24 17:22:02.046400 - Error: Could not send the waveform
+2025-03-24 17:22:02.078315 - Error: Could not send the waveform
+2025-03-24 17:22:02.110039 - Error: Could not send the waveform
+2025-03-24 17:22:02.141997 - Error: Could not send the waveform
+2025-03-24 17:22:02.172901 - Error: Could not send the waveform
+2025-03-24 17:22:02.204559 - Error: Could not send the waveform
+2025-03-24 17:22:02.237844 - Waveform sent
+2025-03-24 17:22:02.237844 - Error: FPGA not ready
+2025-03-24 17:22:02.237844 - Error: Could not read the FPGA
+2025-03-24 17:22:02.268659 - Error: Could not send the waveform
+2025-03-24 17:22:02.300146 - Error: Could not send the waveform
+2025-03-24 17:22:02.331489 - Waveform sent
+2025-03-24 17:22:02.331489 - Error: FPGA not ready
+2025-03-24 17:22:02.331489 - Error: Could not read the FPGA
+2025-03-24 17:22:02.362449 - Waveform sent
+2025-03-24 17:22:02.366461 - Encryption started
+2025-03-24 17:22:02.366461 - Cipher received
+2025-03-24 17:22:02.367449 - Tag received
+2025-03-24 17:22:02.396640 - Waveform sent
+2025-03-24 17:22:02.396640 - Error: FPGA not ready
+2025-03-24 17:22:02.396640 - Error: Could not read the FPGA
+2025-03-24 17:22:02.427683 - Waveform sent
+2025-03-24 17:22:02.427683 - Error: FPGA not ready
+2025-03-24 17:22:02.427683 - Error: Could not read the FPGA
+2025-03-24 17:22:02.459085 - Error: Could not send the waveform
+2025-03-24 17:22:02.490723 - Waveform sent
+2025-03-24 17:22:02.490723 - Error: FPGA not ready
+2025-03-24 17:22:02.490723 - Error: Could not read the FPGA
+2025-03-24 17:22:02.521604 - Waveform sent
+2025-03-24 17:22:02.521604 - Error: FPGA not ready
+2025-03-24 17:22:02.521604 - Error: Could not read the FPGA
+2025-03-24 17:22:02.553406 - Waveform sent
+2025-03-24 17:22:02.553406 - Error: FPGA not ready
+2025-03-24 17:22:02.553406 - Error: Could not read the FPGA
+2025-03-24 17:22:02.585033 - Waveform sent
+2025-03-24 17:22:02.585033 - Error: FPGA not ready
+2025-03-24 17:22:02.585033 - Error: Could not read the FPGA
+2025-03-24 17:22:02.615072 - Waveform sent
+2025-03-24 17:22:02.615072 - Error: FPGA not ready
+2025-03-24 17:22:02.615072 - Error: Could not read the FPGA
+2025-03-24 17:22:02.647126 - Waveform sent
+2025-03-24 17:22:02.647126 - Error: FPGA not ready
+2025-03-24 17:22:02.647126 - Error: Could not read the FPGA
+2025-03-24 17:22:02.678215 - Waveform sent
+2025-03-24 17:22:02.679311 - Error: FPGA not ready
+2025-03-24 17:22:02.679311 - Error: Could not read the FPGA
+2025-03-24 17:22:02.710104 - Waveform sent
+2025-03-24 17:22:02.710104 - Error: FPGA not ready
+2025-03-24 17:22:02.710104 - Error: Could not read the FPGA
+2025-03-24 17:22:02.740894 - Waveform sent
+2025-03-24 17:22:02.741890 - Error: FPGA not ready
+2025-03-24 17:22:02.741890 - Error: Could not read the FPGA
+2025-03-24 17:22:02.772389 - Waveform sent
+2025-03-24 17:22:02.773377 - Error: FPGA not ready
+2025-03-24 17:22:02.773377 - Error: Could not read the FPGA
+2025-03-24 17:22:02.804303 - Waveform sent
+2025-03-24 17:22:02.804303 - Error: FPGA not ready
+2025-03-24 17:22:02.804303 - Error: Could not read the FPGA
+2025-03-24 17:22:02.835887 - Waveform sent
+2025-03-24 17:22:02.835887 - Error: FPGA not ready
+2025-03-24 17:22:02.835887 - Error: Could not read the FPGA
+2025-03-24 17:22:02.866882 - Waveform sent
+2025-03-24 17:22:02.866882 - Error: FPGA not ready
+2025-03-24 17:22:02.866882 - Error: Could not read the FPGA
+2025-03-24 17:22:02.898536 - Waveform sent
+2025-03-24 17:22:02.898536 - Error: FPGA not ready
+2025-03-24 17:22:02.898536 - Error: Could not read the FPGA
+2025-03-24 17:22:02.930018 - Waveform sent
+2025-03-24 17:22:02.930018 - Error: FPGA not ready
+2025-03-24 17:22:02.930018 - Error: Could not read the FPGA
+2025-03-24 17:22:02.960684 - Error: Could not send the waveform
+2025-03-24 17:22:02.992068 - Error: Could not send the waveform
+2025-03-24 17:22:03.024034 - Error: Could not send the waveform
+2025-03-24 17:22:03.055955 - Waveform sent
+2025-03-24 17:22:03.057169 - Error: FPGA not ready
+2025-03-24 17:22:03.057169 - Error: Could not read the FPGA
+2025-03-24 17:22:03.087605 - Error: Could not send the waveform
+2025-03-24 17:22:03.120160 - Waveform sent
+2025-03-24 17:22:03.120160 - Error: FPGA not ready
+2025-03-24 17:22:03.120160 - Error: Could not read the FPGA
+2025-03-24 17:22:03.151133 - Waveform sent
+2025-03-24 17:22:03.151133 - Error: FPGA not ready
+2025-03-24 17:22:03.151133 - Error: Could not read the FPGA
+2025-03-24 17:22:03.182506 - Error: Could not send the waveform
+2025-03-24 17:22:03.214431 - Error: Could not send the waveform
+2025-03-24 17:22:03.245370 - Error: Could not send the waveform
+2025-03-24 17:22:03.276487 - Waveform sent
+2025-03-24 17:22:03.277485 - Error: Could not read the FPGA
+2025-03-24 17:22:03.308616 - Error: Could not send the waveform
+2025-03-24 17:22:03.339803 - Error: Could not send the waveform
+2025-03-24 17:22:03.371120 - Waveform sent
+2025-03-24 17:22:03.371120 - Error: FPGA not ready
+2025-03-24 17:22:03.371120 - Error: Could not read the FPGA
+2025-03-24 17:22:03.401809 - Waveform sent
+2025-03-24 17:22:03.402807 - Error: FPGA not ready
+2025-03-24 17:22:03.402807 - Error: Could not read the FPGA
+2025-03-24 17:22:03.433345 - Waveform sent
+2025-03-24 17:22:03.434345 - Error: FPGA not ready
+2025-03-24 17:22:03.434345 - Error: Could not read the FPGA
+2025-03-24 17:22:03.465345 - Waveform sent
+2025-03-24 17:22:03.465345 - Error: FPGA not ready
+2025-03-24 17:22:03.465345 - Error: Could not read the FPGA
+2025-03-24 17:22:03.496152 - Waveform sent
+2025-03-24 17:22:03.496152 - Error: FPGA not ready
+2025-03-24 17:22:03.496152 - Error: Could not read the FPGA
+2025-03-24 17:22:03.527315 - Waveform sent
+2025-03-24 17:22:03.528316 - Error: FPGA not ready
+2025-03-24 17:22:03.528316 - Error: Could not read the FPGA
+2025-03-24 17:22:03.559039 - Waveform sent
+2025-03-24 17:22:03.559039 - Error: FPGA not ready
+2025-03-24 17:22:03.559039 - Error: Could not read the FPGA
+2025-03-24 17:22:03.590573 - Waveform sent
+2025-03-24 17:22:03.590573 - Error: FPGA not ready
+2025-03-24 17:22:03.590573 - Error: Could not read the FPGA
+2025-03-24 17:22:03.621760 - Waveform sent
+2025-03-24 17:22:03.621760 - Error: FPGA not ready
+2025-03-24 17:22:03.621760 - Error: Could not read the FPGA
+2025-03-24 17:22:03.653443 - Waveform sent
+2025-03-24 17:22:03.653443 - Error: FPGA not ready
+2025-03-24 17:22:03.653443 - Error: Could not read the FPGA
+2025-03-24 17:22:03.684244 - Waveform sent
+2025-03-24 17:22:03.685154 - Error: FPGA not ready
+2025-03-24 17:22:03.685154 - Error: Could not read the FPGA
+2025-03-24 17:22:03.716378 - Waveform sent
+2025-03-24 17:22:03.716378 - Error: FPGA not ready
+2025-03-24 17:22:03.716378 - Error: Could not read the FPGA
+2025-03-24 17:22:03.747251 - Waveform sent
+2025-03-24 17:22:03.747251 - Error: FPGA not ready
+2025-03-24 17:22:03.747251 - Error: Could not read the FPGA
+2025-03-24 17:22:03.778266 - Waveform sent
+2025-03-24 17:22:03.779265 - Error: FPGA not ready
+2025-03-24 17:22:03.779265 - Error: Could not read the FPGA
+2025-03-24 17:22:03.809985 - Waveform sent
+2025-03-24 17:22:03.809985 - Error: FPGA not ready
+2025-03-24 17:22:03.809985 - Error: Could not read the FPGA
+2025-03-24 17:22:03.842083 - Waveform sent
+2025-03-24 17:22:03.842083 - Error: FPGA not ready
+2025-03-24 17:22:03.842083 - Error: Could not read the FPGA
+2025-03-24 17:22:03.872945 - Waveform sent
+2025-03-24 17:22:03.872945 - Error: FPGA not ready
+2025-03-24 17:22:03.872945 - Error: Could not read the FPGA
+2025-03-24 17:22:03.904913 - Waveform sent
+2025-03-24 17:22:03.904913 - Error: FPGA not ready
+2025-03-24 17:22:03.904913 - Error: Could not read the FPGA
+2025-03-24 17:22:03.935301 - Waveform sent
+2025-03-24 17:22:03.935301 - Error: FPGA not ready
+2025-03-24 17:22:03.935301 - Error: Could not read the FPGA
+2025-03-24 17:22:03.966867 - Waveform sent
+2025-03-24 17:22:03.966867 - Error: FPGA not ready
+2025-03-24 17:22:03.966867 - Error: Could not read the FPGA
+2025-03-24 17:22:03.998529 - Waveform sent
+2025-03-24 17:22:03.998529 - Error: FPGA not ready
+2025-03-24 17:22:03.998529 - Error: Could not read the FPGA
+2025-03-24 17:22:04.029570 - Waveform sent
+2025-03-24 17:22:04.030553 - Error: FPGA not ready
+2025-03-24 17:22:04.030553 - Error: Could not read the FPGA
+2025-03-24 17:22:04.061497 - Waveform sent
+2025-03-24 17:22:04.061497 - Error: FPGA not ready
+2025-03-24 17:22:04.061497 - Error: Could not read the FPGA
+2025-03-24 17:22:04.092168 - Waveform sent
+2025-03-24 17:22:04.093165 - Error: FPGA not ready
+2025-03-24 17:22:04.093165 - Error: Could not read the FPGA
+2025-03-24 17:22:04.124313 - Waveform sent
+2025-03-24 17:22:04.124313 - Error: FPGA not ready
+2025-03-24 17:22:04.124313 - Error: Could not read the FPGA
+2025-03-24 17:22:04.154897 - Waveform sent
+2025-03-24 17:22:04.155899 - Error: FPGA not ready
+2025-03-24 17:22:04.155899 - Error: Could not read the FPGA
+2025-03-24 17:22:04.187095 - Waveform sent
+2025-03-24 17:22:04.187095 - Error: FPGA not ready
+2025-03-24 17:22:04.187095 - Error: Could not read the FPGA
+2025-03-24 17:22:04.217951 - Waveform sent
+2025-03-24 17:22:04.217951 - Error: FPGA not ready
+2025-03-24 17:22:04.217951 - Error: Could not read the FPGA
+2025-03-24 17:22:04.249093 - Waveform sent
+2025-03-24 17:22:04.250097 - Error: FPGA not ready
+2025-03-24 17:22:04.250097 - Error: Could not read the FPGA
+2025-03-24 17:22:04.281532 - Waveform sent
+2025-03-24 17:22:04.281532 - Error: FPGA not ready
+2025-03-24 17:22:04.281532 - Error: Could not read the FPGA
+2025-03-24 17:22:04.311983 - Waveform sent
+2025-03-24 17:22:04.312982 - Error: FPGA not ready
+2025-03-24 17:22:04.312982 - Error: Could not read the FPGA
+2025-03-24 17:22:04.340438 - Waveform sent
+2025-03-24 17:22:04.340438 - Error: FPGA not ready
+2025-03-24 17:22:04.340438 - Error: Could not read the FPGA
+2025-03-24 17:22:04.374921 - Waveform sent
+2025-03-24 17:22:04.374921 - Error: FPGA not ready
+2025-03-24 17:22:04.374921 - Error: Could not read the FPGA
+2025-03-24 17:22:04.406016 - Waveform sent
+2025-03-24 17:22:04.406016 - Error: FPGA not ready
+2025-03-24 17:22:04.406016 - Error: Could not read the FPGA
+2025-03-24 17:22:04.438559 - Waveform sent
+2025-03-24 17:22:04.442834 - Encryption started
+2025-03-24 17:22:04.442834 - Error: FPGA not ready
+2025-03-24 17:22:04.442834 - Error: Could not read the FPGA
+2025-03-24 17:22:04.470041 - Waveform sent
+2025-03-24 17:22:04.470041 - Error: FPGA not ready
+2025-03-24 17:22:04.470041 - Error: Could not read the FPGA
+2025-03-24 17:22:04.504943 - Waveform sent
+2025-03-24 17:22:04.504943 - Error: FPGA not ready
+2025-03-24 17:22:04.504943 - Error: Could not read the FPGA
+2025-03-24 17:22:04.536213 - Waveform sent
+2025-03-24 17:22:04.536213 - Error: FPGA not ready
+2025-03-24 17:22:04.536213 - Error: Could not read the FPGA
+2025-03-24 17:22:04.567017 - Waveform sent
+2025-03-24 17:22:04.567017 - Error: FPGA not ready
+2025-03-24 17:22:04.567017 - Error: Could not read the FPGA
+2025-03-24 17:22:04.601910 - Waveform sent
+2025-03-24 17:22:04.601910 - Error: FPGA not ready
+2025-03-24 17:22:04.601910 - Error: Could not read the FPGA
+2025-03-24 17:22:04.630519 - Waveform sent
+2025-03-24 17:22:04.630519 - Error: FPGA not ready
+2025-03-24 17:22:04.630519 - Error: Could not read the FPGA
+2025-03-24 17:22:04.661129 - Waveform sent
+2025-03-24 17:22:04.661129 - Error: FPGA not ready
+2025-03-24 17:22:04.661129 - Error: Could not read the FPGA
+2025-03-24 17:22:04.695733 - Waveform sent
+2025-03-24 17:22:04.695733 - Error: FPGA not ready
+2025-03-24 17:22:04.695733 - Error: Could not read the FPGA
+2025-03-24 17:22:04.725231 - Waveform sent
+2025-03-24 17:22:04.725231 - Error: FPGA not ready
+2025-03-24 17:22:04.725231 - Error: Could not read the FPGA
+2025-03-24 17:22:04.756496 - Waveform sent
+2025-03-24 17:22:04.756496 - Error: FPGA not ready
+2025-03-24 17:22:04.756496 - Error: Could not read the FPGA
+2025-03-24 17:22:04.789936 - Waveform sent
+2025-03-24 17:22:04.789936 - Error: FPGA not ready
+2025-03-24 17:22:04.789936 - Error: Could not read the FPGA
+2025-03-24 17:22:04.820992 - Waveform sent
+2025-03-24 17:22:04.820992 - Error: FPGA not ready
+2025-03-24 17:22:04.820992 - Error: Could not read the FPGA
+2025-03-24 17:22:04.851690 - Waveform sent
+2025-03-24 17:22:04.851690 - Error: FPGA not ready
+2025-03-24 17:22:04.851690 - Error: Could not read the FPGA
+2025-03-24 17:22:04.884035 - Waveform sent
+2025-03-24 17:22:04.884035 - Error: FPGA not ready
+2025-03-24 17:22:04.884035 - Error: Could not read the FPGA
+2025-03-24 17:22:04.910033 - Waveform sent
+2025-03-24 17:22:04.910033 - Error: FPGA not ready
+2025-03-24 17:22:04.910033 - Error: Could not read the FPGA
+2025-03-24 17:22:04.945960 - Waveform sent
+2025-03-24 17:22:04.945960 - Error: FPGA not ready
+2025-03-24 17:22:04.945960 - Error: Could not read the FPGA
+2025-03-24 17:22:04.978229 - Waveform sent
+2025-03-24 17:22:04.978229 - Error: FPGA not ready
+2025-03-24 17:22:04.978229 - Error: Could not read the FPGA
+2025-03-24 17:22:05.006550 - Waveform sent
+2025-03-24 17:22:05.006550 - Error: FPGA not ready
+2025-03-24 17:22:05.006550 - Error: Could not read the FPGA
+2025-03-24 17:22:05.040684 - Waveform sent
+2025-03-24 17:22:05.040684 - Error: FPGA not ready
+2025-03-24 17:22:05.040684 - Error: Could not read the FPGA
+2025-03-24 17:22:05.071714 - Waveform sent
+2025-03-24 17:22:05.071714 - Error: FPGA not ready
+2025-03-24 17:22:05.071714 - Error: Could not read the FPGA
+2025-03-24 17:22:05.103528 - Waveform sent
+2025-03-24 17:22:05.103528 - Error: FPGA not ready
+2025-03-24 17:22:05.103528 - Error: Could not read the FPGA
+2025-03-24 17:22:05.135083 - Waveform sent
+2025-03-24 17:22:05.135083 - Error: FPGA not ready
+2025-03-24 17:22:05.135083 - Error: Could not read the FPGA
+2025-03-24 17:22:05.167240 - Waveform sent
+2025-03-24 17:22:05.167240 - Error: FPGA not ready
+2025-03-24 17:22:05.167240 - Error: Could not read the FPGA
+2025-03-24 17:22:05.194930 - Waveform sent
+2025-03-24 17:22:05.194930 - Error: FPGA not ready
+2025-03-24 17:22:05.194930 - Error: Could not read the FPGA
+2025-03-24 17:22:05.229593 - Waveform sent
+2025-03-24 17:22:05.229593 - Error: FPGA not ready
+2025-03-24 17:22:05.229593 - Error: Could not read the FPGA
+2025-03-24 17:22:05.261307 - Waveform sent
+2025-03-24 17:22:05.261307 - Error: FPGA not ready
+2025-03-24 17:22:05.261307 - Error: Could not read the FPGA
+2025-03-24 17:22:05.292493 - Waveform sent
+2025-03-24 17:22:05.292493 - Error: FPGA not ready
+2025-03-24 17:22:05.292493 - Error: Could not read the FPGA
+2025-03-24 17:22:05.319067 - Waveform sent
+2025-03-24 17:22:05.319067 - Error: FPGA not ready
+2025-03-24 17:22:05.319067 - Error: Could not read the FPGA
+2025-03-24 17:22:05.354182 - Waveform sent
+2025-03-24 17:22:05.354182 - Error: FPGA not ready
+2025-03-24 17:22:05.354182 - Error: Could not read the FPGA
+2025-03-24 17:22:05.387017 - Waveform sent
+2025-03-24 17:22:05.387440 - Error: FPGA not ready
+2025-03-24 17:22:05.387440 - Error: Could not read the FPGA
+2025-03-24 17:22:05.418465 - Waveform sent
+2025-03-24 17:22:05.418465 - Error: FPGA not ready
+2025-03-24 17:22:05.418465 - Error: Could not read the FPGA
+2025-03-24 17:22:05.448913 - Waveform sent
+2025-03-24 17:22:05.448913 - Error: FPGA not ready
+2025-03-24 17:22:05.448913 - Error: Could not read the FPGA
+2025-03-24 17:22:05.480270 - Waveform sent
+2025-03-24 17:22:05.481204 - Error: FPGA not ready
+2025-03-24 17:22:05.481204 - Error: Could not read the FPGA
+2025-03-24 17:22:05.511854 - Waveform sent
+2025-03-24 17:22:05.511854 - Error: FPGA not ready
+2025-03-24 17:22:05.511854 - Error: Could not read the FPGA
+2025-03-24 17:22:05.541837 - Waveform sent
+2025-03-24 17:22:05.541837 - Error: FPGA not ready
+2025-03-24 17:22:05.541837 - Error: Could not read the FPGA
+2025-03-24 17:22:05.623024 - Waveform sent
+2025-03-24 17:22:05.623024 - Error: FPGA not ready
+2025-03-24 17:22:05.623024 - Error: Could not read the FPGA
+2025-03-24 17:22:05.693122 - Waveform sent
+2025-03-24 17:22:05.693122 - Error: FPGA not ready
+2025-03-24 17:22:05.693122 - Error: Could not read the FPGA
+2025-03-24 17:22:05.724469 - Waveform sent
+2025-03-24 17:22:05.724469 - Error: FPGA not ready
+2025-03-24 17:22:05.724469 - Error: Could not read the FPGA
+
+2025-03-24 17:22:33.120328 - FPGA opened
+2025-03-24 17:22:33.121665 - Key sent
+2025-03-24 17:22:33.134109 - Nonce sent
+2025-03-24 17:22:33.149813 - Associated data sent
+2025-03-24 17:22:33.172143 - Waveform sent
+2025-03-24 17:22:33.197643 - Encryption started
+2025-03-24 17:22:33.249073 - Cipher received
+2025-03-24 17:22:33.264987 - Tag received
+2025-03-24 17:22:33.384982 - FPGA closed
+
+2025-03-24 17:22:56.951710 - FPGA opened
+2025-03-24 17:22:56.951710 - Key sent
+2025-03-24 17:22:56.959814 - Nonce sent
+2025-03-24 17:22:56.976770 - Associated data sent
+2025-03-24 17:22:58.533177 - Waveform sent
+2025-03-24 17:22:58.568202 - Error: FPGA not ready
+2025-03-24 17:22:58.568202 - Error: Could not read the FPGA
+2025-03-24 17:22:58.655996 - Waveform sent
+2025-03-24 17:22:58.655996 - Error: FPGA not ready
+2025-03-24 17:22:58.655996 - Error: Could not read the FPGA
+2025-03-24 17:22:58.689428 - Waveform sent
+2025-03-24 17:22:58.689428 - Error: FPGA not ready
+2025-03-24 17:22:58.689428 - Error: Could not read the FPGA
+2025-03-24 17:22:58.730611 - Waveform sent
+2025-03-24 17:22:58.731594 - Error: FPGA not ready
+2025-03-24 17:22:58.731594 - Error: Could not read the FPGA
+2025-03-24 17:22:58.762205 - Waveform sent
+2025-03-24 17:22:58.762205 - Error: FPGA not ready
+2025-03-24 17:22:58.762205 - Error: Could not read the FPGA
+2025-03-24 17:22:58.793409 - Waveform sent
+2025-03-24 17:22:58.793409 - Error: FPGA not ready
+2025-03-24 17:22:58.793409 - Error: Could not read the FPGA
+2025-03-24 17:22:58.824664 - Waveform sent
+2025-03-24 17:22:58.824664 - Error: FPGA not ready
+2025-03-24 17:22:58.824664 - Error: Could not read the FPGA
+2025-03-24 17:22:58.856605 - Waveform sent
+2025-03-24 17:22:58.856605 - Error: FPGA not ready
+2025-03-24 17:22:58.856605 - Error: Could not read the FPGA
+2025-03-24 17:22:58.888231 - Waveform sent
+2025-03-24 17:22:58.888231 - Error: FPGA not ready
+2025-03-24 17:22:58.888231 - Error: Could not read the FPGA
+2025-03-24 17:22:58.919335 - Waveform sent
+2025-03-24 17:22:58.919335 - Error: FPGA not ready
+2025-03-24 17:22:58.919335 - Error: Could not read the FPGA
+2025-03-24 17:22:58.950428 - Waveform sent
+2025-03-24 17:22:58.950428 - Error: FPGA not ready
+2025-03-24 17:22:58.950428 - Error: Could not read the FPGA
+2025-03-24 17:22:58.981599 - Waveform sent
+2025-03-24 17:22:58.982565 - Error: FPGA not ready
+2025-03-24 17:22:58.982565 - Error: Could not read the FPGA
+2025-03-24 17:22:59.013670 - Waveform sent
+2025-03-24 17:22:59.013670 - Error: FPGA not ready
+2025-03-24 17:22:59.013670 - Error: Could not read the FPGA
+2025-03-24 17:22:59.044746 - Waveform sent
+2025-03-24 17:22:59.044746 - Error: FPGA not ready
+2025-03-24 17:22:59.044746 - Error: Could not read the FPGA
+2025-03-24 17:22:59.076647 - Waveform sent
+2025-03-24 17:22:59.076647 - Error: FPGA not ready
+2025-03-24 17:22:59.076647 - Error: Could not read the FPGA
+2025-03-24 17:22:59.107806 - Waveform sent
+2025-03-24 17:22:59.107806 - Error: FPGA not ready
+2025-03-24 17:22:59.107806 - Error: Could not read the FPGA
+2025-03-24 17:22:59.139201 - Waveform sent
+2025-03-24 17:22:59.139201 - Error: FPGA not ready
+2025-03-24 17:22:59.139201 - Error: Could not read the FPGA
+2025-03-24 17:22:59.170459 - Waveform sent
+2025-03-24 17:22:59.170459 - Error: FPGA not ready
+2025-03-24 17:22:59.170459 - Error: Could not read the FPGA
+2025-03-24 17:22:59.201461 - Waveform sent
+2025-03-24 17:22:59.201461 - Error: FPGA not ready
+2025-03-24 17:22:59.201461 - Error: Could not read the FPGA
+2025-03-24 17:22:59.233609 - Waveform sent
+2025-03-24 17:22:59.233609 - Error: FPGA not ready
+2025-03-24 17:22:59.233609 - Error: Could not read the FPGA
+2025-03-24 17:22:59.264424 - Waveform sent
+2025-03-24 17:22:59.264424 - Error: FPGA not ready
+2025-03-24 17:22:59.264424 - Error: Could not read the FPGA
+2025-03-24 17:22:59.295331 - Waveform sent
+2025-03-24 17:22:59.296335 - Error: FPGA not ready
+2025-03-24 17:22:59.296335 - Error: Could not read the FPGA
+2025-03-24 17:22:59.326877 - Waveform sent
+2025-03-24 17:22:59.326877 - Error: FPGA not ready
+2025-03-24 17:22:59.326877 - Error: Could not read the FPGA
+2025-03-24 17:22:59.358708 - Waveform sent
+2025-03-24 17:22:59.358708 - Error: FPGA not ready
+2025-03-24 17:22:59.358708 - Error: Could not read the FPGA
+2025-03-24 17:22:59.390234 - Waveform sent
+2025-03-24 17:22:59.390234 - Error: FPGA not ready
+2025-03-24 17:22:59.390234 - Error: Could not read the FPGA
+2025-03-24 17:22:59.421314 - Waveform sent
+2025-03-24 17:22:59.421314 - Error: FPGA not ready
+2025-03-24 17:22:59.421314 - Error: Could not read the FPGA
+2025-03-24 17:22:59.452389 - Waveform sent
+2025-03-24 17:22:59.452389 - Error: FPGA not ready
+2025-03-24 17:22:59.452389 - Error: Could not read the FPGA
+2025-03-24 17:22:59.483387 - Waveform sent
+2025-03-24 17:22:59.483387 - Error: FPGA not ready
+2025-03-24 17:22:59.483387 - Error: Could not read the FPGA
+2025-03-24 17:22:59.515695 - Waveform sent
+2025-03-24 17:22:59.515695 - Error: FPGA not ready
+2025-03-24 17:22:59.515695 - Error: Could not read the FPGA
+2025-03-24 17:22:59.546935 - Waveform sent
+2025-03-24 17:22:59.546935 - Error: FPGA not ready
+2025-03-24 17:22:59.546935 - Error: Could not read the FPGA
+2025-03-24 17:22:59.578776 - Waveform sent
+2025-03-24 17:22:59.578776 - Error: FPGA not ready
+2025-03-24 17:22:59.578776 - Error: Could not read the FPGA
+2025-03-24 17:22:59.609795 - Waveform sent
+2025-03-24 17:22:59.610798 - Error: FPGA not ready
+2025-03-24 17:22:59.610798 - Error: Could not read the FPGA
+2025-03-24 17:22:59.641215 - Waveform sent
+2025-03-24 17:22:59.642236 - Error: FPGA not ready
+2025-03-24 17:22:59.642236 - Error: Could not read the FPGA
+2025-03-24 17:22:59.672484 - Waveform sent
+2025-03-24 17:22:59.673476 - Error: FPGA not ready
+2025-03-24 17:22:59.673476 - Error: Could not read the FPGA
+2025-03-24 17:22:59.705042 - Waveform sent
+2025-03-24 17:22:59.705042 - Error: FPGA not ready
+2025-03-24 17:22:59.705042 - Error: Could not read the FPGA
+2025-03-24 17:22:59.736376 - Waveform sent
+2025-03-24 17:22:59.736376 - Error: FPGA not ready
+2025-03-24 17:22:59.736376 - Error: Could not read the FPGA
+2025-03-24 17:22:59.767820 - Waveform sent
+2025-03-24 17:22:59.767820 - Error: FPGA not ready
+2025-03-24 17:22:59.767820 - Error: Could not read the FPGA
+2025-03-24 17:22:59.799305 - Waveform sent
+2025-03-24 17:22:59.799305 - Error: FPGA not ready
+2025-03-24 17:22:59.799305 - Error: Could not read the FPGA
+2025-03-24 17:22:59.835302 - Waveform sent
+2025-03-24 17:22:59.835302 - Error: FPGA not ready
+2025-03-24 17:22:59.835302 - Error: Could not read the FPGA
+2025-03-24 17:22:59.866789 - Waveform sent
+2025-03-24 17:22:59.866789 - Error: FPGA not ready
+2025-03-24 17:22:59.866789 - Error: Could not read the FPGA
+2025-03-24 17:22:59.898756 - Waveform sent
+2025-03-24 17:22:59.898756 - Error: FPGA not ready
+2025-03-24 17:22:59.898756 - Error: Could not read the FPGA
+2025-03-24 17:22:59.931139 - Waveform sent
+2025-03-24 17:22:59.931139 - Error: FPGA not ready
+2025-03-24 17:22:59.931139 - Error: Could not read the FPGA
+2025-03-24 17:22:59.963005 - Waveform sent
+2025-03-24 17:22:59.963005 - Error: FPGA not ready
+2025-03-24 17:22:59.963005 - Error: Could not read the FPGA
+2025-03-24 17:22:59.993593 - Waveform sent
+2025-03-24 17:22:59.993593 - Error: FPGA not ready
+2025-03-24 17:22:59.993593 - Error: Could not read the FPGA
+2025-03-24 17:23:00.025012 - Waveform sent
+2025-03-24 17:23:00.025012 - Error: FPGA not ready
+2025-03-24 17:23:00.025012 - Error: Could not read the FPGA
+2025-03-24 17:23:00.056780 - Waveform sent
+2025-03-24 17:23:00.056780 - Error: FPGA not ready
+2025-03-24 17:23:00.056780 - Error: Could not read the FPGA
+2025-03-24 17:23:00.088000 - Waveform sent
+2025-03-24 17:23:00.088000 - Error: FPGA not ready
+2025-03-24 17:23:00.088000 - Error: Could not read the FPGA
+2025-03-24 17:23:00.119424 - Waveform sent
+2025-03-24 17:23:00.119424 - Error: FPGA not ready
+2025-03-24 17:23:00.119424 - Error: Could not read the FPGA
+2025-03-24 17:23:00.151232 - Waveform sent
+2025-03-24 17:23:00.151232 - Error: FPGA not ready
+2025-03-24 17:23:00.151232 - Error: Could not read the FPGA
+2025-03-24 17:23:00.181968 - Waveform sent
+2025-03-24 17:23:00.181968 - Error: FPGA not ready
+2025-03-24 17:23:00.181968 - Error: Could not read the FPGA
+2025-03-24 17:23:00.214202 - Waveform sent
+2025-03-24 17:23:00.214202 - Error: FPGA not ready
+2025-03-24 17:23:00.214202 - Error: Could not read the FPGA
+2025-03-24 17:23:00.245390 - Waveform sent
+2025-03-24 17:23:00.248294 - Error: FPGA not ready
+2025-03-24 17:23:00.248294 - Error: Could not read the FPGA
+2025-03-24 17:23:00.279840 - Waveform sent
+2025-03-24 17:23:00.279840 - Error: FPGA not ready
+2025-03-24 17:23:00.279840 - Error: Could not read the FPGA
+2025-03-24 17:23:00.310937 - Waveform sent
+2025-03-24 17:23:00.310937 - Error: FPGA not ready
+2025-03-24 17:23:00.310937 - Error: Could not read the FPGA
+2025-03-24 17:23:00.342184 - Waveform sent
+2025-03-24 17:23:00.342184 - Error: FPGA not ready
+2025-03-24 17:23:00.342184 - Error: Could not read the FPGA
+2025-03-24 17:23:00.373547 - Waveform sent
+2025-03-24 17:23:00.373547 - Error: FPGA not ready
+2025-03-24 17:23:00.373547 - Error: Could not read the FPGA
+2025-03-24 17:23:00.404288 - Waveform sent
+2025-03-24 17:23:00.405290 - Error: FPGA not ready
+2025-03-24 17:23:00.405290 - Error: Could not read the FPGA
+2025-03-24 17:23:00.436281 - Waveform sent
+2025-03-24 17:23:00.436281 - Error: FPGA not ready
+2025-03-24 17:23:00.436281 - Error: Could not read the FPGA
+2025-03-24 17:23:00.467803 - Waveform sent
+2025-03-24 17:23:00.467803 - Error: FPGA not ready
+2025-03-24 17:23:00.467803 - Error: Could not read the FPGA
+2025-03-24 17:23:00.498989 - Waveform sent
+2025-03-24 17:23:00.498989 - Error: FPGA not ready
+2025-03-24 17:23:00.498989 - Error: Could not read the FPGA
+2025-03-24 17:23:00.530094 - Waveform sent
+2025-03-24 17:23:00.530094 - Error: FPGA not ready
+2025-03-24 17:23:00.530094 - Error: Could not read the FPGA
+2025-03-24 17:23:00.562002 - Waveform sent
+2025-03-24 17:23:00.562002 - Error: FPGA not ready
+2025-03-24 17:23:00.562002 - Error: Could not read the FPGA
+2025-03-24 17:23:00.592542 - Waveform sent
+2025-03-24 17:23:00.593536 - Error: FPGA not ready
+2025-03-24 17:23:00.593536 - Error: Could not read the FPGA
+2025-03-24 17:23:00.624836 - Waveform sent
+2025-03-24 17:23:00.624836 - Error: FPGA not ready
+2025-03-24 17:23:00.624836 - Error: Could not read the FPGA
+2025-03-24 17:23:00.655809 - Waveform sent
+2025-03-24 17:23:00.655809 - Error: FPGA not ready
+2025-03-24 17:23:00.655809 - Error: Could not read the FPGA
+2025-03-24 17:23:00.687419 - Waveform sent
+2025-03-24 17:23:00.687419 - Error: FPGA not ready
+2025-03-24 17:23:00.687419 - Error: Could not read the FPGA
+2025-03-24 17:23:00.718811 - Waveform sent
+2025-03-24 17:23:00.718811 - Error: FPGA not ready
+2025-03-24 17:23:00.718811 - Error: Could not read the FPGA
+2025-03-24 17:23:00.752549 - Waveform sent
+2025-03-24 17:23:00.752549 - Error: FPGA not ready
+2025-03-24 17:23:00.752549 - Error: Could not read the FPGA
+2025-03-24 17:23:00.783567 - Waveform sent
+2025-03-24 17:23:00.783567 - Error: FPGA not ready
+2025-03-24 17:23:00.783567 - Error: Could not read the FPGA
+2025-03-24 17:23:00.815466 - Waveform sent
+2025-03-24 17:23:00.815466 - Error: FPGA not ready
+2025-03-24 17:23:00.815466 - Error: Could not read the FPGA
+2025-03-24 17:23:00.846300 - Waveform sent
+2025-03-24 17:23:00.846300 - Error: FPGA not ready
+2025-03-24 17:23:00.846300 - Error: Could not read the FPGA
+2025-03-24 17:23:00.877914 - Waveform sent
+2025-03-24 17:23:00.877914 - Error: FPGA not ready
+2025-03-24 17:23:00.878788 - Error: Could not read the FPGA
+2025-03-24 17:23:00.909457 - Waveform sent
+2025-03-24 17:23:00.909457 - Error: FPGA not ready
+2025-03-24 17:23:00.909457 - Error: Could not read the FPGA
+2025-03-24 17:23:00.941874 - Waveform sent
+2025-03-24 17:23:00.941874 - Error: FPGA not ready
+2025-03-24 17:23:00.941874 - Error: Could not read the FPGA
+2025-03-24 17:23:00.973529 - Waveform sent
+2025-03-24 17:23:00.973529 - Error: FPGA not ready
+2025-03-24 17:23:00.973529 - Error: Could not read the FPGA
+2025-03-24 17:23:01.004544 - Waveform sent
+2025-03-24 17:23:01.004544 - Error: FPGA not ready
+2025-03-24 17:23:01.004544 - Error: Could not read the FPGA
+2025-03-24 17:23:01.035771 - Waveform sent
+2025-03-24 17:23:01.035771 - Error: FPGA not ready
+2025-03-24 17:23:01.035771 - Error: Could not read the FPGA
+2025-03-24 17:23:01.067299 - Waveform sent
+2025-03-24 17:23:01.067299 - Error: FPGA not ready
+2025-03-24 17:23:01.067299 - Error: Could not read the FPGA
+2025-03-24 17:23:01.098909 - Waveform sent
+2025-03-24 17:23:01.098909 - Error: FPGA not ready
+2025-03-24 17:23:01.098909 - Error: Could not read the FPGA
+2025-03-24 17:23:01.130654 - Waveform sent
+2025-03-24 17:23:01.130654 - Error: FPGA not ready
+2025-03-24 17:23:01.130654 - Error: Could not read the FPGA
+2025-03-24 17:23:01.162009 - Waveform sent
+2025-03-24 17:23:01.162009 - Error: FPGA not ready
+2025-03-24 17:23:01.162009 - Error: Could not read the FPGA
+2025-03-24 17:23:01.192514 - Waveform sent
+2025-03-24 17:23:01.193524 - Error: FPGA not ready
+2025-03-24 17:23:01.193524 - Error: Could not read the FPGA
+2025-03-24 17:23:01.224598 - Waveform sent
+2025-03-24 17:23:01.224598 - Error: FPGA not ready
+2025-03-24 17:23:01.224598 - Error: Could not read the FPGA
+2025-03-24 17:23:01.256166 - Waveform sent
+2025-03-24 17:23:01.257165 - Error: FPGA not ready
+2025-03-24 17:23:01.257165 - Error: Could not read the FPGA
+2025-03-24 17:23:01.288301 - Waveform sent
+2025-03-24 17:23:01.288301 - Error: FPGA not ready
+2025-03-24 17:23:01.288301 - Error: Could not read the FPGA
+2025-03-24 17:23:01.374459 - Waveform sent
+2025-03-24 17:23:01.374459 - Error: FPGA not ready
+2025-03-24 17:23:01.374459 - Error: Could not read the FPGA
+2025-03-24 17:23:01.443404 - Waveform sent
+2025-03-24 17:23:01.444419 - Error: FPGA not ready
+2025-03-24 17:23:01.444419 - Error: Could not read the FPGA
+2025-03-24 17:23:01.475358 - Waveform sent
+2025-03-24 17:23:01.475358 - Error: FPGA not ready
+2025-03-24 17:23:01.475358 - Error: Could not read the FPGA
