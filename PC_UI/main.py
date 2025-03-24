@@ -12,9 +12,9 @@ NONCE   = bytes.fromhex("4ED0EC0B98C529B7C8CDDF37BCD0284A")
 DA      = b"A to B"
 
 # Variable globale pour choisir le nombre d'ECGs affichés
-NUM_ECGS_DISPLAYED = 5
+NUM_ECGS_DISPLAYED = 10
 # Variable globale pour choisir le nombre d'ECGs utilisés pour le calcul du BPM
-NUM_ECGS_FOR_BPM = 10
+NUM_ECGS_FOR_BPM = 20
 
 class PlotWindow(QMainWindow):
     def __init__(self, waves, parent=None):
@@ -23,8 +23,8 @@ class PlotWindow(QMainWindow):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle('Waveform Plotter')
-        self.setGeometry(100, 100, 800, 600)
+        self.setWindowTitle('ECG Plotter')
+        self.setGeometry(0, 0, 1500, 400)
         
         self.main_widget = QWidget(self)
         self.setCentralWidget(self.main_widget)
@@ -38,7 +38,7 @@ class PlotWindow(QMainWindow):
         self.plot_widget.showGrid(x=True, y=True)
         
         self.curve_decrypted = self.plot_widget.plot(pen='g', name='Decrypted')
-        self.curve_filtered = self.plot_widget.plot(pen='b', name='Filtered')
+        self.curve_filtered = self.plot_widget.plot(pen='w', name='Filtered')
         self.curve_peaks = self.plot_widget.plot(pen=None, symbol='o', symbolBrush='r', name='R-peaks')
         
         self.ptr_wave = 0
@@ -53,7 +53,7 @@ class PlotWindow(QMainWindow):
         
         self.timer = QtCore.QTimer()
         self.timer.timeout.connect(self.update_plot)
-        self.timer.start(10)  # Affichage fluide
+        self.timer.start(1)  # Affichage fluide
 
         # Timer BPM
         self.bpm_timer = QtCore.QTimer()
@@ -90,7 +90,7 @@ class PlotWindow(QMainWindow):
             self.plot_widget.setXRange(start, end)
 
     def detect_peaks_and_bpm(self):
-        MIN_LENGTH = 5000  # Minimum pour éviter les erreurs avec le filtre
+        MIN_LENGTH = 3000  # Minimum pour éviter les erreurs avec le filtre
         if len(self.decrypted_data) < MIN_LENGTH:
             self.setWindowTitle('Waveform Plotter - BPM: --')
             return
